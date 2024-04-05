@@ -36,13 +36,13 @@ class GeneratorModel:
         
         input = f"""\n\nHuman: {prompt}
     
-                        <document section>{text}</document section>
+                        <article>{text}</article>
                         
                         Assistant:"""
         
         try:
             completion = self.get_completion(input)
-            
+            # self.log.info(f"PREDICTION: {completion}")
             return completion
         except Exception as e:
             self.log.error(f"Error generating Prediction: {e}")

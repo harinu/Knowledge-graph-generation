@@ -4,7 +4,7 @@ from helper import Helper
 
 
 class Document():
-    def __init__(self, chunk_size=30000, chunk_overlap=300):
+    def __init__(self, chunk_size=10000, chunk_overlap=300):
         hlp = Helper()
         self.log = hlp.get_logger()
         self.text_splitter = RecursiveCharacterTextSplitter(separators=[".\n"], 
