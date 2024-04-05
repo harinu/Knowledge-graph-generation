@@ -42,8 +42,9 @@ class GenerateData:
     def generate_training_data(self, directory):
         for file in self.get_txt_files(directory):
             data = self.read_data(f"{directory}/{file}")
-            predictions = self.generate_predictions(data, whatfor = 'process')
-            self.log.info(predictions)
+            self.log.info(f"Data: {data}")
+            # predictions = self.generate_predictions(data, whatfor = 'process')
+            # self.log.info(predictions)
 
 
 if __name__ == '__main__':
