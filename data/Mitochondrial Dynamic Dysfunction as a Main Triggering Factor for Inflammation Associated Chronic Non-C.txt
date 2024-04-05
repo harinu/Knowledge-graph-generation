@@ -1,0 +1,1257 @@
+Journal of Inflammation Research
+
+ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/djir20
+
+Mitochondrial Dynamic Dysfunction as a Main
+Triggering Factor for Inflammation Associated
+Chronic Non-Communicable Diseases
+
+Zeleke Geto, Meseret Derbew Molla, Feyissa Challa, Yohannes Belay & Tigist
+Getahun
+
+To cite this article: Zeleke Geto, Meseret Derbew Molla, Feyissa Challa, Yohannes Belay &
+Tigist Getahun (2020) Mitochondrial Dynamic Dysfunction as a Main Triggering Factor for
+Inflammation Associated Chronic Non-Communicable Diseases, Journal of Inflammation
+Research, , 97-107, DOI: 10.2147/JIR.S232009
+
+To link to this article:  https://doi.org/10.2147/JIR.S232009
+
+© 2020 Geto et al.
+
+Published online: 14 Feb 2020.
+
+Submit your article to this journal 
+
+Article views: 291
+
+View related articles 
+
+View Crossmark data
+
+Citing articles: 27 View citing articles 
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=djir20
+
+Journal of Inﬂammation Research
+
+Open Access Full Text Article
+
+Dovepress
+
+open access to scientiﬁc and medical research
+
+R E V I E W
+
+Mitochondrial Dynamic Dysfunction as a Main
+Triggering Factor for Inﬂammation Associated
+Chronic Non-Communicable Diseases
+
+This article was published in the following Dove Press journal:
+Journal of Inﬂammation Research
+
+Zeleke Geto 1
+Meseret Derbew Molla2
+Feyissa Challa
+Yohannes Belay3
+Tigist Getahun
+
+1
+
+1
+
+1National Reference Laboratory for
+Clinical Chemistry, Ethiopian Public
+Health Institute, Addis Ababa, Ethiopia;
+2Department of Biochemistry, School of
+Medicine, College of Medicine and Health
+Sciences, University of Gondar, Gondar,
+Ethiopia; 3National Reference Laboratory
+for Hematology and Immunology,
+Ethiopian Public Health Institute, Addis
+Ababa, Ethiopia
+
+Correspondence: Zeleke Geto
+Email zegetdm@gmail.com
+
+submit your manuscript | www.dovepress.com
+
+DovePress
+
+http://doi.org/10.2147/JIR.S232009
+
+Abstract: Mitochondria are organelles with highly dynamic ultrastructure maintained by
+ﬂexible fusion and ﬁssion rates governed by Guanosine Triphosphatases (GTPases)
+is crucial for
+dependent proteins. Balanced control of mitochondrial quality control
+maintaining cellular energy and metabolic homeostasis; however, dysfunction of the
+dynamics of fusion and ﬁssion causes loss of integrity and functions with the accumula-
+tion of damaged mitochondria and mitochondrial deoxyribose nucleic acid (mtDNA) that
+can halt energy production and induce oxidative stress. Mitochondrial derived reactive
+oxygen species (ROS) can mediate redox signaling or, in excess, causing activation of
+inﬂammatory proteins and further exacerbate mitochondrial deterioration and oxidative
+stress. ROS have a deleterious effect on many cellular components, including lipids,
+proteins, both nuclear and mtDNA and cell membrane lipids producing the net result of
+the accumulation of damage associated molecular pattern (DAMPs) capable of activating
+pathogen recognition receptors (PRRs) on the surface and in the cytoplasm of immune
+cells. Chronic inﬂammation due to oxidative damage is thought to trigger numerous
+chronic diseases including cardiac, liver and kidney disorders, neurodegenerative diseases
+(Parkinson’s disease and Alzheimer’s disease), cardiovascular diseases/atherosclerosis,
+obesity, insulin resistance, and type 2 diabetes mellitus.
+Keywords: mitochondria, dynamics, inﬂammation, non-communicable diseases
+
+Introduction
+Mitochondria are one of the cell organelles that are characterized as round, bean-like,
+seen as an oval shape under the electron microscope.1 They contain a dynamic
+branched network that constantly fuses and divide under the control of speciﬁc fusion
+and ﬁssion machinery2 which is consistent with the endosymbiotic theory of bacterial
+ancestor evolution.3 By nature, mitochondria are a highly ﬂexible ultrastructure orga-
+nelle designed to regulate the bioenergetics ﬂux of key molecular elements.2,4
+Mitochondrial proteomics depict that around 1200 proteins are encoded in the nuclear
+genome with only 13 of them being coded in the maternally inherited mitochondrial
+genome.5 The overall dynamic nature of mitochondria is governed by Guanosine
+Triphosphatases (GTPases) dependent antagonist activities called fusion and ﬁssion.
+Bidirectional crosstalk between mitochondria and the nucleus is strictly controlled by
+different signaling pathways and with the dynamic fusion and ﬁssion nature of
+mitochondria.6 Fusion proteins can be found in outer membrane mitofusins (Mfn1 &
+Mfn2) and inner membrane optic atrophy 1 (Opa 1). Fission proteins (Dynamin related
+
+Journal of Inﬂammation Research 2020:13 97–107
+
+97
+© 2020 Geto et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms.php
+and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing the work
+you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For
+permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+
+Geto et al
+
+Dovepress
+
+protein 1 (Drp1)) with other proteins mediate the mitochon-
+drial ultrastructure process.7,8 So, balanced control of mito-
+chondrial dynamics is very important which, if not balanced,
+can lead to mitochondrial dysfunction. Mitochondrial dys-
+function is a condition characterized by loss of membrane
+potential to decrease Adenosine Triphosphate (ATP) produc-
+tion, decrease respiration or oxidative phosphorylation lead-
+ing to a metabolic shift to the glycolysis dependent ATP
+generation that
+takes place outside mitochondria which
+increases the formation of mitochondrial reactive oxygen
+species (ROS).4,9,10 Uncontrolled production of ROS can
+further damage/distract the mitochondrial membrane and its
+major constitutes like DNA, lipids, and proteins.11 These
+fragments can initiate mitophagy to promote cell survival
+or can induce the initiation of the intrinsic pathway of
+apoptosis.12,13 Initially, this condition can be regulated by
+mitochondrial fusion/ﬁssion activities. Fusion delays the
+onset of apoptosis by inhibiting mitochondrial fragmentation
+while ﬁssion has a positive role in apoptosis.14,15 However,
+the failure of such quality control can contribute to the
+development of degenerative diseases like type 2 diabetes,
+cancer, cardiovascular disorders, neuropathies such as
+Parkinson’s and Alzheimer’s disease and age-related
+disorders.12,16–20 Mitochondrial dysfunctions play a central
+role in chronic inﬂammation through activation of signaling
+pathways, including mitochondrial calcium handling ROS
+production and activation of nuclear factor kappa B (NF-
+kB).21 Damaged mitochondria and degraded mtDNA pro-
+duce an accumulation of Danger Associated Molecular
+Patterns (DAMPs) which can bind and activate membrane
+or cytoplasmic pathogen recognition receptors (PRRs) to
+stimulate inﬂammatory responses.22,23 Mitochondrial quality
+control failure with the downregulation of mitophagy results
+in spontaneous inﬂammasomes activation as a consequence
+of mitochondrial ROS burst.24 Oxidative stress due to ROS
+burst also damages endothelial cells, which are recognized
+factors for atherosclerosis; decreased nitric oxide (NO)
+synthesis contributes to hypertension, upregulates the secre-
+tion of adhesion molecules and inﬂammatory cytokines, and
+is responsible for the oxidation of low-density lipoproteins.25
+Muscle cell mitochondrial dysfunctions lead to a reduction in
+fatty acid oxidation and inhibition of glucose transport,
+which is an indication of insulin resistance, and further
+results in obesity.26 Obesity increases the likelihood of var-
+ious diseases, particularly atheromatous heart disease, type 2
+diabetes, breathing difﬁculties during sleep, certain types
+of cancer, osteoarthritis and chronic periodontitis.27,28
+However, the exact molecular mechanism of mitochondrial
+
+dysfunction and its association with this chronic non-
+communicable disease is not fully addressed. Therefore,
+this review aims to describe mitochondrial dynamic dysfunc-
+tions as the main determinant factors for inﬂammatory-
+related non-communicable diseases.
+
+Mitochondrial Dynamics and
+Functions
+to life. They generate Adenosine
+Mitochondria are vital
+Triphosphate (ATP) by the breakdown of fuels (i.e., glucose,
+amino acids, and fatty acids) through a series of redox reac-
+tions performed by a set of ﬁve electron transport chain (ETC)
+enzyme complexes of the mammalian OXPHOS system.29,30
+To control the required maintenance of mitochondrial mor-
+phology in a dynamic environment, mitochondria continu-
+ously undergo tightly regulated and opposite remodeling
+process called fusion and ﬁssion activities.31–33 Fusion and
+ﬁssion activity of the mitochondria is regulated by the coordi-
+nated action of the series well-conserved GTPases proteins.
+These are mitofusins(Mfn1 & Mfn2) transmembrane GTPases
+embedded in the mitochondrial outer membrane, Optic atro-
+phy1 (OPA) is a dynamin-related GTPases associated with the
+mitochondrial inner membrane or intermembrane space.34–36
+Proper balance of the antagonist activities of fusion and ﬁssion
+is crucial for fundamental mitochondrial integrity and func-
+tioning including energy metabolism, ROS generation, and
+apoptosis regulation.35,37 Fission promotes the removal of
+damaged mitochondria by mitophagy to maintain proper
+assembly of electron transport chain complexes. This can
+allow mitochondria to exchange lipid membranes, and intra-
+mitochondrial contents while fusion escapes autophagy-
+mediated destruction to maintain proper mitochondrial
+ultrastructure and elongation (Figure 1).23,35,38 Fusion allows
+for mitochondrial interconnection, favoring mtDNA mixing,
+signal transmission and exchange of metabolites with in-
+network. On the other hand, ﬁssion ensures equal organelle
+segregation between daughter cells and target defective mito-
+chondria for their subsequent removal through mitophagy.39,40
+The dynamic process controls mitochondrial morphology,
+biogenesis, transportation and localization, quality control
+and degradation, and apoptotic cell deaths.35,41,42
+
+Mitochondria are integral to normal cellular function as
+they are responsible for energy production through oxidative
+phosphorylation; they synthesize key molecules including the
+phospholipids and Heme, calcium homeostasis, apoptotic acti-
+vation, and cell death.43–45 Mitochondria have a unique feature
+of semi-autonomous in which exactly 13 proteins used in ATP
+
+98
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+Journal of Inﬂammation Research 2020:13
+
+Dovepress
+
+Geto et al
+
+Figure 1 Schematic representation of the regulation and coordination of mitochondrial dynamics.
+Notes: The coordination of
+involving mitofusins (Mfn) 1 and 2, optic atrophy protein 1 (OPA1), dynamin-related protein 1 (Drp1).
+Mitochondrial fusion, by interconnecting organelles, promotes mtDNA mixing and enhances bioenergetics efﬁciency while ﬁssion removes damaged mitochondria via
+mitophagy. Reproduced from Picca A, Lezza AMS, Leeuwenburgh C, et al. Fueling inﬂamm-aging through mitochondrial dysfunction: mechanisms and molecular targets. Int J
+Mol Sci. 2017;18(5):933.23
+
+fusion and ﬁssion machinery,
+
+production through oxidative phosphorylation are coded by its
+mtDNA. The remaining 1200–1500 mitochondrial proteins
+are nuclear gene products that are imported into the
+organelle.5,46,47 The maintenance of mtDNA is important for
+normal and efﬁcient functioning as it codes proteins for oxi-
+dative phosphorylation of ATP production from oxidation of
+sugar, fats, and proteins, as well as tRNAs and ribosomal
+RNAs that are needed for their translation in the mitochondrial
+matrix.48 As the principal functions of mitochondria are to
+synthesize ATP from the oxidation of sugar, fat, and proteins
+through the process of OXPHOS via endosymbiotic principle.
+Electrons from reduced equivalents are transported along the
+respiratory chain protein complex to generate electrochemical
+proton gradient or membrane potential (ΔΨm) across the inner
+mitochondrial membrane producing ATP.10,27,48 Under normal
+conditions, 1–2% of electrons can leak from electron transport
+chain and reduced to superoxide radical there by producing
+reactive oxygen species (ROS), which will be detoxiﬁed by
+the action of antioxidant enzymes such as superoxide dismu-
+tase, catalase, and glutathione peroxidase.49,50 However, when
+the production of ROS overrides the capability of antioxidants,
+
+oxidative stress will damage cellular macromolecules (i.e.
+DNA, lipids and proteins). This is linked to multiple patholo-
+gical conditions such as: neurodegenerative diseases; diabetes;
+cancer; and premature aging.29,51 The damaged mitochondria
+with cellular stress are removed by selective mitochondrial
+autophagy called mitophagy otherwise damaged mitochondria
+accumulated and induce mitochondrion mediated cell death.52
+Fusion and ﬁssion regulate mitochondrial damage and repair
+antagonistically; fusion enriches damaged mitochondria with
+normal genome and proteins to escape mitochondria from
+damage while ﬁssion, in contrast, destined damaged mito-
+chondria for destruction by mitophagy.31,53,54 Alteration of
+normal mitochondrial function results in signaling distur-
+bance, energy-dependent disturbance, and genetic defects of
+the mitochondrial genome.
+
+Mitochondrial Dysfunction and
+Inﬂammation
+Imbalanced activities of fusion and opposite ﬁssion lead to
+mitochondrial dysfunction. These further results in; mitochon-
+loss of oxidative phosphorylation
+drial
+
+fragmentation,
+
+Journal of Inﬂammation Research 2020:13
+
+submit your manuscript | www.dovepress.com
+
+DovePress
+
+99
+
+Geto et al
+
+Dovepress
+
+(OXPHOS), mtDNA depletion and ROS production. These
+are associated with metabolic dysfunction or disease.55 The
+to remove
+impairment of mitochondrial quality control
+damaged and dysfunctional mitochondria leads to the accu-
+mulation of damage associated with membrane patterns
+(DAMPs) released from injured cells, cell-free mtDNA,
+N-formyl peptides and Cardiolipin.56 Mitochondrial DAMPs
+can bind and activate membrane or cytosolic pathogen recog-
+nition receptors (PRRs) such as toll-like receptors (TLR), nod
+like receptors (NLRs), like those recognized by pathogen-
+associated molecular pattern (PAMPs).57 Thus, it activates
+different early-phase inﬂammatory mediators like tumor
+necrosis factor α (TNF-α), interleukins, interferon-gamma
+(IFN-γ) and ROS/RNS.23 These coexistences of cellular
+responses to danger of oxidative stress and accumulation of
+inﬂammation.23
+mitochondrial DNA leads
+to chronic
+respiratory chain, NADPH oxidases, and
+Mitochondrial
+5-lipoxygenase are the major cellular sources of ROS
+production.58 The byproducts of oxidative stress: ROS; and
+RNS can also further generated because of inﬂammatory cell
+activity.59,60 Surprisingly, oxidative stress activates several
+transcription factors (NF-kB and activated protein 1) leading
+to the production and activation of pro-inﬂammatory cyto-
+kines, chemokines, and lymphocytes which in turn leads to
+the production of more ROS and RNS, principally in the form
+of superoxide, nitric oxide (NO), and peroxynitrite.61–63 This
+self-amplifying and the self-
+complicated bidirectional
+sustaining relationship between the development of chronic
+oxidative stress and chronic systemic inﬂammations outcomes
+to modiﬁcation of DNA, tertiary protein structure, and lipid
+peroxidation of the cell membrane. This further results in a net
+accumulation of DAMPs that can further exacerbate the
+conditions.64–66 Thus, in turn, it will have a deleterious effect
+of damaging mitochondria synergistically leading to the deple-
+tion of ATP production and promoting a switch to anaerobic
+glycolysis.67 Therefore, mitochondrial dysfunction with ﬁs-
+sion upregulation prevents the elimination of damaged mito-
+chondria producing ROS and RNS that exceed the antioxidant
+activity is likely initiating factors in inﬂammation, aging, and
+age-related diseases (Figure 2).44
+
+Mitochondrial Dysfunction and
+Signaling Pathway in Inﬂammation
+Mitochondria are multifunctional organelles that contain
+different proteins used for biosynthesis, metabolism and
+cell death or survival functions.68 The vast majority of
+proteins are encoded in the nucleus and imported to
+
+mitochondria after translated. Translated proteins were
+shared with end-to-end collision fashion of mitochondrial
+fusion movement along the cytoskeleton.2,34 Each fusion
+movement of mitochondria is mediated by outer mem-
+brane proteins Mfn 1 and 2 and inner membrane with
+OPA1 catalyzed by dedicated GTPases.69–71 Since this
+continuous fusion of individual mitochondria may produce
+abnormally elongated mitochondria
+that were non-
+functional, an opposing process called ﬁssion becomes
+available.32 The ﬁssion process prevents abnormal elonga-
+tion of mitochondria by splitting a single mitochondrion
+into two separate organelles.72 If the balance favors ﬁs-
+sion, mitochondria become fragmented, small spherical
+organelle while if fusion is favored, elongated and banded
+together mitochondria will be formed.35 Mitochondrial
+dynamics imbalance affects energy production, apoptosis,
+mitophagy, mitochondrial movement, mtDNA stability
+and the tolerance of cells to mtDNA mutations.73–75 The
+abnormalities of dynamics dysfunction and bidirectional
+signaling pathway between mitochondria and nucleus are
+exposed to, constantly alter physiological, environmental
+and pathological stimuli.2,6 As the center for many cellular
+functions, especially in energy supply with oxidative meta-
+bolism, maintaining mitochondrial quality control is cru-
+cial for tissue homeostasis.23,39 Mitochondrial dysfunction
+with the release of ROS and mitochondrial-derived
+DAMPs contribute to initiating an inﬂammatory response
+by invoking pro-inﬂammatory cytokines that interact with
+receptors like those involved in the pathogen-associated
+response.76 Mitochondria play a central role in sterile
+inﬂammation through the activation of several pathways.21
+
+Mitochondrial Ca2+ Handling and
+ROS Derived Inﬂammation
+Mitochondrial energy generation in the inner membrane
+through the electron transport chain by using oxygen as an
+electron acceptor is the major source of ROS generation.77
+ROS are produced by one-electron transfer from redox donor
+NADH and FADH2 to molecular oxygen in mitochondrial
+ETC especially from complex I and complex III.78 A redox-
+sensitive inﬂammatory signaling pathway engages mitochon-
+drial calcium handling, ROS production, and nuclear factor κB
+(NF-κB) activation.79 The activation of NF-kB provokes the
+transcription of pro-inﬂammatory cytokines such as TNF-α,
+IL1, IL6, and IL8.77 Under calcium overloads, such as burn
+injury or sepsis, the electron transport chain (ETC) becomes
+dysfunctional and elevated ROS generation occurs. Such
+
+100
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+Journal of Inﬂammation Research 2020:13
+
+Dovepress
+
+Geto et al
+
+Figure 2 Proposed signaling pathways through which damaged-associated molecular patterns (DAMPs) can trigger inﬂammation.
+Notes: The impairment of the mitochondrial quality control process may lead to an accumulation of intracellular oxidized components and their release as DAMPs.
+Damaged mtDNA molecules, either TFAM-bound (green circles) or unbound (red circles) may be released as DAMPs. These, in turn, can activate an inﬂammatory response
+via three distinct signaling pathways by interacting with by interacting with 1) Toll-like receptors (TLRs), 2) nucleotide-binding oligomerization domain (NOD)-like receptor
+family pyrin domain containing 3 (NLRP3) inﬂammasome, and 3) cytosolic cyclic GMP-AMP synthase (cGAS)-stimulator of interferon genes (STING) DNA-sensing system.
+Reproduced from Picca A, Lezza AMS, Leeuwenburgh C, et al. Fueling inﬂamm-aging through mitochondrial dysfunction: mechanisms and molecular targets. Int J Mol Sci.
+2017;18(5):933.23
+Abbreviations: IFN, interferon; IL, interleukin; IRF-1, interferon regulatory factor 1; mtDNA, mitochondrial DNA; NF-kB, nuclear factor-kB; ROS, reactive oxygen species;
+TBK1, TANK-binding kinase 1; TNF-α, tumor necrosis factor-alpha.
+
+a ROS burst represents a major pro-inﬂammatory stimulus
+through the modulation of the expression and activity of
+NF-κB (Figure 2).23,77 Antioxidants produced by speciﬁc
+nitric oxide synthase in the biological system eliminate ROS
+that results in overwhelming the cellular repair system.80
+
+Imbalance of two opposite and antagonist forces, production
+of ROS and antioxidants called oxidative stress are damaging
+to mitochondrial cellular components like DNA, protein, lipids
+and other molecules. Oxidative stress in cellular milieu causes
+mitochondrial dysfunction and accumulation of damaged
+
+Journal of Inﬂammation Research 2020:13
+
+submit your manuscript | www.dovepress.com
+
+DovePress
+
+101
+
+Geto et al
+
+Dovepress
+
+products which are recognized by pattern recognition recep-
+tors initiating sterile inﬂammations.81 The coexistence of oxi-
+dative stress and mitochondrial dysfunction giving a role for
+the accumulation of DAMPs which proposed to initiate sterile
+inﬂammation.23
+
+Mitochondrial- DAMPs Derived
+Inﬂammation
+Due to the “bacterial ancestor” theory of mitochondria, the
+releasing of contents due to damage or dysfunction to
+cytoplasm provokes an immunological response. In addi-
+tion to mitochondrial dysfunction with oxidative stress,
+several conditions characterized by an inﬂammatory
+response (e.g., trauma, HIV, cancer) are associated with
+increased levels of circulating mitochondrial DAMPs.
+induce caspase-1 activation and the
+DAMPs,
+release of pro-inﬂammatory cytokines like IL1B and
+IL18 which ﬁnally leads to sterile inﬂammation.58 In par-
+ticular, mitochondrial DNA activates different inﬂamma-
+tory responses through different receptors, (Figure 2)
+triggering transcription and translation of inﬂammatory
+cytokines. Uncontrolled and excessive release of mito-
+chondrial DAMPs associated with severity and contributes
+to the dysregulated process observed in numerous inﬂam-
+matory and autoimmune conditions.44
+
+in turn,
+
+Mitochondrial Dysfunctions
+Associated Non-Communicable
+Diseases
+(NCDs) are increasingly
+Non-communicable diseases
+becoming the leading public causes of morbidity and mor-
+tality globally.82 The leading NCDs encompass a cluster of
+illness including cardiovascular diseases (CVDs), diabetes
+mellitus type 2, chronic obstructive lung disease, and
+cancer. These NCDs have common and key modiﬁable
+behavioral risk factors like unhealthy diet, lack of physical
+activity, the harmful use of alcohol, tobacco use and which
+in turn leads to overweight and obesity, raised blood
+pressure, and raised cholesterol, and ultimately disease.83
+Cardiovascular diseases accounted for most NCD deaths
+(17.5 million NCD deaths), followed by cancers (8.2mil-
+lion NCD deaths), respiratory diseases (4.0 million NCD
+deaths) and diabetes mellitus (1.5million NCD deaths).84
+Globally, CVDs being the largest contributor to global
+mortality, accounting for nearly half of 36 million annual
+NCDs deaths and produces immense health and economic
+burdens.85
+
+A common feature of all NCDs is excessive fatigue which
+results from mitochondrial function impairment; the crucial
+organelle responsible for cellular energy production.86 As
+stated above, defects in mitochondrial gene results mutation
+of proteins that involve mitochondrial dynamic activities then
+proceed to its physiological activity impairment.34,35 The
+mitochondrial genome is susceptible to oxidative damage as
+a result of its residence close to the electron transport system,
+mtDNA lacks histone protein (protects from damage), and
+repair mechanism rather it Induces to apoptosis once it
+becomes damaged.87,88 Thus, lack of repair mechanism of
+damaged mtDNA means cells cannot copy mtDNA accurately
+resulting in errors of transcription, deletions and mutations and
+also oxidation from ROS results in a series of cellular abuse;
+loss of membranes integrity, diminishing proton gradient caus-
+ing less ATP production, unfolding and loss of cellular protein
+afﬁnity for their respective enzymes, and releasing cyto-
+chromes C into the cytosol stimulating apoptosis, all in
+a continuous feed-forward cycle of cellular, tissue and organ
+dysfunction to cause chronic diseases.87 Additionally, high
+ROS concentration permits histone acetylation to predomi-
+nate, which accelerates faulty nuclear transcription and thus
+replication. This initiates the release of NF-kB into the nucleus
+(a signiﬁcant pro-inﬂammatory cytokine which also damages
+nDNA). Simultaneously, cell differentiation and apoptosis
+signals are silenced with histone acetylation, eventually result-
+ing in over-replication favoring tumorigenesis.89,90 As the
+mitochondrial inner membrane is the main site of electron
+transport chain, dwelling different enzymes and proteins
+which are also becomes the main source of oxidative stress.
+Enzymes and proteins (i.e. cytochrome c), and low-molecular-
+weight redox intermediates (i.e. coenzymes such as ubiqui-
+none or coenzyme Q) that transport reducing equivalents, in
+the form of hydrogen atoms or just their electrons, down the
+redox potential from respiratory substrates to oxygen: an
+oxidative pathway composed of four multiple-subunit com-
+plexes in the mitochondria which leaks 0.2–2% electrons to
+molecular oxygen producing super oxide or hydrogen
+peroxide.27 These enzymes and proteins are the primary tar-
+gets of oxidative stress products like ROS and RNS, and it is
+not surprising that disruption of function and structure of
+mitochondria are now thought to trigger numerous diseases,
+including cardiac, liver and kidney disorders, and neurodegen-
+erative diseases (e.g. Parkinson’s disease and Alzheimer’s
+disease), aging processes and multiple organ failure in septic
+shock. Cardiovascular disease/atherosclerosis, obesity and
+type 2 diabetes are closely associated with chronic inﬂamma-
+tion characterized by abnormal cytokine production, increased
+
+102
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+Journal of Inﬂammation Research 2020:13
+
+Dovepress
+
+Geto et al
+
+levels of acute-phase reactants and activation of a network of
+inﬂammatory signaling pathways.91 Mitochondrial dysfunc-
+tion because of unbalanced fusion and ﬁssion, genetic defects
+of mtDNA or oxidative damage with ROS and RNS can
+impair energy metabolism, the central alteration in obesity.8
+Cells can manage nutrient supply by increasing mitochondrial
+contents. However, persistent nutrient leftover devastates the
+mitochondrial system and causes its dysfunction leading to the
+accumulation of incompletely oxidized lipid products to cause
+fat accumulation and oxidative stress which damage endothe-
+lial cells.92,93 Obesity is key in the development of major non-
+communicable diseases (NCDs) including diabetes mellitus,
+hypertension, metabolic syndrome, non-alcoholic fatty liver
+disease, cardiovascular disease and several classes of cancer
+including colorectal,
+liver, breast, pancreatic endometrial,
+lymphoma and myoma.8,27 Dysfunctional
+renal, prostate,
+mitochondria create a vicious cycle of
+impaired beta-
+oxidation giving rise to the production of ceramides, free
+radicals and inﬂammatory cytokines which damages the mito-
+chondrial membrane (as shown in Figure 3) and DNA further
+
+jeopardizes mitochondrial respiratory capacity.94 Oxygen-free
+radicals may themselves initiate a chronic inﬂammatory pro-
+cess in which the pathology is characteristics of obesity and
+linked to insulin resistance and type 2 diabetes.95
+
+Therefore, preventing chronic sterile inﬂammation
+derived with mitochondrial dysfunction resulting in oxida-
+tive stress and DAMPs activated inﬂammasome can signiﬁ-
+cantly diminish non-communicable diseases.97,98 Reducing
+cellular and mitochondrial membrane and DNA damage and
+loss of membrane integrity is important in preventing loss of
+cellular energy and regulating cellular life span.99 Since
+oxidative stress is the consequence of imbalance between
+pro- and antioxidants species, supplements containing diet-
+ary antioxidants and some accessory molecules, such as zinc
+and certain vitamins, are important in maintaining free-
+radical scavenging systems, biosynthetic capacity, mem-
+branes, enzymes and DNA.100 Utility of oral mitochondrial
+replacement supplements, such as replacement glycerol
+l-carnitine, alpha-Lipoic acid, coenzyme
+phospholipids,
+other
+Q10, NADH,
+
+pyrroloquinoline
+
+quinone
+
+and
+
+Figure 3 Mitochondrial damage induces diverse chronic and degenerative diseases.
+Notes: Mitochondrial damage and mutation can be caused by stress from environment particulate and/or DNA abnormality. DNA mutation/damage causes mitochondrial
+dysfunction reducing bioenergetics metabolism promoting chronic inﬂammation and chronic diseases, like cancer, CVD, Diabetes, Obesity, and aging. Kim SJ, Cheresh P,
+Jablonski RP, Williams DB, Kamp DW. The Role of Mitochondrial DNA in Mediating Alveolar Epithelial Cell Apoptosis and Pulmonary Fibrosis. Int J Mol Sci. 2015;16
+(9):21486-21519.96
+
+Journal of Inﬂammation Research 2020:13
+
+submit your manuscript | www.dovepress.com
+
+DovePress
+
+103
+
+Geto et al
+
+Dovepress
+
+mitochondrial supplements also improves mitochondrial
+function.86 Anaerobic and resistance training intervention
+induced in a mouse model showed an increase in the activa-
+tion of the signaling pathway involved in mitochondrial
+biogenesis.101 Preclinical evidence from animal and in vitro
+studies suggested that regular endurance-based exercise
+intervention is known to be a potent stimulus for muscle
+mitochondrial biogenesis.102 It is also shown that endurance-
+based exercise increases muscle oxidation capacity of mito-
+chondria by increasing the activity of citrate synthase and
+respiratory chain complexes.103–105
+
+Conclusion
+Mitochondria are central to the regulation of energy metabo-
+lism and cellular homeostasis due to their principal role in
+bioenergetics, ROS production, ion homeostasis, apoptosis
+and signal transduction. This organelle is highly dynamic and
+can re-program itself depending on various environmental
+and intracellular signals important for multiple mitochondrial
+functions, including mtDNA stability, respiratory function,
+apoptosis, response to cellular stress, and mitochondrial
+degradation. The dynamic process of mitochondria may not
+be balanced as a result of proteins required for fusion and
+ﬁssion that decreases the crucial role of mitochondria bioe-
+nergetics and the accumulation of damaged mitochondria
+producing ROS.ROS generated by dysfunctional mitochon-
+dria further damage mitochondrial of different organs and
+tissues that cannot function properly to result in chronic and
+age-related disorders. Non-communicable diseases that are
+increasing worldwide in recent years are the consequences of
+unhealthy diets and physical inactivity, which shares basic
+mechanisms of mitochondrial defects, systemic inﬂamma-
+tion, and oxidative stress. Consequent oxidative stress caus-
+ing endoplasmic reticulum (ER) and mitochondrial stress
+leads to excess accumulation of food energy favoring obesity
+and the development of other metabolic syndrome and
+related complications. Maintaining the health of mitochon-
+dria is very valuable and could aid in the prevention of age-
+related disorders.
+
+Disclosure
+The authors declare that there is no conﬂict of interest
+regarding the publication of this paper.
+
+References
+
+1. Rongvaux A. Innate immunity and tolerance toward mitochondria.
+
+Mitochondrion. 2018;41:14–20. doi:10.1016/j.mito.2017.10.007
+
+2. Mishra P, Chan DC. Mitochondrial dynamics and inheritance dur-
+ing cell division, development and disease. Nat Rev Mol Cell Biol.
+2014;15:634–646. doi:10.1038/nrm3877
+
+3. Zorov DB, Plotnikov EY, Silachev DN, et al. Microbiota and mitobiota.
+Putting an equal sign between mitochondria and bacteria. Biochemistry
+(Moscow). 2014;79:1017–1031. doi:10.1134/S0006297914100046
+4. Willems PHGM, Rossignol R, Dieteren CEJ, Murphy MP,
+Koopman WJH. Redox homeostasis and mitochondrial dynamics.
+Cell Metab. 2015;22:207–218. doi:10.1016/j.cmet.2015.06.006
+5. Calvo SE, Mootha VK. The mitochondrial proteome and human
+disease. Annu Rev Genomics Hum Genet. 2010;11:25–44.
+doi:10.1146/annurev-genom-082509-141720
+
+6. Shadel GS, Horvath TL. Mitochondrial ROS signaling in organis-
+doi:10.1016/j.
+
+2015;163(3):560–569.
+
+homeostasis. Cell.
+
+mal
+cell.2015.10.001
+
+7. Cao YL, Meng S, Chen Y, et al. MFN1 structures reveal
+nucleotide-triggered dimerization critical for mitochondrial fusion.
+Nature. 2017;542:372–376. doi:10.1038/nature21077
+
+8. Cerdá C, Sánchez C, Climent B, et al. Oxidative stress and DNA
+damage in obesity-related tumorigenesis. Adv Exp Med Biol. 2014.
+9. Nagdas S, Kashatus DF. The interplay between oncogenic signaling
+networks and mitochondrial dynamics. Antioxidants. 2017;6(2):33.
+10. Ježek J, Cooper KF, Strich R. Reactive oxygen species and mito-
+chondrial dynamics: the yin and yang of mitochondrial dysfunction
+and cancer progression. Antioxidants. 2018;7:13. doi:10.3390/
+antiox7010013
+
+11. Glowacki S, Synowiec E, Blasiak J. The role of mitochondrial DNA
+damage and repair in the resistance of BCR/ABL-expressing cells to
+tyrosine kinase inhibitors. Int J Mol Sci. 2013;14:16348–16364.
+doi:10.3390/ijms140816348
+
+12. Bordi M, Nazio F, Campello S. The close interconnection between
+mitochondrial dynamics and mitophagy in cancer. Front Oncol.
+2017;7. doi:10.3389/fonc.2017.00081
+
+13. Martinez-Carreres L, Nasrallah A, Fajas L. Cancer: linking power-
+houses to suicidal bags. Front Oncol. 2017;7. doi:10.3389/fonc.
+2017.00204
+
+14. Kalkavan H, Green DR. MOMP, cell suicide as a BCL-2 family
+business. Cell Death Differ. 2018;25:46–55. doi:10.1038/cdd.2017.179
+15. Suárez-Rivero J, Villanueva-Paz M, de la Cruz-ojeda P, et al.
+in mitochondrial diseases. Diseases.
+
+Mitochondrial dynamics
+2016;5:1. doi:10.3390/diseases5010001
+
+16. Simula L, Nazio F, Campello S. The mitochondrial dynamics in cancer
+and immune-surveillance. Semin Cancer Biol. 2017;47:29–42.
+doi:10.1016/j.semcancer.2017.06.007
+
+17. Wada J, Nakatsuka A. Mitochondrial dynamics and mitochondrial
+dysfunction in diabetes. Acta Med Okayama. 2016;70(3):151–158.
+18. Marín-García J, Akhmedov AT. Mitochondrial dynamics and cell
+death in heart failure. Heart Fail Rev. 2016;21(2):123–136.
+19. Wu Q, Luo CL, Tao LY. Dynamin-related protein 1 (Drp1) mediating
+mitophagy contributes to the pathophysiology of nervous system dis-
+eases and brain injury. Histol Histopathol. 2017;32(6):551–559.
+20. López-Lluch G. Mitochondrial activity and dynamics changes
+regarding metabolism in ageing and obesity. Mech Ageing Dev.
+2017;162:108–121. doi:10.1016/j.mad.2016.12.005
+
+21. López-Armada MJ, Riveiro-Naveira RR, Vaamonde-García C,
+Valcárcel-Ares MN. Mitochondrial dysfunction and the inﬂamma-
+tory response. Mitochondrion. 2013;13(2):106–118. doi:10.1016/j.
+mito.2013.01.003
+
+22. Mathew A, Lindsley TA, Sheridan A, et al. Degraded mitochon-
+drial dna is a newly identiﬁed subtype of the damage associated
+molecular pattern (DAMP)
+family and possible trigger of
+neurodegeneration. J Alzheimer’s Dis. 2012;30:617–627. doi:10.
+3233/JAD-2012-120145
+
+23. Picca A, Lezza AMS, Leeuwenburgh C, et al. Fueling inﬂamm-aging
+through mitochondrial dysfunction: mechanisms and molecular targets.
+Int J Mol Sci. 2017;18(5):933. doi:10.3390/ijms18050933
+
+104
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+Journal of Inﬂammation Research 2020:13
+
+Dovepress
+
+Geto et al
+
+24. Nakahira K, Haspel JA, Rathinam VAK, et al. Autophagy proteins
+regulate innate immune responses by inhibiting the release of
+mitochondrial DNA mediated by the NALP3 inﬂammasome. Nat
+Immunol. 2011;12:222–230. doi:10.1038/ni.1980
+
+25. Liu TF, Brown CM, El Gazzar M, et al. Fueling the ﬂame: bioe-
+nergy couples metabolism and inﬂammation. J Leukoc Biol.
+2012;92:499–507. doi:10.1189/jlb.0212078
+
+26. Cannon B, Nedergaard J. Neither brown nor white. Nature.
+
+2012;488:286–287. doi:10.1038/488286a
+
+27. Bullon P, Newman HN, Battino M. Obesity, diabetes mellitus,
+atherosclerosis and chronic periodontitis: a shared pathology via
+oxidative stress and mitochondrial dysfunction? Periodontol.
+2000;64(1):139–153.
+
+28. Chaffee BW, Weston SJ. Association between chronic periodontal
+disease and obesity: a systematic review and meta-analysis.
+J Periodontol. 2010;81:1708–1724. doi:10.1902/jop.2010.100321
+29. DiMauro S, Schon EA. Mitochondrial respiratory-chain diseases.
+N Engl J Med. 2003;348:2656–2668. doi:10.1056/NEJMra022567
+30. DiMauro S. Mitochondrial diseases. Biochim Biophys Acta
+
+Bioenerg. 2004;1658(1–2):80–88.
+
+31. Westermann B. Mitochondrial fusion and ﬁssion in cell life and death.
+Nat Rev Mol Cell Biol. 2010;11:872–884. doi:10.1038/nrm3013
+32. Bleazard W, McCaffery JM, King EJ, et al. The dynamin-related
+GTPase Dnm1 regulates mitochondrial ﬁssion in yeast. Nat Cell
+Biol. 1999;1:298–304. doi:10.1038/13014
+
+33. Westrate LM, Drocco JA, Martin KR, Hlavacek WS, MacKeigan JP.
+Mitochondrial morphological features are associated with ﬁssion and
+fusion events. PLoS One. 2014;9:e95265. doi:10.1371/journal.
+pone.0095265
+
+34. Chan DC. Fusion and ﬁssion: interlinked processes critical for mito-
+chondrial health. Annu Rev Genet. 2012;46:265–287. doi:10.1146/
+annurev-genet-110410-132529
+
+35. Detmer SA, Chan DC. Functions and dysfunctions of mitochondrial
+dynamics. Nat Rev Mol Cell Biol. 2007;8:870–879. doi:10.1038/
+nrm2275
+
+36. Pernas L, Scorrano L. Mito-morphosis: mitochondrial fusion, ﬁs-
+sion, and cristae remodeling as key mediators of cellular function.
+Annu Rev Physiol. 2016;78:505–531. doi:10.1146/annurev-physiol
+-021115-105011
+
+37. Zhu X, Perry G, Smitha MA, Wang X. Abnormal mitochondrial
+dynamics in the pathogenesis of Alzheimer’s disease. J Alzheimer’s
+Dis. 2013.
+
+38. García-Escudero V, Martín-Maestro P, Perry G, Avila
+
+J.
+Deconstructing mitochondrial dysfunction in alzheimer disease.
+Oxid Med Cell Longev. 2013;2013:1–13. doi:10.1155/2013/162152
+39. Twig G, Elorza A, Molina AJA, et al. Fission and selective fusion
+govern mitochondrial segregation and elimination by autophagy.
+EMBO J. 2008;27(2):433–446. doi:10.1038/sj.emboj.7601963
+40. Ono T, Isobe K, Nakada K, Hayashi J-I. Human cells are protected from
+mitochondrial dysfunction by complementation of DNA products in
+fused mitochondria. Nat Genet. 2001;28:272–275. doi:10.1038/90116
+41. Zorzano A, Hernández-Alvarez MI, Sebastián D, Muñoz JP. Mitofusin 2
+as a driver that controls energy metabolism and insulin signaling.
+Antioxid Redox Signal. 2015;22:1020–1031. doi:10.1089/ars.2014.6208
+42. Yin F, Cadenas E. Mitochondria: the cellular hub of the dynamic
+coordinated network. Antioxid Redox Signal. 2015;22:961–964.
+doi:10.1089/ars.2015.6313
+
+43. Duchen MR. Mitochondria and calcium: from cell signalling to cell
+death. J Physiol. 2000;529:57–68. doi:10.1111/tjp.2000.529.issue-1
+44. Hernández-Aguilera A, Rull A, Rodríguez-Gallego E, et al.
+Mitochondrial dysfunction: a basic mechanism in inﬂammation-
+related non-communicable diseases and therapeutic opportunities.
+Mediators Inﬂamm. 2013;2013:1–13. doi:10.1155/2013/135698
+45. McInnes J. Mitochondrial-associated metabolic disorders: founda-
+tions, pathologies and recent progress. Nutr Metab. 2013;10:63.
+doi:10.1186/1743-7075-10-63
+
+46. Bonawitz ND, Clayton DA, Shadel GS. Initiation and beyond: multiple
+functions of the human mitochondrial transcription machinery. Mol Cell.
+2006;24:813–825. doi:10.1016/j.molcel.2006.11.024
+
+47. Ryan MT, Hoogenraad NJ. Mitochondrial-nuclear communications.
+doi:10.1146/annurev.
+
+2007;76:701–722.
+
+Annu Rev Biochem.
+biochem.76.052305.091720
+
+48. Osellame LD, Blacker TS, Duchen MR. Cellular and molecular
+function. Best Pract Res.
+
+of mitochondrial
+mechanisms
+2012;26:711–723. doi:10.1016/j.beem.2012.05.003
+
+49. Lenaz G, Baracca A, Barbero G, et al. Mitochondrial respiratory
+chain super-complex I-III in physiology and pathology. Biochim
+Biophys Acta Bioenerg.
+doi:10.1016/j.
+bbabio.2010.01.025
+
+2010;1797:633–640.
+
+50. Srivastava S. Emerging therapeutic roles for NAD+ metabolism in
+mitochondrial and age-related disorders. Clin Transl Med. 2016;5.
+doi:10.1186/s40169-016-0104-7
+
+51. Schieber M, Chandel NS. ROS function in redox signaling and oxidative
+stress. Current Biology. 2014;24:R453–R462. doi:10.1016/j.cub.
+2014.03.034
+
+52. McCarthy CM, Kenny LC. Immunostimulatory role of mitochon-
+drial DAMPs: alarming for pre-eclampsia? Am J Reprod Immunol.
+2016;76(5):341–347. doi:10.1111/aji.2016.76.issue-5
+
+53. Chauhan A, Vera J, Wolkenhauer O. The systems biology of
+mitochondrial ﬁssion and fusion and implications for disease and
+aging. Biogerontology. 2014;15:1–12. doi:10.1007/s10522-013-
+9474-z
+
+54. Westermann B. Bioenergetic role of mitochondrial fusion and ﬁssion.
+
+Biochim Biophys Acta Bioenerg. 2012;1817(10):1833–1838.
+
+55. Liesa M, Shirihai OS. Mitochondrial dynamics in the regulation of
+expenditure. Cell Metab.
+
+nutrient
+and
+2013;17:491–506. doi:10.1016/j.cmet.2013.03.002
+
+utilization
+
+energy
+
+56. Zhang Q, Raoof M, Chen Y, et al. Circulating mitochondrial
+injury. Nature.
+
+inﬂammatory
+
+responses
+DAMPs
+2010;464:104–107. doi:10.1038/nature08780
+
+cause
+
+to
+
+57. Collins LV, Hajizadeh S, Holme E, Jonsson I-M, Tarkowski A.
+Endogenously oxidized mitochondrial DNA induces in vivo and
+in vitro inﬂammatory responses. J Leukoc Biol. 2004;75:995–1000.
+doi:10.1189/jlb.0703328
+
+58. Salminen A, Ojala J, Kaarniranta K, Kauppinen A. Mitochondrial
+dysfunction and oxidative stress activate inﬂammasomes: impact
+on the aging process and age-related diseases. Cell Mol Life Sci.
+2012;69:2999–3013. doi:10.1007/s00018-012-0962-0
+
+59. Fischer MT, Sharma R, Lim JL, et al. NADPH oxidase expression
+in active multiple sclerosis lesions in relation to oxidative tissue
+injury. Brain. 2012;135:886–899.
+damage and mitochondrial
+doi:10.1093/brain/aws012
+
+60. Morris G, Anderson G, Dean O, et al. The glutathione system:
+a new drug target in neuroimmune disorders. Mol Neurobiol. 2014.
+61. Reuter S, Gupta SC, Chaturvedi MM, Aggarwal BB. Oxidative
+inﬂammation, and cancer: how are they linked? Free
+2010;49:1603–1616.
+doi:10.1016/j.
+Biol
+
+stress,
+Rad
+freeradbiomed.2010.09.006
+
+Med.
+
+a potent
+invading
+
+62. Prolo C, Álvarez MN, Radi R. Peroxynitrite,
+
+macrophage-derived oxidizing cytotoxin to combat
+pathogens. BioFactors. 2014;40:215–225. doi:10.1002/biof.1150
+63. Vaamonde-García C, Riveiro-Naveira RR, Valcárcel-Ares MN,
+Hermida-Carballo L, Blanco FJ, Lõpez-Armada MJ. Mitochondrial
+dysfunction increases inﬂammatory responsiveness to cytokines in nor-
+mal human chondrocytes. Arthritis Rheum. 2012;64:2927–2936.
+doi:10.1002/art.34508
+
+64. Galley HF. Bench-to-bedside review:
+
+targeting antioxidants to
+mitochondria in sepsis. Critical Care. 2010;14. doi:10.1186/cc9098
+65. Ortiz GG, Pacheco-Moisés FP, Bitzer-Quintero OK, et al.
+Immunology and oxidative stress in multiple sclerosis: clinical
+Immunol. 2013;2013:1–14.
+and basic approach. Clin Devel
+doi:10.1155/2013/708659
+
+Journal of Inﬂammation Research 2020:13
+
+submit your manuscript | www.dovepress.com
+
+DovePress
+
+105
+
+Geto et al
+
+Dovepress
+
+66. Lucas K, Maes M. Role of the toll like receptor (TLR) radical cycle
+in chronic inﬂammation: possible treatments targeting the TLR4
+pathway. Mol Neurobiol. 2013;48:190–204. doi:10.1007/s12035-
+013-8425-7
+
+67. Morris G, Berk M. The many roads to mitochondrial dysfunction in
+neuroimmune and neuropsychiatric disorders. BMC Med. 2015;13
+(1):68.
+
+68. Auld D, Lea W, Davis MI, et al..Proteomic mapping of mitochon-
+dria in living cells via spatially restricted enzymatic tagging.
+Science.2013;339:1328–1331. doi:10.1126/science.1230593
+69. Santel A, Fuller MT. Control of mitochondrial morphology by
+
+a human mitofusin. J Cell Sci. 2001.
+
+70. Rojo M, Legros F, Chateau D, Lombès A. Membrane topology and
+targeting of mitofusins, ubiquitous mammalian
+the transmembrane GTPase Fzo. J Cell Sci.
+
+mitochondrial
+homologs of
+2002;115(8):1663–1674.
+
+71. Alexander C, Votruba M, Pesch UEA, et al. OPA1, encoding a
+dynamin-related GTPase, is mutated in autosomal dominant optic
+atrophy linked to chromosome 3q28. Nat Genet. 2000;26:211–215.
+doi:10.1038/79944
+
+72. Richter V, Singh AP, Kvansakul M, Ryan MT, Osellame LD.
+Splitting up the powerhouse: structural insights into the mechanism
+of mitochondrial ﬁssion. Cell Mol Life Sci. 2015;72:3695–3707.
+doi:10.1007/s00018-015-1950-y
+
+73. Chen H, Vermulst M, Wang YE, et al. Mitochondrial fusion is
+required for mtdna stability in skeletal muscle and tolerance of
+mtDNA mutations. Cell.
+doi:10.1016/j.
+cell.2010.02.026
+
+2010;141:280–289.
+
+74. Tait SWG, Green DR. Mitochondria and cell death: outer mem-
+brane permeabilization and beyond. Nat Rev Mol Cell Biol.
+2010;11:621–632. doi:10.1038/nrm2952
+
+75. Chan NC, Salazar AM, Pham AH, et al. Broad activation of the
+for
+system by
+ubiquitin-proteasome
+mitophagy. Hum Mol Genet. 2011;20:1726–1737. doi:10.1093/
+hmg/ddr048
+
+critical
+
+Parkin
+
+is
+
+76. Quirós PM, Langer T, López-Otín C. New roles for mitochondrial
+proteases in health, ageing and disease. Nat Rev Mol Cell Biol.
+2015;16:345–359. doi:10.1038/nrm3984
+
+77. Schreck R, Rieber P, Baeuerle PA. Reactive oxygen intermediates
+as apparently widely used messengers in the activation of the
+NF-kappa B transcription
+and HIV-1. EMBO J.
+factor
+1991;10:2247–2258. doi:10.1002/embj.1991.10.issue-8
+
+78. Huang LS, Cobessi D, Tung EY, Berry EA. Binding of the respira-
+tory chain inhibitor antimycin to the mitochondrial bc1 complex:
+an altered intramolecular
+reveals
+a new crystal
+2005;351:573–597.
+hydrogen-bonding
+J Mol Biol.
+doi:10.1016/j.jmb.2005.05.053
+
+structure
+pattern.
+
+79. Maass DL, White J, Sanders B, Horton JW. Role of cytosolic vs.
+mitochondrial Ca2+ accumulation in burn injury-related myocar-
+dial inﬂammation and function. Am J Physiol - Hear Circ Physiol.
+2005;288:H744–H751. doi:10.1152/ajpheart.00367.2004
+
+80. Fiers W, Beyaert R, Declercq W, Vandenabeele P. More than one
+way to die: apoptosis, necrosis and reactive oxygen damage.
+Oncogene. 1999;18:7719–7730. doi:10.1038/sj.onc.1203249
+81. Hu F, Liu F. Mitochondrial stress: a bridge between mitochondrial
+dysfunction and metabolic diseases? Cell Signal. 2011;23:1528–1533.
+doi:10.1016/j.cellsig.2011.05.008
+
+82. Ekpenyong CE, Udokang NE, Akpan EE, Samson T. Double bur-
+den, non-communicable diseases and risk factors evaluation in
+Sub-Saharan Africa:
+the Nigerian experience. Eur J Sustain
+Devel. 2012;1:249. doi:10.14207/ejsd.2012.v1n2p249
+
+83. Riley L, Gouda H, Cowan M. Noncumminicable Diseases Progress
+
+Monitor 2017. World Health Organization; 2017:2017.
+
+84. Mendis S, Armstrong T, Bettcher D, et al. Global Status Report on
+Noncommunicable Diseases 2014. World Health Organisation;
+2014.
+
+85. Benziger CP, Roth GA, Moran AE. The global burden of disease
+study and the preventable burden of NCD. Glob Heart.
+2016;11:393–397. doi:10.1016/j.gheart.2016.10.024
+
+86. Nicolson GL. Mitochondrial dysfunction and chronic disease: treat-
+
+ment with natural supplements. Integr Med. 2014.
+
+87. Zeviar DD, Gonzalez MJ, Massari JRM, Duconge J, Mikirova N.
+The role of mitochondria in cancer and other chronic diseases.
+J Orthomol Med. 2014;29(4):157.
+
+88. Mason PA. Mismatch repair activity in mammalian mitochondria.
+Nucleic Acids Res. 2003;31:1052–1058. doi:10.1093/nar/gkg167
+89. González MJ, Rosario-Pérez G, Guzmán AM, et al. Mitochondria,
+energy and cancer: the relationship with ascorbic acid. J Orthomol
+Med. 2010.
+
+90. Cui H, Kong Y, Zhang H. Oxidative stress, mitochondrial dysfunc-
+tion, and aging. J Signal Transduct. 2012;2012:1–13. doi:10.1155/
+2012/646354
+
+91. Lim S, Cho YM, Park KS, Lee HK. Persistent organic pollutants,
+mitochondrial dysfunction, and metabolic syndrome. Ann N Y Acad
+Sci. 2010;1201:166–176. doi:10.1111/j.1749-6632.2010.05622.x
+
+92. Camps
+
+al.
+J, Rodríguez-Gallego E, García-Heredia A,
+Paraoxonases and chemokine (C-C motif) ligand-2 in noncommu-
+nicable diseases. Adv Clin Chem. 2014.
+
+et
+
+93. Chang J-C. Regulatory role of mitochondria in oxidative stress and
+atherosclerosis. World J Cardiol. 2010;2:150. doi:10.4330/wjc.v2.
+i6.150
+
+94. Kelley DE, He J, Menshikova EV, Ritov VB. Dysfunction of
+mitochondria in human skeletal muscle in type 2 diabetes.
+Diabetes. 2002;51:2944–2950. doi:10.2337/diabetes.51.10.2944
+95. Rogge MM. The role of impaired mitochondrial lipid oxidation in
+obesity. Biol Res Nurs. 2009;10:356–373. doi:10.1177/109980
+0408329408
+
+96. Kim S-J., Cheresh P, Jablonski RP, Williams DB, Kamp DW. The Role
+of Mitochondrial DNA in Mediating Alveolar Epithelial Cell Apoptosis
+and Pulmonary Fibrosis. International Journal of Molecular Sciences.
+2015;16(9):21486-21519 doi:10.3390/ijms160921486
+
+97. Xu D, Finkel T. A role for mitochondria as potential regulators of
+cellular life span. Biochem Biophys Res Commun. 2002;294:245–248.
+doi:10.1016/S0006-291X(02)00464-3
+
+98. Conti V, Izzo V, Corbi G, et al. Antioxidant supplementation in the
+treatment of aging-associated diseases. Front Pharmacol. 2016;7.
+doi:10.3389/fphar.2016.00024
+
+99. Sztretye M, Dienes B, Gönczi M, et al. Review article astaxanthin:
+a potential mitochondrial-targeted antioxidant treatment in diseases
+and with aging. Oxid Med Cell Longevity. 2019;2019.
+
+100. Nicolson GL, Ash ME. Lipid replacement therapy: a natural medicine
+approach to replacing damaged lipids in cellular membranes and orga-
+nelles and restoring function. Biochim Biophys Acta Biomembr.
+2014;1838:1657–1679. doi:10.1016/j.bbamem.2013.11.010
+
+101. Fiuza-Luces C, Valenzuela PL, Laine-Menéndez S, et al. Physical
+exercise and mitochondrial disease: insights from a mouse model.
+Front Neurol. 2019;10. doi:10.3389/fneur.2019.00790
+
+102. Irrcher
+
+I, Adhihetty PJ, Joseph AM, Ljubicic V, Hood DA.
+Regulation of mitochondrial biogenesis in muscle by endurance
+exercise. Sports Med. 2003;33:783–793. doi:10.2165/00007256-
+200333110-00001
+
+103. Jeppesen TD, Schwartz M, Olsen DB, et al. Aerobic training is safe
+and improves exercise capacity in patients with mitochondrial
+myopathy. Brain. 2006;129:3402–3412. doi:10.1093/brain/awl149
+104. Jeppesen TD, Dunø M, Schwartz M, et al. Short- and long-term
+effects of endurance training in patients with mitochondrial
+myopathy. Eur J Neurol. 2009;16:1336–1339. doi:10.1111/j.1468-
+1331.2009.02660.x
+
+105. Taivassalo T, Shoubridge EA, Chen J, et al. Aerobic conditioning in
+patients with mitochondrial myopathies: physiological, biochemical,
+and genetic effects. Ann Neurol. 2001;50:133–141. doi:10.1002/
+(ISSN)1531-8249
+
+106
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+Journal of Inﬂammation Research 2020:13
+
+Dovepress
+
+Geto et al
+
+Journal of Inﬂammation Research
+
+Publish your work in this journal
+
+The Journal of Inﬂammation Research is an international, peer-
+reviewed open-access journal that welcomes laboratory and clinical
+ﬁndings on the molecular basis, cell biology and pharmacology of
+inﬂammation including original
+symposium
+reports, hypothesis formation and commentaries on: acute/chronic
+inﬂammation; mediators of inﬂammation; cellular processes; molecular
+
+research,
+
+reviews,
+
+Dovepress
+
+mechanisms; pharmacology and novel anti-inﬂammatory drugs; clin-
+ical conditions involving inﬂammation. The manuscript management
+system is completely online and includes a very quick and fair peer-
+review system. Visit http://www.dovepress.com/testimonials.php to
+read real quotes from published authors.
+
+Submit your manuscript here: https://www.dovepress.com/journal-of-inﬂammation-research-journal
+
+Journal of Inﬂammation Research 2020:13
+
+submit your manuscript | www.dovepress.com
+
+DovePress
+
+107
+
+

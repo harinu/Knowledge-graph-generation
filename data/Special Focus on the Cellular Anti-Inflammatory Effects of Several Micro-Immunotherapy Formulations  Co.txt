@@ -1,0 +1,1385 @@
+Journal of Inflammation Research
+
+ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/djir20
+
+Special Focus on the Cellular Anti-Inflammatory
+Effects of Several Micro-Immunotherapy
+Formulations: Considerations Regarding
+Intestinal-, Immune-Axis-Related- and Neuronal-
+Inflammation Contexts
+
+Camille Jacques & Ilaria Floris
+
+To cite this article: Camille Jacques & Ilaria Floris (2022) Special Focus on the Cellular
+Anti-Inflammatory Effects of Several Micro-Immunotherapy Formulations: Considerations
+Regarding Intestinal-, Immune-Axis-Related- and Neuronal-Inflammation Contexts, Journal of
+Inflammation Research, , 6695-6717, DOI: 10.2147/JIR.S389614
+
+To link to this article:  https://doi.org/10.2147/JIR.S389614
+
+© 2022 Jacques and Floris.
+
+Published online: 13 Dec 2022.
+
+Submit your article to this journal 
+
+Article views: 95
+
+View related articles 
+
+View Crossmark data
+
+Citing articles: 2 View citing articles 
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=djir20
+
+Journal of Inflammation Research                                                         
+
+Dovepress
+open access to scientific and medical research
+
+Open Access Full Text Article
+
+O R I G I N A L  R E S E A R C H
+
+Special Focus on the Cellular Anti-Inflammatory 
+Effects of Several Micro-Immunotherapy 
+Formulations: Considerations Regarding 
+Intestinal-, Immune-Axis-Related- and 
+Neuronal-Inflammation Contexts
+
+Camille Jacques
+
+*, Ilaria Floris
+
+*
+
+Preclinical Research Department, Labo’Life France, Nantes, France
+
+*These authors contributed equally to this work 
+
+Correspondence: Camille Jacques, Preclinical Research Department, Labo’Life France, 1 rue François Bruneau, 44000 Nantes, France, Tel +33228444905, 
+Email camille.jacques@labolife.com 
+
+Introduction: Chronic inflammation is a pernicious underlying status, well-known for its contribution to the progressive development 
+of various diseases. In this regard, Micro-immunotherapy (MI) might be a promising therapeutic strategy. MI employs low doses (LD) 
+and ultra-low doses (ULD) of immune regulators in their formulations. In particular, as both IL-1β and TNF-α are often used at ULD 
+in MI medicines (MIM), a special emphasis has been made on formulations that include these factors in their compositions.
+Methods: Several in vitro models have been employed in order to assess the effects of two unitary MIM consisting of ULD of IL-1β 
+and TNF-α (u-MIM-1 and u-MIM-2, respectively), and four complex MIM (c-MIM-1, −2, −3 and −4) characterized by the presence of 
+ULD of IL-1β and TNF-α amongst other factors. Thus, we first investigated the anti-inflammatory effects of u-MIM-1 and u-MIM-2 in 
+a model of inflamed colon carcinoma cells. In addition, the anti-inflammatory potential of c-MIM-1, −2, −3 and −4, was assessed in 
+in vitro models of intestinal and neuronal inflammation.
+Results: The results revealed that u-MIM-1 and u-MIM-2 both induced a slight decrease in the levels of IL-1β and TNF-α transcripts. 
+Regarding the c-MIMs’ effects, c-MIM-1 displayed the capability to restore the altered transepithelial electrical resistance in inflamed- 
+HCoEpiC cells. Moreover, c-MIM-1 also slightly increased the expression of the junction-related protein claudin-1, both at the mRNA 
+and protein levels. In addition, our in vitro investigations on c-MIM-2 and c-MIM-3 revealed their immune-modulatory effects in LPS- 
+inflamed human monocytes, macrophages, and granulocytes, on the secretion of cytokines such as TNF-α, PGE2, and IL-6. Finally, 
+c-MIM-4 restored the cell viability of LPS/IFN-γ-inflamed rat cortical neurons, while reducing the secretion of TNF-α in rat glial cells.
+Discussion: Our  results shed  the  light  on  the  potential role  of  these  MIM  formulations in  managing  several chronic  inflammation- 
+related conditions.
+Keywords: cytokines, low-doses, ultra-low-doses, inflammation, immunotherapy, in vitro
+
+Introduction
+Inflammatory  mechanisms  are  part  of  the  normal  body’s  defense  against  aggressions,  however,  when  they  last  for 
+prolonged periods of time (months to years), they can induce a chronic inflammatory state that can be detrimental to the 
+organism.1 The etiology of such slow and long-lasting inflammation is very heterogeneous, as multiple causes can trigger 
+an  over-activation  of  the  immune  system,  inhibiting  at  the  same  time  its  normal  return  to  homeostasis.  Besides  the 
+context  of  auto-immune  disorders,  some  of  the  reasons  that  can  perpetuate  a  low-grade  inflammation  could  be:  (i)  the 
+organism’s inability to eliminate infectious agents such as bacteria, viruses or parasites, (ii) its prolonged exposure to low 
+
+Journal of Inflammation Research 2022:15 6695–6717                                                     
+
+6695
+© 2022 Jacques and Floris. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/ 
+terms.php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing 
+the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. 
+For permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+
+Received: 19 September 2022Accepted: 24 November 2022Published: 13 December 2022Jacques and Floris                                                                                                                                                   
+
+Dovepress
+
+levels of chemicals, biochemicals or irritants, (iii) defects in the activation/inactivation mechanisms of the immune cells 
+including an inadequate or insufficient resolution of inflammation or (iv), lifestyle stressors such as poor sleep quality or 
+nutrition.  If  those  triggers  are  maintained  over  a  long  period  of  time,  they  can  lead  to  chronic  inflammatory-related 
+diseases  that  can  involve  many  other  organs  and  tissue  of  the  body  like  the  gut,  driving  inflammatory  bowel  diseases 
+(IBD);  the  cardio-vascular  system  (stroke,  atherosclerosis);  the  brain  (depression,  neurodegenerative  diseases);  the 
+immune system (auto-immune diseases and cancer); the endocrine-metabolic system (diabetes and obesity).
+
+Numerous treatment strategies have been employed in order to reduce inflammation and immunotherapies are one of 
+them.  For  instance,  the  use  of  cytokine-based  therapies  has  been  reported  in  the  management  of  sepsis,  diabetes,  or 
+cardiovascular  diseases  with  quite  promising  results.  However,  unwanted  side  effects  still  remain,  probably  due  to  the 
+cytokines or immune factors dosages employed. A therapeutic approach that includes micro-immunotherapy (MI) could 
+thus be of great interest in order to face such concerns. Indeed, MI medicines (MIM) are immune-factor-based medicines, 
+which formulations either encompass a sole active substance (unitary preparations; referred to as u-MIM) or a distinctive 
+combination of several ingredients (complex MIM; referred to as c-MIM). These medicines are manufactured in the form 
+of sucrose-lactose pillules impregnated with the corresponding active ingredients, for oromucosal administration, and are 
+intended  to  be  taken  in  a  fasted  state.  In  this  manner,  the  active  substances  can  reach  the  oral-pharyngeal  mucosal 
+immune system,2 as well as the mucosal immune system of the gastrointestinal (GI) tract, with their associated lymphoid 
+tissues and cell populations of the innate and adaptative immune responses.3  This route of administration will, in turn, 
+elicit systemic and local effects, as we could observe in previous published preclinical in vivo studies.4–6
+
+Through their exclusive preparation, MIM aim at gently modulating the expression and the related signaling pathways 
+of cytokines and immune factors by providing to the organism these molecules at low doses (LD) and ultra-low doses 
+(ULD) (Figure 1). These LD/ULD are expressed in Hahnemannian dilution (CH) or in Korsakovian dilutions (K). LD of 
+bioactive  molecules  (ranging  from  3  to  5  CH)  are  used  in  MI  formulations  to  mimic  the  low  doses  occurring  in  the 
+organism,7,8 and are employed to induce their own biological effects, stimulating their functions (Figure 1, green part). The 
+recently published preclinical study on the unitary interferon-γ (4 CH) indeed shows how, at cellular levels, the drug elicits 
+
+Figure 1 General scheme of the concept of low doses (LD) and ultra-low doses (ULD) in the context of MI supported by the two cited preclinical research studies referring 
+to the immune-stimulatory/anti-inflammatory responses elicited by the LD or ULD, respectively. LD of cytokines, ranging from 3 centesimal Hahnemannian (CH) to 5 CH, 
+aim at orienting the immune responses towards an immune stimulation, inducing their own biological effect through mimicking the physiological low doses employed in the 
+body. The immune-stimulatory effects of IFN-γ (4 CH) have been reported by Jacques et al 2022.7 On the other side of the spectrum, ULD aim at modulating (from 6 CH)/ 
+down-regulating  (from  12  CH  and  beyond)  a  response.  For  instance,  the  pro-inflammatory  cytokines  IL-1β  and  TNF-α  employed  at  27  CH,  exerted  anti-inflammatory 
+responses (Floris et al 2020).9 The CH numbers represented on the x-axis are the ones employed in the MIM’s formulations studied in the current manuscript. The arrows 
+represent the direction of the oriented biological response mediated by the LD/ULD employed in micro-immunotherapy medicines (MIM). Green arrow, Stimulation of 
+a biological response; Red arrow, Inhibition of a biological response; Combined Green and Red arrow, Modulation of a biological response.
+
+6696
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2022:15 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                   
+
+Jacques and Floris
+
+immunostimulatory and co-stimulatory effects on different cell types.7 On the other side, the use of ULD (from 6 CH up to 
+30  CH)  employed  in  MI  is  intended  to  modulate  (from  6  CH)  and/or  down-regulate  (from  12  CH  and  beyond)  the 
+expression of the concerned active substances (Figure 1, orange part). Interestingly, we previously reported that the two 
+unitary medicines (u-MIM) interleukin (IL) 1β (IL-1β) (27 CH) and tumor necrosis factor α (TNF-α) (27 CH) displayed 
+anti-inflammatory properties, as they both exhibit the potential to inhibit the secretion of IL-1β and TNF-α, in a model of 
+human  primary monocytes as  well as in  THP-1 cells, after  lipopolysaccharide (LPS) exposure (Figure 2A, blue box).9 
+
+Figure 2 (A) The rationale of the present study is based on the fact that ULD of IL-1β and TNF-α are employed in the tested MI medicines (MIM). The anti-inflammatory 
+role of these cytokines, when used at 27 CH, under the respective form of unitary MIM (u-MIM) has been reported by Floris et al 2020,9 and Jacques et al 2021,11 in a model 
+of inflamed-immune cells (blue box) consisting of LPS-inflamed human primary monocytes and THP-1 cells. In the current study, the effects of these u-MIM were appraised in 
+an intestinal model of inflammation (red box; see Results Section 1., for the results). (B) Scheme recapitulating the overall organization of the present manuscript regarding 
+the four complex-MIM (c-MIM) studied. The formulation of each c-MIM is detailed. As each c-MIM formulation was tested in a particular context, the corresponding Results’ 
+sections within this manuscript are reported at the bottom of each colored box (red box, intestinal inflammation model; blue box, inflamed-immune-cells model; yellow box, 
+neuronal  inflammation  model).  The  arrows  represent  the  direction  of  the  oriented  biological  response  mediated  by  the  LD/ULD  employed  in  micro-immunotherapy 
+medicines (MIM). Green arrow, Stimulation of a biological response; Red arrow, Modulation/inhibition of a biological response; Combined Green and Red arrow, Modulation 
+of a biological response; K, Korsakovian dilution.
+
+Journal of Inflammation Research 2022:15                                                                                          
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                       
+
+6697
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Jacques and Floris                                                                                                                                                   
+
+Dovepress
+
+Moreover, other in vitro and in vivo preclinical data have demonstrated the anti-inflammatory properties of a MI formula-
+tion employing ULD of TNF-α and IL-1β in association with other immune regulators,4,10,11 providing encouraging results 
+about the potential of some MIM in slowing down the pro-inflammatory responses in the context of chronic inflammation. 
+Based on these previous results, the first aim of this study was to assess the effects of these two ULD-based u-MIMs in 
+another specific inflammatory context, an intestinal inflammation model (Figure 2A, red box).
+
+In  contrast  to  unitary  preparations,  complex  MI  formulations  consist  of  a  unique  association  of  active  substances, 
+thought to act synergistically in order to coherently channel a specific biological response. The second aim of this study 
+was to conduct a complementary assessment of the effects of four c-MIM (referred to as c-MIM-1, c-MIM-2, c-MIM-3 
+and c-MIM-4 in this manuscript), as they all employ ULD of IL-1β and TNF-α in their formulations, in association with 
+additional  actives  at  LD/ULD.  c-MIM-1  also  includes  ULD  of  IL-8  and  LD  of  IL-10;  c-MIM-2  includes  ULD  of 
+prostaglandin E2 (PGE2) and IL-6, with LD of IL-10, too; c-MIM-3 uses ULD of IL-6, IL-13 and oncostatin M (OSM), 
+as well as LD of tumor growth factor β (TGF-β) and IL-1 receptor antagonist (IL-1Ra). Finally, c-MIM-4 employs ULD 
+of IL-6 and IL-12 as well as LD of IL-4 (Figure 2B).
+
+It  is  now  well-recognized  that  chronic  inflammation  triggers  a  whole-body  response  and  the  activation  of  many 
+feedback loops with interconnected effects.12  Moreover, as an integrated and complex system, the different anatomical 
+parts of the body communicate between them. Considering the particularly close relationship between the epithelial cells 
+from the gut, the immunity and the nervous system,13  the main purpose of this study was indeed to assess the potential 
+anti-inflammatory  properties  of  four  different  complex  MIM’s  (c-MIM)  formulations  in  several  inflammatory  contexts 
+related to the (i) -intestinal tract (Figure 2B, red box), (ii) -immune axis (Figure 2B, blue box) and (iii) -nervous system 
+(Figure 2B, yellow box), depending on their specific cytokines combination. The further paragraphs of this introduction 
+will  provide  brief  non-exhaustive  detail  about  the  role  of  each  cytokine  in  the  three  above-mentioned  contexts,  thus 
+explaining the deliberate choice to assess each c-MIM in a particular inflammatory model in the first place.
+
+Recent literature delineated the importance of IL-8 and IL-10 in the molecular mechanisms driving GI inflammatory 
+diseases.14,15 The fact that c-MIM-1 includes ULD of IL-8 and LD of IL-10 in its formulation thus motivated the choice 
+of assessing the cellular effects of this medicine in an in vitro model of intestinal inflammation (Figure 2B, red box).
+
+In a more general approach, c-MIM-2 and c-MIM-3 have been investigated in vitro, on the immune axis in different 
+cell types and inflamed experimental contexts (Figure 2B, blue box). These two formulations employ ULD of IL-1β and 
+TNF-α in association with ULD of PGE2, or ULD of IL-6, IL-13, and OSM, and LD of IL-10, or LD of TGF-β and IL- 
+1Ra. Numerous publications, nicely put together in the review from Tsuge et al indeed reported the major role played by 
+PGE2 in the mediation of inflammation and immune diseases, notably through its implication in mechanisms related to 
+Th1 differentiation, and Th1/Th17/Th22 signaling.16  In the context of immunity, IL-10 is produced by a broad type of 
+myeloid  and  lymphoid  cells  during  infections,  and  suppresses  macrophages  and  dendritic  cells  functions,  thereby 
+impeding Th1 and  Th2  effector responses.17  In  immune effector cell types, and  in a wide  range of  established models 
+of chronic inflammation, IL-10 is reported to play a central role in the regulation of homeostasis.18 On another side, TGF- 
+β is  important  in  maintaining the  T cell  tolerance to  self  or  innocuous  environmental  antigens.19  IL-1 is  known  for  its 
+crucial  involvement  in  the  onset  and/or  the  etiopathogenesis  of  several  inflammatory-mediated  diseases.  Given  its 
+importance,  several  therapeutic  approaches  consisting  of  the  use  of  IL-Ra  have  been  used  in  clinical  practice  to  block 
+the activity of IL-1.20  OSM is a pleiotropic cytokine playing important roles  in a wide range of homeostatic functions 
+(such as hematopoiesis, bone/fat turnover, liver regeneration) and, under chronic inflammatory diseases, it may play pro- 
+inflammatory  roles,  depending  on  the  microenvironment  and  the  interested  tissue,  without  being  overexpressed  at 
+systemic  levels.21  IL-6  is  also  a  pleiotropic  cytokine  playing  important  roles  in  hematopoiesis,  bone  metabolism 
+embryonic  development,  immunity,  and  host  responses.  Its  expression  is  finely  regulated  at  multiple  levels,  and  when 
+a dysregulated and persistent IL-6 expression occurs, it may lead to the development of various inflammatory-mediated 
+diseases.22,23  Similarly,  IL-13  is  known  to  exert  pleiotropic  effects  and  to  be  involved  in  inflammatory-mediated 
+diseases.24
+
+Finally, in the case of c-MIM-4, which employs ULD of both IL-6 and IL-12 in its formulation, as well as IL-4 at LD, 
+one  of  the  goals  of  this  study  was  to  assess  its  effects  using  an  in  vitro  preclinical  model  of  neuronal  inflammation 
+(Figure 2B, yellow box). The rationale behind the choice of the neuronal-inflammation context was supported by a rich 
+
+6698
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2022:15 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                   
+
+Jacques and Floris
+
+bibliography,  illustrated  by  the  following  examples.  For  instance,  according  to  the  results  of  a  recent  meta-analysis, 
+patients suffering from depressive symptoms express higher levels of IL-6.25  Another study also reported that the IL-12 
+serum  levels  of  patients  with  major  depression  were  significantly  higher  than  healthy  controls,  and  that  an  8-weeks 
+treatment led to a reduction of these levels.26 On the other hand, it was suggested that IL-4 could modulate IL-1β-induced 
+depressive behavior in rats, by inhibiting IL-1β-induced central glial activation and neurotransmitter alterations.27
+
+Materials and Methods
+Tested Item and Experimental Control
+The tested MIMs are homeopathic medicinal products consisting of sucrose-lactose pillules impregnated with ethanolic 
+preparations  of  cytokines.  These MIMs  were  manufactured  by  Labo’Life  España,  as  previously  described,6,7  and  have 
+been provided for investigational purposes. The two u-MIM under investigation in this study (referred as u-MIM-1 and 
+u-MIM-2)  are  presented  as  unitary  medicines,  while  the  four  tested  complex  capsules  (c-MIM-1,  c-MIM-2,  c-MIM-3, 
+and  c-MIM-4)  are  made  of  a  specific  combination  of  either  four,  five  or  seven  different  ingredients  (Figure  2).  Their 
+composition is characterized by cytokines and immune factors and their amount is expressed in CH or in K.
+
+The  Veh.  pillules  used  in  the  study  as  controls  are  manufactured  by  Labo’Life  Belgium.  Previous  publications 
+described how these vehicle controls are produced, in order to provide a suitable control for preclinical research.4,6,7,9,10 
+Regarding  the  in  vitro  experiments  performed  in  the  current  study,  u-MIM,  c-MIM  or  the  Veh.  pillules  were  freshly 
+diluted in 100 mL of culture medium to reach the final sucrose-lactose concentration of 11 mM.
+
+Cell Lines
+HT-29- cells, a human colorectal adenocarcinoma cell line with epithelial morphology was used in this study. This cell 
+line  was  purchased  from  the  ATCC  (ATCC®  HTB-38™,  Molsheim,  France)  and  was  grown  in  Dulbecco’s  Modified 
+Eagle’s Medium (DMEM) with high glucose (4.5 g/L) containing 10% fetal calf serum (FCS) (DMEM 10% FCS, PAA 
+Laboratories,  Les  Mureaux,  France)  and  antibiotics  (streptomycin  100  μg/mL  and  penicillin  100  units/mL,  Sigma 
+Aldrich, St. Quentin Fallavier, France). Cells were incubated at 37°C in 5% CO2  and 95% relative humidity.
+
+To  induce  inflammatory  conditions,  a  pre-stimulation  of  cells  by  TNF-α  (ref  #  39–8329-60/E08250-1633, 
+eBioscience) at 10 ng/mL was performed for 3 hours. The tested Veh. and MIMs were then added to the culture medium 
+containing  the  TNF-α  for  24  more  hours  before  an  extensive  wash,  and  harvested  for  mRNA  extraction.  Supernatants 
+(SN) were collected to perform cytokine quantification by ELISA.
+
+Evaluation of Gene Expression by RT-qPCR
+Total  mRNA was  isolated  from  cells  using  Rneasy  kit  (Macherey  Nagel,  Hoerdt,  France)  according  to  the  manufac-
+turer’s instructions. RNA quantification was performed using spectrophotometry. After treatment  at 37°C for 30  min 
+with  20–50  units  of  RNase-free  DNase  I  (Roche  Diagnostics  Corporation,  Indianapolis,  IN,  USA),  oligo-dT  primers 
+(Roche  Diagnostics  Corporation,  Indianapolis,  USA),  the  High-Capacity  cDNA  Reverse  Transcription  Kit  (Applied 
+Biosystems,  Waltham,  MA,  USA)  was  used  to  synthesize  single-stranded  cDNA.  The  mRNA was  quantified  using 
+SYBR  green  Master  Mix  (Applera,  Courtaboeuf,  France)  with  human-specific  oligonucleotides  in  a  GeneAmp 
+Abiprism 7000 (Applera). In each assay, calibrated and no-template controls were included. Each sample was run in 
+triplicate.  SYBR  green  dye  intensity  was  analyzed  using  the  Abiprism  7000  SDS  software  (Applera,  Courtaboeuf, 
+France). All results were normalized to the unaffected housekeeping gene glyceraldehyde-3-phosphate dehydrogenase 
+(GAPDH).
+
+All the results are expressed as a fold of the mean of activation of duplicate/mean of duplicate in medium alone or 
+TNF-α alone. The primers sequences used are the following: GAPDH: Forward (F): 5’-GAC ACC CAC TCC TCC ACC 
+TTT-3’;  Reverse  (R):  5’-TTG  CTG  TAG  CCA  AAT  TCG  TTG  T-3’;  TNF-α:  F:5’-CAG  GAC  GTG  GAG  CTG  GCC 
+GAG GAG −3’; R: 5’- CAC CAG CTG GTT ATC TCT CAG CTC −3’; IL-1β: F: 5’- GAT GCA CCT GTA CGA TCA 
+CT-3’; R: 5’-GAT GCA CCT GTA CGA TCA CT −3’.
+
+Journal of Inflammation Research 2022:15                                                                                          
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                       
+
+6699
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Jacques and Floris                                                                                                                                                   
+
+Dovepress
+
+Inflamed Colon Epithelial Intestinal Cells Model
+Phytohemagglutinin-Stimulated Human Peripheral Blood Mononuclear Cell’ Supernatants Production
+Human peripheral blood mononuclear cells (PBMC) from healthy adult volunteer donors were isolated by centrifugation 
+of  venous  blood  on  Ficoll-Hypaque  density  gradients  (Amersham  Pharmacia  Biotech,  Piscataway,  NJ,  USA).  Healthy 
+volunteers were enrolled by the Blood Bank Center (Etablissement Français du Sang, EFS, Pays de Loire, France). All 
+blood  samples  were  approved  by  the  Ethics  committee  of  the  EFS  Blood  Bank  Center  with  written  informed  consent 
+obtained  for  all  the  donors,  in  accordance  with  the  Declaration  of  Helsinki.  Cells  (105/mL)  were  cultured  in  24-well 
+round-bottom  plates  in  2  mL  of  complete  medium  and  stimulated  with  phytohemagglutinin  (PHA)  (5  µg/mL)  for  48 
+hours. The SN were collected and stored at −80°C until use.
+
+Trans-Epithelial Resistance Assessment in Human Colonic Epithelial Cells
+Human Colonic Epithelial Cells (HCoEpiC) were purchased from Innoprot, Bizkaia, Spain. The cells were seeded at the 
+density of 5×105 cells in 24-well plate inserts whose diameter is 6.5 mm and the membrane area 0.3 cm2 and grown until 
+tight confluence. The cells were cultured in DMEM supplemented with 10% FCS, 2 mM L-glutamine, and antibiotics. 
+The  trans-epithelial  resistance  (TEER)  measurements  were  obtained  as  Ω/cm2  and  performed  with  a  Millicell®  ERS-2 
+device  at  different  incubation  times  (24  hours  and  72  hours),  in  the  presence/absence  of  the  PBMC  SN,  with/without 
+c-MIM-4  or  Veh.  added  30  minutes  before  reading.  The  measurements  were  performed  in  HBSS  without  phenol  red 
+(Sigma-Aldrich, ref # H6648), adding 600 µL HBSS in the basolateral area and 100 µL of HBSS in the apical area for 30 
+minutes.  After  this  time,  readings  in  3  individual  wells  (n  =  3)  were  made.  10  mM  of  sodium  caprate  (C10)  (Sigma- 
+Aldrich, ref # C4151) was used as a positive control.
+
+Claudin-1 Expression Assessment in Human Colonic Epithelial Cells
+HCoEpiC cells were seeded at a density of 500.000 cells/well in 6 well plates and grown until confluence. HCoEpiC cells 
+were treated with or without Veh. or c-MIM-1 for 24 h. After that, 400 μL of human PBMC SN previously activated with 
+PHA during 48 h was added to each well for 30 minutes. After treatments, the cells were collected and divided into two 
+parts, one part was used for mRNA isolation and the other part for protein extraction.
+
+Evaluation of the Claudin-1 Expression by Real-Time qPCR
+For  quantitative  reverse  transcriptase-PCR  assays,  total  RNA  (1  µg)  was  retrotranscribed  using  the  iScript  cDNA 
+Synthesis Kit  (Ref #1708891,  Bio-Rad,  Hercules,  CA,  USA)  and  the cDNA was  analyzed  by real-time  PCR  using the 
+iQTM  SYBR  Green  Supermix  (Ref  #1708880,  Bio-Rad)  and  a  CFX96  Real-time  PCR  Detection  System  (Bio-Rad). 
+GAPDH gene expression was used to standardize mRNA expression in each sample. Gene expression is quantified using 
+the 2−ΔΔCt  method and the percentage of relative expression against controls (untreated cells) was represented. Primers 
+for use in real-time PCR analysis: Claudin-1: F: 5’-AGG TCT GGC GAC ATT AGT GG-3’; R: 5’-CGT GGT GTT GGG 
+TAA GAG GT-3’; GAPDH: F: 3’-TGG CAA AGT GGA GAT TGT TGC C-3’; R: 5’-AAG ATG GTG ATG GGC TTC 
+CCG-3’.
+
+Evaluation of the Claudin-1 Expression by Western Blot
+The cells were washed with phosphate-buffered saline (PBS) and proteins were extracted in 50 μL of lysis buffer (50 mM 
+Tris–HCl pH 7.5, 150 mM NaCl, 10% glycerol, and 1% NP-40) supplemented with 10 mM NaF, 1 mM Na3VO4, 10 μg/ 
+mL leupeptin, 1 μg/mL pepstatin and aprotinin, and 1 μL/mL phenylmethyl sulfonyl fluoride (PMSF) saturated. Twenty  
+micrograms of protein were boiled at 95°C in Laemmli buffer and electrophoresed in 10% SDS/PAGE gels. Separated 
+proteins were transferred to polyvinylidene fluoride (PVDF) membranes (20V for 30 min) and blocked in tris-buffered 
+saline  (TBS)  solution  containing  0.1%  Tween  20  and  5%  non-fat  dry  milk  for  1 hour  at  room  temperature. 
+Immunodetection of specific proteins was carried out by incubation with a primary antibody rabbit anti-Cldn-1 (1:200, 
+Ref: #ab15098, Abcam, Cambridge, UK) and β-actin (1:10.000 dilution, Ref: #A5316, Sigma), overnight, at 4°C. After 
+washing  membranes,  horseradish  peroxidase-conjugated  secondary  antibody  was  added  and  detected  by 
+a  chemiluminescence  system  (GE  Healthcare  Europe  GmbH,  Freiburg,  Germany).  The  quantification  of  the  Blot’s 
+pictures, was performed thanks to the online version of the ImageJ software (downloaded on the 2nd of May 2022).
+
+6700
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2022:15 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                   
+
+Jacques and Floris
+
+Immunomodulation in Immune Cells
+Immunomodulation in Human Monocytes
+Human primary monocytes were prepared from buffy coats of three healthy human blood donors. All blood samples were 
+approved  by  the  Ethics  committee  of  the  EFS  Blood  Bank  Center  with  written  informed  consent  obtained  for  all  the 
+donors.  Cells  were  seeded  in  24-well  plates  at  a  density  of  2.200.000  cells/well  for  ELISA  measurements.  Monocytes 
+were incubated with LPS (10 ng/mL, Salmonella typhimurium SL1181) for 30 min before treatment with either the Veh., 
+or c-MIM-2 for an additional 24 hours. After 24 hours, SN were collected, centrifuged, and investigated for IL-1β, TNF- 
+α and PGE2 concentrations in ELISA using the manufacturer’s protocol (n = 6, 3 different donors).
+
+Immunomodulation in Human Macrophages
+Human  CD14+  monocytes  were  isolated  from  the  blood  of  a  healthy  donor  (67  years  old  man).  The  blood  sample 
+collection was approved by the Ethics committee of the EFS Blood Bank Center. After the mononuclear cells’ isolation 
+by  the  Ficoll  gradient  centrifugation  method,  the  CD14+  cells  were  selected  by  positive  selection  thanks  to  magnetic 
+beads (MACS®  Miltenyi Biotec B.V. and Co. KG, Bergisch Gladbach, Germany). Monocytes were then cultivated for 6 
+days  in  24-well  plates,  with  α-MEM  medium  supplemented  with  10%  fetal  bovine  serum  (FBS)  and  100  ng/mL 
+macrophage  colony-stimulating  factor  (M-CSF)  (R&D  Systems,  Inc.,  Minneapolis,  MN,  USA,  Ref:  #216-MC).  After 
+these 6 days in culture, the medium was replaced with α-MEM supplemented with 10% FBS and 50 ng/mL M-CSF in 
+addition to 100 ng/mL LPS (Sigma, Ref: #L4391) and either the Veh. or c-MIM-3. The treatments were applied for 24 
+hours and each condition was performed in triplicate. At the end of the incubation period, SN were collected, aliquoted, 
+and  stored  at  −80°C  until  ELISA  assay  (human  IL-6  Quantikine,  R&D  Systems).  Optic  density  was  measured  on 
+a  spectrophotometer  Multiskan  Go  and  the  Skanlt  3.2  software  was  used  to  quantify  the  measured  cytokine 
+concentrations.
+
+Immunomodulation in Human Granulocytes
+Human primary granulocytes were freshly isolated from the blood of a healthy donor obtained from the EFS, and seeded 
+in 48-well plates in optimized RPMI 1640 supplemented with 10% inactivated FBS. Cells were then pre-incubated with 
+either  Veh.,  or  c-MIM-3  for  one  hour,  before  the  addition  of  LPS  (1  µg/mL)  as  the  inflammation  inducer  within  the 
+media. Cells were then incubated for 18 hours in presence of the tested items and LPS. All the experimental conditions 
+were  performed  in  triplicate.  At  the  end  of  the  total  incubation  period,  SN  were  collected  and  the  assessed  cytokines 
+levels  were  evaluated.  The  IL-6  and  IL-1β  levels  were  evaluated  by  multiplex  CBATM  method  following  the  provider 
+recommendations  (Human  IL-6  Flex  Set;  BDTM  Biosciences,  A7  beads,  Ref:  #558276;  dilution  factor  1:5  and  Human 
+IL-1β Flex Set; BDTM  Biosciences, B4 beads, Ref: #558279).
+
+Immunomodulation in Neurons
+Ethics Statement
+All  animal  procedures  were  carried  out  in  strict  adherence  to  the  European  Community  Council  Directive  of 
+September  22,  2010  (2010/63/UE).  All  experiments  and  protocols  were  authorized  and  approved  by  the  French 
+Ministry  of  Research,  as  well  as  by  the  Animal  Welfare  Committees  of  Amylgen,  Biotrial,  QPS  and  Neuronexperts. 
+All efforts were made to minimize the number of animals used.
+
+Cortical Neurons Culture
+Rat cortical neurons were cultured as described by Singer et al28  Briefly, a pregnant female rat of 15 days gestation was 
+sacrificed by CO2  inhalation (Wistar; Janvier Lab, Le Genest-Saint-Isle, France) and the fetuses were removed from the 
+uterus.  The  cortexes  were  removed  and  placed  in  ice-cold  medium  of  Leibovitz  (L15,  Panbiotech  GmbH,  Aidenbach, 
+Germany, Ref: #P04-27055 batch: 8940719) containing 2% of penicillin/streptomycin (PS, PanBiotech Ref: #P06-07100, 
+batch:  2791019)  and  bovine  serum  albumin  (BSA,  Panbiotech  Ref:  #P06-1391100,  batch:  H190110).  Cortexes  were 
+dissociated  by  trypsin-EDTA  (Thermo  Fisher  Scientific,  Illkirch-Graffenstaden,  France  Ref:  #25300-054,  batch: 
+2027082)  for  20  min  at  37°C.  The  reaction  was  stopped  by  the  addition  of  DMEM  (Panbiotech  Ref:  #P04-03600, 
+batch:1220919) containing DNAase I grade II (0.1 mg/mL; PanBiotech, Ref: #P60-37780100, batch: H181015) and 10% 
+
+Journal of Inflammation Research 2022:15                                                                                          
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                       
+
+6701
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Jacques and Floris                                                                                                                                                   
+
+Dovepress
+
+FCS (Invitrogen, Waltham, MA, USA, Ref: #10270106, batch: 42G2082K). Cells were then mechanically dissociated by 
+3 passages through a 10 mL pipette. Cells were then centrifuged at 290 × g for 10 min at 4°C. The SN was discarded and 
+the cell pellet was re-suspended in a culture medium for neurons consisting of Neurobasal (Invitrogen, Ref: #11570556, 
+batch:  2161553)  supplemented  with  2%  of  B27  (Invitrogen,  Ref:  #11530536,  batch:  2181375),  2  mM  of  L-glutamine 
+(L-glut; PanBiotech, Ref: #P04-80100, batch: 1640518), 2% of PS solution, 1% of FCS and 10 ng/mL of brain-derived 
+neurotrophic factor (BDNF, Peprotech France, Neuilly-sur-Seine, France, Ref #450-02, batch 31961). Viable cells were 
+counted in a Neubauer cytometer using the trypan blue exclusion test. The cells were seeded at a density of 30.000 cells/ 
+well  in  96  well-plates  (Falcon,  ref:  353072)  pre-coated  with  poly-D-lysine  (10  µg/mL;  Sigma,  ref:  P7886,  batch: 
+SLBS8705) in H2O culture (PanBiotech ref: P04-991000, batch: 2900219) and were cultured at 37°C in a humidified air 
+(95%)/CO2  (5%) atmosphere.
+
+Preparation of Astrocytes and Microglial Cell and Culture with Cortical Neurons
+One vial of rat glial cells (4.000.000 cells by vial at passage 2) was thawed and cells were seeded at the density of 12.000 
+cells per cm² on 75 cm² flask (Nunc ref: 055403) in DMEM supplemented with 2 mM of L-glutamine, 2% of PS solution 
+and 10% of FCS. After 5 days of culture, the mix of astrocytes/microglial cells was dissociated by trypsin-EDTA for 20 
+min at 37°C. The reaction was stopped by the addition of DMEM, containing DNAase I grade II (0.1 mg/mL) and 10% 
+FCS. Cells were then centrifuged at 290 × g for 10 min at 4°C temperature. The cell pellet was re-suspended in a culture 
+medium for neurons. Glial cells were seeded at the same time as the neurons at a density of 20.000 cells per well.
+
+Compound Incubation and LPS/IFN-γ Treatment
+After  8  days  of  coculture,  cells  were  treated  with  either  Veh.,  c-MIM-2,  or  MK801  (Sigma  ref:  M107,  batch: 
+105M4606V)  at  20  µM  in  medium  for  neurons.  After  9  days  of  coculture,  cells  were  treated  with  or  without  the 
+combination of LPS (100 ng/mL, Sigma ref: L2630, batch: 089M4016V)/IFN-γ (10 ng/mL, Peprotech ref: 315–05, batch: 
+061798) during 24 hours,29–31  and with or without the tested items or MK801 in 300 µL of medium for neuron. At the 
+end of this 24 hours incubation, SN were recovered and frozen for quantification of TNF-α released. Cortical neurons and 
+glial cells were incubated in a medium for neurons with and without the tested items for an additional 48 hours to analyze 
+the survival of neurons. Six independent wells were done per culture condition.
+
+Quantification of Neuronal Cells Survival After Glial Cells LPS/INF-γ Activation
+After 72 hours of glial cells LPS/INF-γ activation, cells were fixed by a solution of 4% paraformaldehyde (Sigma, ref: 
+6148, batch: SZBE2390V) for 20 min at room temperature, and control conditions were also fixed according to the same 
+procedure. The cells were then permeabilized and non-specific sites were blocked with a solution of PBS (PanBiotech; 
+ref: P04-36500, batch: 5081219) containing 0.1% of saponin (Sigma; ref: S7900, batch: BCBL8667V) and 1% FCS for 
+15  min  at  room  temperature.  Cells  were  incubated  overnight  at  4°C,  with  a  monoclonal  anti-microtubule  associated 
+protein  2  antibodies  produced  in  mice  (MAP-2,  1/5000,  Sigma;  ref:  M4403,  batch:  063M4802),  in  a  solution  of  PBS 
+containing 1%  FCS  and 0.1% saponin.  Antibody against  MAP-2 stains specifically  neuron cell  body and  neurite. This 
+antibody  was  revealed  with  an  Alexa  Fluor  488  goat  anti-mouse  IgG  (1/400,  Molecular  probe,  ref:  A11001,  batch: 
+2140660)  in  PBS  with  1%  FCS  and  0.1%  saponin,  for  1  hour,  at  room  temperature.  Nuclei  of  cells  were  labeled  by 
+a fluorescent marker (Hoechst solution, Sigma; ref: B1155, batch: 046M4048V) in the same solution. For each condition, 
+20  pictures  per  well  were  taken  using  InCell  Analyzer  2200  (GE  Healthcare)  with  20x  magnification.  Images  of  each 
+culture well were taken in the same conditions. Analysis of cell bodies of MAP-2 positive neurons was performed using 
+Developer  software  (GE  Healthcare).  A  total  of  6  data  per  experimental  condition  were  provided.  All  values  are 
+expressed as mean ± s.e.m.
+
+Quantification of Cytokine Release by ELISA
+The  culture  SN  were  thawed  and  100  µL  by  well  were  used  to  quantified  by  ELISA  the  level  of  TNF-α  (TNF-α  rat 
+ELISA  kit,  Fisher  Scientific,  ref:  KRC3011,  batch  218247–002)  released  by  glial  cells  in  the  media,  according  to  the 
+manufacturer’s instructions. All values are expressed as mean ± SD.
+
+6702
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2022:15 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                   
+
+Jacques and Floris
+
+Statistical Analysis
+The graphs in the figures were performed with GraphPad Prism, Version 9.4 for Windows (GraphPad Software Inc., San 
+Diego California USA, updated on 16/06/2022). Authors have followed the recent recommendations of D.L. Vaux that 
+encourage performing descriptive statistics instead to make statistical inferences when the number of independent values 
+is small.32 Indeed, no statistical inference has been performed to analyze the results of the in vitro studies presented here.
+
+Results
+IL-1β (27 CH) and TNF-α (27 CH), Both Unitary Micro-Immunotherapy Medicines, 
+Slightly Reduced the Expression of IL-1β and TNF-α at Transcriptional Levels in TNF- 
+α-Inflamed HT-29 Cells
+Previous  results  reported  the  anti-inflammatory  effects  of  the  u-MIM  IL-1β  (27  CH)  and  TNF-α  (27  CH)  in  human 
+primary monocytes and in the THP-1 cell line.9 In this study, we wanted to assess the effect of these unitaries in a model 
+of intestinal inflammation, by using a human epithelial colon cancer cell line exposed to TNF-α. Therefore, the effect of 
+IL-1β (27 CH) and TNF-α (27 CH) was evaluated in HT-29 cells, inflamed by a 3 hours pre-incubation with 10 ng/mL 
+TNF-α (Figure 3A). The cells were then treated with either the vehicle (Veh.), IL-1β (27 CH) or TNF-α (27 CH) for 24 
+hours  before  assessing  the  transcripts’  expression  of  IL-1β  and  TNF-α  by  RT-qPCR.  The  results  are  presented  in 
+
+Figure 3 IL-1β (27 CH) and TNF-α (27 CH) tend to decrease the expression of both IL-1β and TNF-α at transcriptional levels, in a model of intestinal inflammation. (A) 
+Representative scheme of the experimental protocol. HT-29 cells were pre-treated for 3 hours with 10 ng/mL TNF-α as an inflammatory trigger before the incubation with 
+either the Veh., IL-1β (27 CH), or TNF-α (27 CH) during the next 24 hours. RT-qPCR analysis was performed at the end of the incubation period. (B and C) Expression of 
+IL-1β and TNF-α at the transcriptional level, in presence of TNF-α (10 ng/mL) as an inflammation inducer and after a 24 hours incubation with either Veh., IL-1β (27 CH) or 
+TNF-α  (27 CH). The experiment has been done once and the means ± SD of three technical replicates are illustrated on the graph. The expression of glyceraldehyde- 
+3-phosphate dehydrogenase (GAPDH) was used as an internal normalizer. The black dotted lines highlight the effect of the two tested u-MIM compared with the Veh.
+
+Journal of Inflammation Research 2022:15                                                                                          
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                       
+
+6703
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Jacques and Floris                                                                                                                                                   
+
+Dovepress
+
+Figure  3B  and  C,  and  the  control  (Ct)  conditions  showed  that  the  mRNA  expression  of  both  of  the  cytokines  was 
+increased  after  TNF-α  stimulation  (Figure  3,  white  vs  red  histograms).  A  decrease  of  more  than  two-fold  in  IL-1β 
+expression was obtained after IL-1β (27 CH) treatment compared with the Veh. (Figure 3, grey vs orange histograms). In 
+addition,  a  decrease  in  TNF-α  expression  of  about  two-fold  too  was  also  observed  in  the  same  treatment  conditions. 
+Similar  response  patterns  towards  a  down-regulation  were  observed  after  treatment  with  the  other  u-MIM,  TNF-α  (27 
+CH)  (Figure  3,  grey  vs  yellow  histograms).  Considering  these  interesting  trends,  the  following  sections  of  this  study 
+aimed  at  evaluating  the  anti-inflammatory  properties  of  several  complex  MIM-containing  ULD  of  IL-1β  and  TNF-α 
+within their formulations.
+
+c-MIM-1 Could Restore the Transepithelial Resistance in a Cellular Model of Intestinal 
+Inflammation
+The  integrity  of  the  intestinal  barrier  is  fundamental  to  maintain  healthy  gut  homeostasis,  as  well  as  physiological 
+intestinal permeability. It is widely known that, under chronic inflammation, intestinal homeostasis is altered, resulting in 
+an impairment of the barrier functions and thus, an increase in intestinal permeability.33  In order to induce an intestinal 
+inflammation status in vitro, human HCoEpiC cells were exposed to supernatants (SN) derived from phytohemagglutinin 
+(PHA)-treated PBMCs, which have been reported to be concentrated in pro-inflammatory cytokines such as TNF-α, IL-8 
+and IL-17.34  The resistance of the epithelial barrier is one of the characteristics that reflects the intestinal permeability 
+and the interactions’ strength between epithelial cells. As a consequence, any disruption within these epithelial interac-
+tions  ultimately  creates  a  so-called  “leakage”  in  the  barrier,  leading  to  the  symptoms  related  to  inflammatory  bowel 
+diseases.  Transepithelial  electrical  resistance  (TEER)  measurements,  expressed  in  Ω/cm,2  were  performed  with  a  -
+Millicell®  ERS-2  device,  after  either  a  24-hours  or  a  72-hours  incubation  period,  with/without  PHA-treated-PBMCs 
+SN, with/without either the Veh. or c-MIM-1, added 30 minutes before the SN (Figure 4A). 10 mM of sodium caprate 
+(C10)  was  used  as  a  positive  inducer  of  the  epithelial  barrier  disruption  and  served  as  an  internal  control  attesting  the 
+relevance of the model. The results in presence of PHA-treated PBMCs SN incubated for 24 and 72 hours are presented 
+in Figure 4B and C, respectively.
+
+As expected, the C10 stimulation alone decreased the TEER compared with the untreated control (Figure 4B and C, 
+red histograms vs white  histograms). Similarly,  SN from PBMCs activated  with PHA, also  led to a  decrease in TEER 
+compared with the untreated HCoEpiC cells (Figure 4B and C, orange histograms vs white histograms), thus confirming 
+here the relevance of these SN as a pro-inflammatory stimulus.
+
+Interestingly,  c-MIM-1  protected  the  epithelial  cells  against  the  PHA-stimulated  PBMCs  SN-induced  disruption 
+(Figure  4B,  pink  histogram  vs  yellow  histogram),  after  24  hours.  Regarding  the  TEER  results  obtained  at  72  hours, 
+c-MIM-1  effects  appear  to  be  transient,  as  these  protective  effects,  almost  disappeared  (Figure  4C  pink  histogram  vs 
+yellow  histogram).  The  results  derived  from  three  independent  experiments  provide  for  the  first  time,  indications  of 
+a potential effect of the c-MIM-1 formulation towards the protection of the epithelial barrier in an inflammatory context 
+in vitro.
+
+The  effect  of  c-MIM-1  was  assessed  in  human  HCoEpiC  cells  in  absence  of  inflammation,  too.  As  shown  in 
+Supplementary  Figure  S1,  c-MIM-1  does  not  alter  the  barrier  permeability  compared  to  the  control  (Ct),  rather  it 
+seems  that  c-MIM-1  has  restored  the  resistance  and  has  strengthened  the  epithelial  barrier  at  24  hours  in  comparison 
+with the Veh., which has induced a small TEER decrease.
+
+c-MIM-1 Slightly Increased Claudin-1 Expression in a Cellular Model of Intestinal 
+Inflammation
+In  light  of  the  previous  encouraging  results,  we  wanted  to  investigate  if  the  tested  medicine  could  modulate  the 
+expression  of  one  of  the  proteins  present  within  the  tight  junctions,  involved  in  the  regulation  of  the  epithelial  barrier 
+permeability. Indeed, claudin-1 is widely expressed in the intestinal epithelium and plays an important role in maintain-
+ing intestinal barrier integrity.35  Briefly, HCoEpiC cells were treated with either the Veh. or c-MIM-1 for 24 hours, and 
+SN from PHA-treated PBMCs were then added for an additional 30 minutes incubation. The cells were then harvested 
+
+6704
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2022:15 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                   
+
+Jacques and Floris
+
+Figure  4  C-MIM-1  displays  a  protective  effect  against  intestinal  permeability  in  a  model  of  intestinal  cells  inflamed  with  phytohemagglutinin  (PHA)-stimulated  PBMCs 
+supernatants (SN). (A) Representative scheme of the experimental protocol. In the upper panel, the production of the PHA-stimulated peripheral blood mononuclear cells 
+(PBMCs) supernatants (SN) is illustrated. The lower panel shows the evaluation of the effect of c-MIM-1 on the transepithelial electrical resistance (TEER) in a model of 
+HCoEpiC cells. FCS, fetal calf serum; HBSS, Hanks’ balanced salt solution. Briefly, PBMCs from healthy adult volunteers’ donors were isolated by Ficoll-Hypaque density 
+gradients and the cells were seeded in 24-well round-bottom plates and stimulated with PHA (5 µg/mL) for 48 hours. At the end of the incubation period, the SN containing 
+pro-inflammatory cytokines were harvested. In parallel, HCoEpiC cells were grown in 24-well plate inserts until tight confluence. Cells were either not treated (Ct), treated 
+with Veh. or treated with c-MIM-1 for 30 min before media replacement with either regular DMEM media or PHA-stimulated PBMCs SN during the next 24 hours or 72 
+hours. 30 minutes before the TEER measurement, the media was replaced with HBSS without phenol red alone in the basolateral area, in the apical chamber. Each condition 
+has been measured in 3 individual wells (n = 3) and a condition in which C10 alone was incubated was used as a positive control for the induction of the epithelial disruption. 
+(B and C) Effect of c-MIM-1 on HCoEpiC TEER after 24 or 72 hours of stimulation with PHA-induced PBMCs SN. Raw data were provided as the measures of the Ω/cm² for 
+each  triplicate,  and  were  then  expressed  as  percentages  of  the  control  conditions,  set  as  100%.  Each  histogram  illustrating  the  mean  ±  SD  obtained  for each  assessed 
+condition, in 3 independent experiments. The black dotted lines highlight the effect of c-MIM-1 compared with Veh.
+
+and  mRNA  and  protein  samples  were  extracted  for  claudin-1  expression  analysis.  The  results  of  the  RT-qPCR  are 
+presented  in  Figure  5A  and  the  results  from  the  Western  Blots  are  illustrated  in  Figure  5B.  Overall,  in  inflammatory 
+conditions, the Veh. did not modulate the claudin-1 expression at the mRNA level, compared with the SN from the PHA- 
+treated PBMCs condition. However, when the cells were treated with c-MIM-1, a slight increase (of about 20%) in the 
+claudin-1  expression  was  observed.  In  addition,  according  to  the  Western  Blot  quantization,  this  trend  tended  to  be 
+confirmed at the protein level, in a similar range of increase. Such results were also observed without any inflammatory 
+stimulus (Supplementary Figure S2).
+
+Journal of Inflammation Research 2022:15                                                                                          
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                       
+
+6705
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Jacques and Floris                                                                                                                                                   
+
+Dovepress
+
+Figure 5 C-MIM-1 slightly increases the expression of claudin-1 in a cellular model of intestinal inflammation. (A) The expression of claudin-1 was assessed by RT-qPCR in 
+the HCoEpiC cells, after 24 hours of treatment with either the Veh. or c-MIM-1 and stimulation with the supernatant (SN) from PBMCs treated with PHA (5µg/mL) for 30 
+min. The claudin-1 expression has been normalized by the one of the housekeeping gene GAPDH, and the control conditions, without any treatment, have been set at 1. The 
+experiment has been done once; each condition was performed in triplicate. (B) The relative expression of claudin-1 at protein level has been assessed by Western Blot in 
+the same cellular conditions as above. The expression of β-actin has been used as a housekeeping gene for the protein expression. The claudin-1/β-actin ratios are presented 
+in PHA-stimulated PBMCs SN conditions, respectively, after quantization of the Blot’s pictures, using the online ImageJ software (downloaded on the 2nd of May 2022). The 
+Western Blots were run twice and the mean ratios ± SD obtained from each Blot are shown. The black dotted lines highlight the effect of c-MIM-1 compared with Veh.
+
+c-MIM-2 Displays Anti-Inflammatory Effects in Human Primary Monocytes Exposed to 
+Lipopolysaccharide
+The role of TNF-α as a mediator of chronic inflammation,36 as well as the capacity of PGE2 in exacerbating the severity 
+of  the  inflammatory-mediated  diseases,16  both  attest  to  the  necessity  for  a  better  understanding  of  the  effect  of  these 
+factors when included in MI formulation at ULD. Interestingly, c-MIM-2 rightly contains PGE2 at the inhibitory dose of 
+200 K, altogether with TNF-α and IL-1β at 17 CH, IL-6 at 9 CH, and the anti-inflammatory cytokine IL-10 at 4 CH. In 
+order to assess the ability of c-MIM-2 to act as an anti-inflammatory agent, and in particular, in reducing the secretion of 
+TNF-α and PGE2, a cellular model of human primary monocytes inflamed with LPS was chosen. One of the reasons for 
+this model’s  selection  relies  on the  fact that  monocytes exposed  to LPS  produce  high  levels  of  TNF-α,37  and  PGE2,38 
+making them a suitable model to test the capacity of c-MIM-2 to down-regulate their expression.
+
+The followed protocol is illustrated in Figure 6A but, briefly, the cells were isolated from three different donors and 
+then incubated with either Veh. or c-MIM-2. The inflammatory stimulus was delivered to the cells in the form of a 10 ng/ 
+mL  LPS  threat,  30  minutes  after  the  initiation  of  the  treatment.  The  treatments  were  applied  for  24  hours  and  the 
+secretion of the pro-inflammatory factors TNF-α and PGE2 was evaluated within the SN by ELISA assay. The results are 
+presented  in  Figure  6B–E  either  as  a  percentage  of  the  cytokine  secretion  in  the  untreated  Ct  (-)  condition,  or  as 
+a percentage of the cytokine secretion in the Veh. condition, these latter being set as 100% for each tested cytokine. As 
+expected, LPS stimulation led to a drastic increase in TNF-α secretion compared with the untreated negative control Ct 
+(-) (Figure 6B), thus validating our model selection. In these inflammatory conditions, c-MIM-2 led to a reduction in the 
+TNF-α secretion of about 20% (Figure 6C) compared with the Veh. In the same manner, after LPS stimulation, which led 
+to a high increase in the basal secretion of PGE2, c-MIM-2 induced a decrease in the secretion of PGE2 of about 30% 
+(Figure  6D).  Finally,  as  c-MIM-2  contains  IL-1β  at  17  CH  and  IL-10  at  4  CH,  the  secretion  levels  of  these  two  other 
+cytokines  were  also appraised  in  the  same  conditions.  However,  while  c-MIM-2  did  not  affect  IL-1β,  the  IL-10  levels 
+were below the ELISA’s detection limit in all tested conditions (data not shown).
+
+c-MIM-3 Displays Modulatory Effects on Interleukin-6 Secretion in 
+Lipopolysaccharide-Exposed Human Macrophages and Granulocytes
+Human macrophages exposed to LPS markedly produce pro-inflammatory cytokines such as the pleiotropic cytokine IL-6.39 The 
+next experiment thus aimed at assessing if c-MIM-3 could modulate the secretion of IL-6 in a model of LPS-inflamed human 
+
+6706
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2022:15 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                   
+
+Jacques and Floris
+
+Figure 6 C-MIM-2 diminished the secretion of pro-inflammatory cytokines in human primary monocytes. (A) Experimental scheme for the cytokines secretion assessment 
+in presence of c-MIM-2. Human primary monocytes were treated during 24 hours with either Veh. or c-MIM-2. LPS (10 ng/mL) was added to the medium 30 minutes after 
+the treatment initiation, as an induced or the inflammatory conditions. The levels of secreted (B and C) TNF-α and (D and E) PGE2 were assessed in the culture media at 
+the end of the incubation time by ELISA assay. The results are presented as the mean percentage ± SD of the values obtained for each donor. Each condition was performed 
+in triplicate for each donor (3 donors) and in duplicate for the LPS conditions. The results are presented either as a percentage of the Ct (-) secretion or as a percentage of 
+the Veh. secretion (set at 100%). The black dotted lines highlight the effect of c-MIM-2 compared with Veh. 
+Abbreviation: SN, supernatants.
+
+macrophages. The experimental scheme is illustrated in Figure 7A, but briefly, CD14+-cells were isolated from one healthy donor 
+and were incubated for 6 days in a macrophage-differentiation medium supplemented with M-CSF 100 ng/mL. At day 6 (D6), 
+the cells were treated with 100 ng/mL LPS concomitantly with either the Veh. or c-MIM-3 for a period of 24 hours or 48 hours. 
+The amount of IL-6 released in the SN was quantified by ELISA at the end of the two tested incubation periods. As expected, 24 
+hours  of  LPS-stimulation  induced  a  drastic  increase  in  the  secretion  of  IL-6  compared  with  the  untreated  control  Ct  (-) 
+(Figure 7B). Interestingly, after 24 hours in presence of c-MIM-3, a slight decrease in the amount of IL-6 in the SN was noticed 
+(about 10%) compared with the Veh. (Figure 7C). In the same manner, while at 48 hours, the induction of IL-6 secretion due to 
+LPS exposure was even more important than the one observed after 24 hours (Figure 7D vs B), the reduction induced by c-MIM- 
+3 was also slightly more pronounced (about 15%) after this longer incubation period (Figure 7E vs C).
+
+Finally,  the  effect  of  c-MIM-3  on  the  IL-6  secretion  was  also  assessed  in  a  model  of  human  primary  granulocytes 
+isolated from one healthy donor and incubated with either Veh. or c-MIM-3 for 19 hours (Figure 7F). The inflammatory 
+stimulus was added one hour after treatment initiation, in the form of 1 µg/mL LPS. The levels of IL-6 were assessed by 
+cytometric bead  array (CBA)  at the end of the incubation  period (Figure 7G  and H). As  illustrated in Figure 7G, LPS 
+alone elicited a strong IL-6 response when compared with the Ct (-). However, this response was weaker than the one 
+observed in macrophages. In this model, the effect of c-MIM-3 on the secretion of this cytokine was barely any different 
+from the Veh.
+
+Journal of Inflammation Research 2022:15                                                                                          
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                       
+
+6707
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Jacques and Floris                                                                                                                                                   
+
+Dovepress
+
+Figure 7 C-MIM-3 modulated the secretion of pro-inflammatory cytokines in immune cells. (A) Experimental scheme for the cytokine secretion assessment in presence of 
+c-MIM-3. Human primary monocytes were differentiated into macrophages during 6 days and were then treated during 24 hours or during 48 hours with either Veh. or 
+c-MIM-3. LPS (100 ng/mL) was added to the medium at the same time, as an inducer or the inflammatory conditions. The secreted levels of IL-6 were measured by ELISA 
+assay after (B and C) 24 hours or (D and E) 48 hours. The results are presented as the mean percentage ± SD of the values obtained for each triplicate per condition (n = 6 
+for  the  LPS  conditions). The  untreated negative control  (Ct (-))  or  the  Veh.  conditions  are set  at  100%.  (F)  Experimental  scheme  for  the  IL-6  secretion  assessment  in 
+presence of c-MIM-3. Human primary granulocytes freshly isolated from one healthy donor were seeded in 48-wells plates and pre-incubated during one hour in presence of 
+either the Veh. or c-MIM-3. LPS (1 µg/mL) was then added to the medium, as an inducer of the inflammatory conditions. The secreted levels of IL-6 were measured by CBA 
+18 hours later. The secreted levels of IL-6 were evaluated after stimulation with LPS alone (G), and in presence of either the Veh. or c-MIM-3 (H). The results are presented 
+as the mean percentage ± SD of the values obtained for each triplicate. For each panel, the black dotted lines highlight the effect of c-MIM-2 and c-MIM-3 compared with Veh. 
+Abbreviation: SN, supernatants.
+
+6708
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2022:15 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                   
+
+Jacques and Floris
+
+c-MIM-4 Displays Anti-Inflammatory Effects in a Cellular Model of Neuronal 
+Inflammation
+The following part of this study aimed at considering the effects of c-MIM-4 in a neuronal model of inflammation. In 
+order to do so, rat cortical neurons and glial cells were cultured in presence of a combination of LPS (100 ng/mL)/IFN-γ 
+(10 ng/mL), to provide an inflammatory stimulus, and treated during 96 hours with either the Veh., c-MIM-4 or MK801, 
+an  antagonist  of  N-methyl-D-aspartate  (NMDA)  receptor  that  has  antidepressant-like  effects,  used  as  a  reference 
+compound for neuron protection.40  The cell survival was assessed after immune-staining with an anti-MAP-2 antibody, 
+which  is  specific  for  neurons.  The  TNF-α  release  was  investigated,  too.  The  experimental  scheme  is  illustrated  in 
+Figure 8A.
+
+The  results  about  neuronal  viability  are  presented  in  Figure  8B.  As  illustrated,  the  inflammatory  stimulus,  applied 
+during  72  hours,  induced  a  decrease  in  cortical  neurons  survival  compared  with  the  control  condition  (about  40%  of 
+
+Figure 8 C-MIM-4 displays anti-inflammatory effects in a cellular model of neuronal inflammation. (A) Representative scheme of the experimental protocol. Briefly, rat glial 
+cells (astrocytes/microglial cells) and rat cortical neurons were co-cultured during 8 days before treatment initiation with either Veh., c-MIM-4, or MK801 (20 µM). The 
+treatments were applied for 24 hours, before adding or not LPS (100 ng/mL)/IFN-γ (10 ng/mL) for an additional 24 hours. At this time, supernatants (SN) were harvested 
+and frozen for further ELISA analysis. The tested items ± LPS/IFN-γ were incubated another 48 hours before neurons survival analysis. The latter was performed after cell 
+fixation, permeabilization and staining with a monoclonal anti-microtubule associated protein 2 (MAP-2) antibody, specific towards neuron cell bodies and neurites. Images of 
+each culture wells were taken and the fluorescence was quantified. BDNF, brain-derived neurotrophic factor; FCS, fetal calf serum; PS, penicillin – streptomycin. (B) Effect of 
+a 96 hours c-MIM-4 treatment on rat primary cortical neurons survival, in presence of LPS (100 ng/mL)/IFN-γ (10 ng/mL), expressed in percentage of control medium. The 
+results are presented as the mean ± SD of n = 6 technical replicates. (C) Effect of a 48 hours treatment by c-MIM-4 on TNF-α release by astrocytes and microglial cells, 
+expressed as percentages of control medium (mean ± SD of n = 6 technical replicates). In this experiment, the cells were pre-incubated during 24 hours with either Veh., 
+c-MIM-4 or MK801, then LPS (100 ng/mL)/IFN-γ (10 ng/mL) was added for an additional 24 hours. The black dotted lines highlight the effect of c-MIM-4 compared with the 
+Veh.
+
+Journal of Inflammation Research 2022:15                                                                                          
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                       
+
+6709
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Jacques and Floris                                                                                                                                                   
+
+Dovepress
+
+cellular death; Figure 8B, red histogram vs white histogram). As expected, the reference molecule, MK801, at 20 µM, 
+applied during the entire 96 hours incubation period, restored the survival of neurons to a level that is comparable to the 
+uninflamed, untreated control (about 95% of neuron survival, Figure 8B, white, red, and green histograms). Interestingly, 
+while  the  Veh.  did  not  seem  to  impact  cellular  viability  (Figure  8B,  grey  histogram  vs  red  histogram),  treatment  with 
+c-MIM-4 was able to rescue neurons from cell death (about 90% of cell survival, Figure 8B, pink histogram).
+
+The  effect  of  c-MIM-4  on  the  release  of  TNF-α  by  reactive  glial  cells  (astrocytes  and  microglia  cells)  was  also 
+appraised  after  48  hours  of  c-MIM-4  treatment  (Figure  8A).  As  observed  in  Figure  8C,  the  inflammatory  stimulus 
+induced an increase of about 40% in the TNF-α secretion by activated glial cells, compared to the control medium. Veh. 
+and  MK801  (20  µM),  both  displayed  similar  effects  on  TNF-α  secretion,  by  slightly  decreasing  it  compared  to  the 
+inflammatory control medium. Interestingly, treatment with c-MIM-4 decreased the TNF-α release by activated glial cells 
+by about 10% compared with the Veh. conditions (Figure 8C, grey histogram vs pink histogram). Taken together, these 
+results  illustrate  for  the  first  time,  the  anti-inflammatory  potential  of  the  complex  MI  formulation  c-MIM-4,  and  its 
+positive role in neuro-protection in a context of LPS/IFN-γ-induced threat.
+
+The  cell  survival  was  finally  assessed  in  absence  of  inflammation  in  the  same  cells.  As  showed  in  Supplementary 
+Figure S3, the treatment did not affect the neuronal viability, thus suggesting that the tested MI formulation only acts in 
+homeostatic-disrupted models of neuronal cells.
+
+Discussion
+In this study, we focused our attention on several MIMs which, based on their compositions, and according to previous 
+published  works,4,9,10  may  exert  anti-inflammatory  effects  in  different  specific  inflammatory  contexts  (Figure  2).  With 
+this in mind, the body of data that we provide here particularly resonates with one of our works, in which we reported 
+that the two unitary medicines TNF-α (27 CH) and IL-1β (27 CH) displayed the capacity to inhibit the secretion of IL-1β 
+and TNF-α, in a model of human primary monocytes as well as in THP-1 cells, after LPS exposure.9
+
+Here,  the  same  unitary  MI  medicines  IL-1β  (27  CH)  and  TNF-α  (27  CH)  (referred  to  as  u-MIM-1  and  −2, 
+respectively)  were  assessed  for  their  anti-inflammatory  capacities  in  a  model  of  intestinal  inflammation.  The  HT-29 
+cell line was thus used, due  to the  fact that  these human colorectal adenocarcinoma cells of  epithelial morphology are 
+widely  used  as  an  in  vitro  model  to  study  absorption,  transport,  and  secretion  by  intestinal  cells.41,42  Under  standard 
+culture conditions, these cells grow as a nonpolarized, undifferentiated multilayer. At basal levels, without inflammation, 
+our  results  show that  they  express  mRNA  of  both  IL-1β and  TNF-α,  the amount  of  TNF-α being  more than  ten  times 
+higher than the one of IL-1β (Figure 3B and C). Surprisingly, in their study, Eckmann et al were only able to detect IL-1β 
+mRNA but no TNF-α in these cells.43 Interestingly, in TNF-α-stimulated conditions, our model showed an increase in the 
+transcription of TNF-α, thus suggesting an auto-amplificatory effect of this cytokine on its own expression. Even if such 
+effect was already highlighted in TNF-α-treated 3T3-L1 adipocytes and in TNF-α-injected C57BL/6J mice,44 it is, to the 
+best of our knowledge, the first time that such an auto-inducive effect of TNF-α was reported in a colonic epithelial cell 
+model. In any event, in this model of inflamed HT-29 cells, both u-MIM-1 and u-MIM-2, when employed at 27 CH, were 
+able  to  down-regulate  mRNA  levels  of  IL-1β  and  TNF-α  (Figure  3B  and  C).  These  results  let  us  assume  that  c-MIM 
+formulations including these two factors at ULD could display interesting anti-inflammatory properties.
+
+The  intestine  is  the  largest  barrier  to  the  external  environment  and  preserving  its  integrity  is  crucial  for  the  whole- 
+body  homeostasis.  Cytokines  are  known  to  play  an  important  role  in  maintaining  intestinal  homeostasis  as  they 
+coordinate  diverse  functions  of  the  intestinal  epithelium  (proliferation,  viability,  barrier  permeability),  as  well  as  they 
+orchestrate the communication between intestinal cells and resident immune cells.45  In particular, multiple studies have 
+revealed  the  protective  effects  of  IL-10  in  maintaining  a  healthy  intestinal  epithelium  and  a  good  balance  between 
+permeability and barrier functions.46–48  The observed effects of c-MIM-1 in our in vitro intestinal model, which, alone, 
+could  limit  the  barrier  disruption  induced  by  the  pro-inflammatory  cocktail  provided  by  SN  from  PHA-stimulated 
+PBMCs (Figure 4), are in line with these pieces of evidence. It should also be noted that c-MIM-1 employs LD of IL- 
+10  together  with  ULD  of  IL-1β,  TNF-α,  and  IL-8.  These  three  pro-inflammatory  cytokines  are  involved  in  both  the 
+initiation  and  the  progression  of  the  inflammatory  environment  which  leads  to  intestinal  injury,  increased  intestinal 
+permeability, and the development of intestinal inflammatory-related diseases.14,49,50 Counteracting the elevated levels of 
+
+6710
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2022:15 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                   
+
+Jacques and Floris
+
+pro-inflammatory  cytokines  in  the  intestine  may  be  a  valid  therapeutic  solution  in  various  intestinal  inflammatory 
+disorders.33,51  Keeping in mind that c-MIM-1’s formulation includes ULD of the pro-inflammatory factors TNF-α, IL- 
+1β,  and  IL-8,  it  is  important  to  consider  that  their  ULD  employ  may  have  downregulated  the  physiological/biological 
+effects  of  these  cytokines,  helping  in  restoring  the  epithelial  permeability  and  the  tight  junctions’  proteins’  expression 
+impaired by the inflammatory condition induced in vitro. Precisely, while additional studies are necessary to confirm the 
+beneficial effects of c-MIM-1 and to understand its mode of action, our results revealed that it could act on claudin-1, as 
+it slightly increased its expression, both at mRNA and at protein levels (Figure 5).
+
+Previous pieces of evidence have indeed demonstrated that inflammatory stimuli, such as TNF-α exposure, lead to the 
+reduction of claudin-1 expression and an altered epithelial permeability.52 Moreover, Maria-Ferreira et al also reported that 
+IL-1β treatment led to a decrease in claudin-1 protein expression in Caco-2 cells.53 Although no direct evidence of the role 
+of IL-8 in claudin-1 regulation has been reported yet, this cytokine was however demonstrated to exert an inhibitory effect 
+towards the mRNA expression of claudin-5 and occludin, in a dose- and in a time-dependent fashion, in endothelial cells.54 
+On the other hand, c-MIM-1 also contains LD of the anti-inflammatory cytokine IL-10, with the intention to stimulate the 
+conventional  cellular  responses  to  this  cytokine.  While  the  relationship  between  IL-10  and  claudin-1  still  needs  to  be 
+refined, it was reported that claudin-1 localization was altered in liver cells from a model of IL-10-knocked-out mice, in 
+which  colitis  was  induced  with  dinitrobenzene  sulfonic  acid.55  Altogether,  these  data  let  us  presume  that  the  effect  of 
+c-MIM-1 on claudin-1 expression (Figure 5) could be attributable to the presence of TNF-α, IL-1β and IL-8 in ULD in its 
+formulation,  as  well  as  IL-10  at  LD,  and  highlight  the  fact  that  a  deeper  analysis  of  c-MIM-1’s  global  effect  on  the 
+expression of tight junctions’ proteins could be envisioned in the future.
+
+Regarding  the  interconnection  between  the  gut  and  the  immune  axis,  and  taking  into  consideration  the  crucial 
+involvement of pro-inflammatory cytokines in IBD, our results about the effects of c-MIM-2 on the secretion of TNF- 
+α and PGE2 in an LPS-stimulated human primary monocyte model are quite encouraging (Figure 6C, E). It has indeed 
+been  reported  that  TNF  initiated  different  and  redundant  cellular  cascades  participating  in  IBD  development.  In 
+particular, TNF was shown to contribute to the generation of an IL-12 and IFN-γ-driven Th1-like response, and to the 
+activation of a pathogenic CD8+  T cell compartment, in the TnfΔARE  IBD mouse model, supporting the link between gut 
+and  immunity.56  Moreover,  not  only  PGE2  is  involved  in  the  regulation  of  immune-related  patterns,57  but  it  was  also 
+shown  to  be  involved  in  IBD  development  in  mice,  especially  through  its  regulatory  effect  towards  the  IL-17/IL-23 
+axis.58  The  observed  reduction  in  the  secretion  of  these  two  factors,  TNF-α  and  PGE2,  after  c-MIM-2  treatment, 
+suggested the possible direct involvement of the two active substances, TNF-α (17 CH) and PGE2 (200 K), respectively. 
+In addition, such secretion’s reduction also suggested the involvement of IL-1β (17 CH), as IL-1β is directly implicated 
+in  the  TNF-α  gene  expression  in  a  PKC-dependent  manner,59  and  in  PGE2  expression  through  cAMP-PKA  signaling 
+pathway.60
+
+Given  the  importance  of  IL-6  in  inflammatory  responses  and  inflammatory-mediated  diseases,  including  IBD,  our 
+research  focused  on  this  cytokine.  It  has  been  reported  that  cultures  of  isolated  lamina  propria  mononuclear  cells  and 
+mucosal tissues from IBD patients exhibited higher IL-6 activity than healthy controls.61  This study also suggested that 
+the local elevation of IL-6 activity could be a characteristic of active IBD and that, macrophages and colonic epithelial 
+cells could be the responsible cells for this phenomenon. In this regard, our results showing a reduction of the levels of 
+IL-6  secretion  in  c-MIM-3-treated  inflamed-macrophages  (Figure  7C,  7E),  are  quite  encouraging  and  highlight  the 
+potential  of  c-MIM-3  to  be  used  to  decrease  the  inflammation  in  pathologies  such  as  IBD.  Moreover,  preclinical  and 
+clinical research studies support the fact that circulating levels of IL-6 are also elevated in several chronic inflammation- 
+mediated diseases other than IBD, like rheumatoid arthritis, systemic lupus erythematosus, ankylosing spondylitis, and 
+psoriasis.62 Thus, even if more studies are needed, these data could open the anti-inflammatory action’s scope of c-MIM- 
+3 to various pathological conditions related to inflammation in the future. On another hand, the different extents in IL-6 
+inhibition observed after c-MIM-3 treatment in macrophages and in granulocytes (Figure 7C, E, and H) confirmed the 
+necessity of an in-depth understanding of how MIM’s formulations work, especially towards immune-populations. At the 
+moment, it can be speculated that the effect of c-MIM-3 on the two assessed models could have depended on the degree 
+of IL-6 release induced by the inflammatory stimulus. The results obtained in our study suggest that the inhibitory effect 
+of c-MIM-3 on IL-6 occurs when the levels of IL-6 are very important (Figure B, D, and G). One of the limitations of the 
+
+Journal of Inflammation Research 2022:15                                                                                          
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                       
+
+6711
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Jacques and Floris                                                                                                                                                   
+
+Dovepress
+
+analysis here is that the experimental protocols were not exactly the same between the two models and further studies are 
+definitely  needed  in  order  to  compare  the  responses  of  the  immune  cells  regarding  c-MIM-3  treatment,  at  different 
+extents of inflammation.
+
+Finally,  it  is  also  important  to  highlight  that  c-MIM-3  employs  IL-6  at  9  CH,  and  this  dilution  belongs  to  the 
+modulatory dilutions of ULD-based MIM. While further studies aiming at assessing the cellular effects of unitaries MIM 
+employing modulatory ULD are necessary, this study discusses for the first time the results of a complex MIM that uses 
+a cytokine at 9 CH, on its own secretion.
+
+In their work, Mizuno et al reported the direct effect of IFN-γ on neurons; as they observed the formation of dendritic 
+beads containing proteins from collapsed cytoskeletal structures mediating neuronal dysfunctions, without increasing cell 
+death.63  However,  when  IFN-γ  is  combined  with  pro-inflammatory  cytokines,  including  TNF-α,  the  neurotoxicity  is 
+exacerbated and neurons viability decreases.64  Coherently with these previous pieces of evidence, the neuronal inflam-
+matory model used in the present study, that combined LPS and IFN-γ, induced an important neurotoxicity (Figure 8). 
+However, the tested c-MIM-4 formulation was able to almost rescue the neuronal viability and slightly reduce the release 
+of TNF-α. Thus, it can reasonably be hypothesized that the observed c-MIM-4’s effect on neuronal cytotoxicity reduction 
+could be due, at least partially, to the presence of ULD of TNF-α in its formulation, as this active ingredient may also be 
+the direct mediator of the observed c-MIM-4’ effect on TNF-α secretion. Moreover, the ULD of IL-12 in its formulation 
+may  also  have  had  an  effect  on  the  reduction  in  the  TNF-α  secretion,  as  it  was  reported  that  IL-12p40  monomer  and 
+homodimer  induced  TNF-α  production  in  mouse  BV-2  microglial  cells,  mouse  primary  microglia  and  peritoneal 
+macrophages.65
+
+The research at the frontiers of immunology and neuroscience has identified multiple points of convergence between 
+the  immune  system  and  the  nervous  system.  Thanks  to  the  overall  molecular  mechanistic  studies  on  this  concern,  the 
+knowledge about the neuro-immune interactions has advanced greatly. Nowadays, a growing body of evidences supports 
+that,  pro-inflammatory  cytokines  such  as  TNF-α  and  IL-1β,  and  the  clinical  situation  related  to  their  uncontrolled 
+overexpression,  also  referred  as  chronic  inflammation,  are  extremely  linked  with  the  establishment  of  pathological/ 
+chronic pain.66  Pain is considered chronic and pathological when it lasts at least 3 months.67  It has been demonstrated 
+that sensory neurons express cytokine receptors, including IL-1βR, TNF-αR, IL-6R, and G protein-coupled receptors for 
+serotonin,  histamine,  and  PGE2.68,69  Activation  of  these  receptors  expressed  by  nearby  nociceptive  neurons  leads  to 
+enhanced membrane excitability and sensitization, which in turn, induce an over the responsiveness of those neurons, and 
+the consequent development of pathological pain.69 Downregulating these pro-inflammatory mediators may represent the 
+key strategy to improve chronic inflammation and the related pain. The therapeutic potentials of the MI formulations, by 
+reducing the secretion of TNF-α and IL-1β, and/or PGE2, and/or IL-6, can indeed cover a very large spectrum of chronic- 
+inflammatory mediated illness and conditions.
+
+Visceral  pain  is  one  of  the  major  impediments  of  IBD,  as  it  highly  affects  patients’  quality  of  life.  Interestingly, 
+neutralization  of  TNF-α  was  reported  to  rapidly  decrease  pain  perception  in  the  brain  of  patients  with  Crohn's  disease 
+responding  to  anti-TNF  therapy.70  Moreover,  the  role  of  TNF-α  and  satellite  glial  cells’  activation  in  neuron-glial 
+communication  has  been  highlighted  in  the  context  of  inflammatory  visceral  hyperalgesia,  in  a  model  of  rat-induced 
+colonic inflammation in which intrathecal administration of anti-TNF-α (10 µg/kg/day) reduced visceral pain behavioral 
+responses.71  With  this  data  in  mind,  reducing  TNF-α  secretion  through  the  use  of  the  MI  formulation  c-MIM-4  could 
+allow acting on TNF-α-mediated neuron-glial communication axis, which may result in antinociceptive effects in IBD.
+As  we  developed  all  along  the  article,  the  three  different  inflammation  contexts  and  models  used  are  all  intercon-
+nected together as the gut, the immune cells, and the nervous axis are constantly communicating between them. To cite 
+some examples, several studies suggest that peripheral inflammation linked to IBD could also be a potential risk factor 
+for  certain  neurodegenerative  disorders.  For  instance,  ulcerative  colitis  has  been  reported  to  exacerbate  LPS-induced 
+damage to the nigral dopaminergic system.72  As another example, a clinical study carried out in patients suffering from 
+rheumatoid  arthritis  (a  chronic  inflammatory  and  autoimmune  disease),  demonstrated  the  efficacy  of  electrical  vagus 
+nerve stimulation in attenuating the symptoms and significantly inhibiting circulating levels of TNF, IL-1β, and IL-6.73
+Another  important  consideration  that  can  finally  be  developed  is  about  the  reported  comorbidity  of  depression  and 
+chronic  pain  and  the  possibility  that  inflammation  is  the  common  mediator  of  this  comorbidity.74  Preclinical  studies 
+
+6712
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2022:15 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                   
+
+Jacques and Floris
+
+demonstrated  that  intracerebroventricular  injections  of  proinflammatory  cytokines  such  as  TNF-α  and  IL-1β  were 
+sufficient  to  produce  depressive-like  behaviors  in  rats,75  highlighting  the  crucial  role  of  these  two  key  cytokines,  in 
+neuronal inflammation and the related depression.
+
+Conclusion
+Overall,  the  present  study  highlighted  the  anti-inflammatory  effects  of  several  MIM  preparations,  which  all  include  in 
+their formulations ULD of IL-1β and TNF-α, in three different contexts of inflammation. The main results of this study 
+are thus put together and illustrated in Figure 9 and could be summarized as this: MI formulations containing ULD of IL- 
+1β  and  TNF-α  displayed  anti-inflammatory  effects  in  several  models  of  inflammation  related  to  the  (i)  intestinal 
+inflammation,  (ii)  immune-cells  mediated-systemic  inflammation  and,  (iii)  neuronal  inflammation,  and  could  all  be 
+linked  together  in  an  attempt  to  control  the  inflammation  within  the  body.  In  conclusion,  it  can  be  said  that  u-MIM-1 
+and −2 down-regulated the mRNA expression of both IL-1β and TNF-α in an in vitro model of intestinal inflammation. 
+In the same cellular model, under inflammatory conditions mimicked by incubation with SN from PHA-treated PBMCs, 
+c-MIM-1  allowed  a  restoration  of  the  epithelial  resistance,  probably  due  to  an  increase  in  the  expression  of  the  tight 
+
+Figure 9 Recapitulative scheme about the anti-inflammatory effects of IL-1β and TNF-α, when employed at ULD in MI medicines formulations. The two unitary medicines 
+IL-1β  (27  CH)  and  TNF-α  (27  CH)  (u-MIM-1,  and  −2,  respectively),  as  well  as  the  four  MI  complex  formulations  (c-MIM-1,  −2,  −3,  and  −4)  display  anti-inflammatory 
+properties in the context of (i) intestinal inflammation (red box), (ii) inflamed-immune cells related to systemic inflammation (blue box), and (iii) neuronal inflammation 
+(yellow box) contexts. Purple arrows illustrate the fact that IL-1β and TNF-α are included into MI formulations, either in u-MIM or in c-MIM. Green arrows illustrate the 
+interconnexions between the different inflammatory contexts (i), (ii) and (iii). 
+Abbreviations: MI, micro-immunotherapy; ULD, ultra-low dose.
+
+Journal of Inflammation Research 2022:15                                                                                          
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                       
+
+6713
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Jacques and Floris                                                                                                                                                   
+
+Dovepress
+
+junctions’ protein, claudin-1. In addition, MIM-2 and −3 were shown to decrease the secretion of the pro-inflammatory 
+factors TNF-α, PGE2, and IL-6 in LPS-stimulated monocytes/macrophages. Finally, c-MIM-4 was able to restore the cell 
+viability of murine primary neurons inflamed with a combination of LPS/IFN-γ, while reducing their TNF-α secretion. 
+Even if more data are definitely needed, these results highlight for the first time that MI formulations may be a useful 
+strategy to manage a large spectrum of inflammation-related diseases, including IBD or depression.
+
+Abbreviations
+BDNF,  brain-derived  neurotrophic factor; CBA,  cytometric  bead  array; CH,  centesimal Hahnemannian;  DNA,  deoxyr-
+ibonucleic acid; ELISA, enzyme-linked immunosorbent assay; EFS, Etablissement Français du Sang; F, forward; FBS, 
+fetal  bovine  serum;  FCS,  fetal  calf  serum;  GAPDH,  glyceraldehyde-3-phosphate  dehydrogenase;  GI,  gastro-intestinal 
+tract; HBSS, Hank’s buffered saline solution; HLA, human leukocyte antigen; hr, human recombinant; IBD, inflamma-
+tory bowel diseases; IFN, interferon; ILs, interleukins; K, Korsakovian dilution; LD, low dose; LPS, lipopolysaccharide; 
+MAP-2,  microtubule-associated  protein  2;  MCH,  major  histocompatibility  complex;  M-CSF,  macrophage  colony- 
+stimulating  factor;  MI,  micro-immunotherapy;  MIM,  micro-immunotherapy  medicine;  NDMA,  N-methyl-D-aspartate; 
+OSM, oncostatin M; PBMCs, peripheral blood mononuclear cells; PBS, phosphate buffer saline; PHA, phytohemagglu-
+tinin;  PMSF,  phenylmethyl  sulfonyl  fluoride;  P/S,  penicillin/streptomycin;  PVDF,  polyvinylidene  fluoride;  R,  reverse; 
+RNA,  ribonucleic  acid;  RT,  room  temperature;  SD,  standard  deviation;  SKP,  serial  kinetic  process;  SN,  supernatant; 
+SNA®, specific nucleic acids; TBS, tris-buffered saline; TEER, transepithelial electrical resistance; TGF-β, transforming 
+growth factor-β; TNF-α, tumor necrosis factor-α; ULD, ultra-low dose; Veh, vehicle.
+
+Acknowledgments
+The authors are grateful to the staff of  Intestinal Biotech Development (especially Pierre Desreumaux, Nghiep Truong 
+Tan,  and  Christel  Rousseaux),  for  their  work  in  performing  the  experiments  of  the  in  vitro  study  on  the  intestinal 
+inflammatory model. The authors would like to thank the staff of Atlantic Bone Screen, especially Mathieu Riffault for 
+his work on the evaluation of the cytokine secretion in monocytes, Emilie Schol and Adrien Brulefert (QIMA Sciences), 
+for having supervised the in vitro experiments on the evaluation of the cytokine secretion in granulocytes and Kurt Appel 
+(VivaCell  Biotechnology  GmbH)  for  having  supervised  the  in  vitro  experiments  on  the  LPS-inflamed  primary  mono-
+cytes. The authors would also like to thank Neuron Experts, and especially Remy Steinschneider, for having supervised 
+the experiments done in the neuronal inflammatory model as well as Jean-Claude Santiago Michea and Mourad Ouamer 
+for  having  performed  the  experiments  with  neurons  and  the  image  analysis,  respectively.  The  authors  wish  to  thank 
+Nicoletta Libera Lilli and Beatrice Lejeune  for their  substantial contribution to the conception  and management of the 
+in vitro studies on the intestinal and neuronal inflammatory models. The authors would like to thank Anne Naedts, Cédric 
+Wolf, Coralie Lhots, Virginie Reynders, Sylvain D’Hooghe, and David Wilders for having prepared, provided and sent 
+the vehicle and the tested MI medicines to the laboratories. The authors would also like to thank Cloé Azarias, Dr. Pascal 
+Mensah, and Sofia Frau for their help in revising the manuscript. The authors finally thank Servier Medical Art (https:// 
+smart.servier.com/, accessed on 04/07/2022) for the items used in the figures.
+
+Author Contributions
+All  authors  made  a  significant  contribution  to  the  work  reported,  whether  that  is  in  the  conception,  study  design, 
+execution, acquisition of data, analysis and interpretation, or in all these areas; took part in drafting, revising or critically 
+reviewing the article; gave final approval of the version to be published; have agreed on the journal to which the article 
+has been submitted; and agree to be accountable for all aspects of the work. The data of the current study are available 
+from the corresponding author on reasonable request.
+
+Funding
+This study was entirely funded by Labo’Life France.
+
+6714
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2022:15 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                   
+
+Jacques and Floris
+
+Disclosure
+The authors declared the following conflicts of interest with respect to the research, authorship, and/or publication of this 
+article, Camille Jacques and Ilaria Floris work for Labo’Life France, the company service provider of Labo’Life, which 
+is specialized in preclinical research and regulatory affairs. This professional relationship does not imply any misconduct 
+on the part of the authors.
+
+References
+
+1. Pahwa R, Goyal A, Jialal I. Chronic Inflammation. In: StatPearls. StatPearls Publishing; 2022.
+2. Wu R-Q, Zhang D-F, Tu E, Chen Q-M, Chen W. The mucosal immune system in the oral cavity—an orchestra of T cell diversity. Int J Oral Sci. 
+
+2014;6:125–132. doi:10.1038/ijos.2014.48
+
+3. Mowat AM, Agace WW. Regional specialization within the intestinal immune system. Nat Rev Immunol. 2014;14:667–685. doi:10.1038/nri3738
+4. Floris  I,  García-González  V,  Palomares  B,  Appel  K,  Lejeune  B.  The  micro-immunotherapy  medicine  2LARTH®  reduces  inflammation  and 
+
+symptoms of rheumatoid arthritis in vivo. Int J Rheumatol. 2020;2020:1594573. doi:10.1155/2020/1594573
+
+5. Floris  I,  Chenuet  P,  Togbe  D,  Volteau  C,  Lejeune  B.  Potential  role  of  the  micro-immunotherapy  medicine  2LALERG  in  the  treatment  of 
+
+pollen-induced allergic inflammation. Dose-Response Publ Int Hormesis Soc. 2020;18:1559325820914092.
+
+6. Jacques C, Chatelais M, Fekir K, et al. The micro-immunotherapy medicine 2LEID exhibits an immunostimulant effect by boosting both innate and 
+
+adaptive immune responses. Int J Mol Sci. 2022;23:110. doi:10.3390/ijms23010110
+
+7. Jacques  C,  Chatelais  M,  Fekir  K,  Brulefert  A,  Floris  I.  The  unitary  micro-immunotherapy  medicine  interferon-γ  (4  CH)  displays  similar 
+immunostimulatory  and  immunomodulatory  effects  than  those  of  biologically  active  human  interferon-γ  on  various  cell  types.  Int  J  Mol  Sci. 
+2022;23:2314. doi:10.3390/ijms23042314
+
+8. Decker M-L, Gotta V, Wellmann S, Ritz N. Cytokine profiling in healthy children shows association of age with cytokine concentrations. Sci Rep. 
+
+2017;7:17842. doi:10.1038/s41598-017-17865-2
+
+9. Floris I, Rose T, Rojas JA, et al. Pro-inflammatory cytokines at ultra-low dose exert anti-inflammatory effect in vitro, A possible mode of action 
+
+involving sub-micron particles? Dose-Response Publ Int Hormesis Soc. 2020;18:1559325820961723.
+
+10. Floris I, Appel K, Rose T, Lejeune B. 2LARTH®, a micro-immunotherapy medicine, exerts anti-inflammatory effects in vitro and reduces TNF-α 
+
+and IL-1β secretion. J Inflamm Res. 2018;11:397–405. doi:10.2147/JIR.S174326
+
+11. Jacques C, Floris I, Lejeune B. Ultra-low dose cytokines in rheumatoid arthritis, three birds with one stone as the rationale of the 2LARTH® micro- 
+
+immunotherapy treatment. Int J Mol Sci. 2021;22:6717. doi:10.3390/ijms22136717
+
+12. Bennett  JM,  Reeves  G,  Billman  GE,  Sturmberg  JP.  Inflammation-nature’s  way  to  efficiently  respond  to  all  types  of  challenges.  Implications  for 
+
+understanding and managing ‘the epidemic’ of chronic diseases. Front Med. 2018;5:316.
+
+13. Jacobson  A,  Yang  D,  Vella  M,  Chiu  IM.  The  intestinal  neuro-immune  axis,  crosstalk  between  neurons,  immune  cells,  and  microbes.  Mucosal 
+
+Immunol. 2021;14:555–565. doi:10.1038/s41385-020-00368-1
+
+14. Cotton  JA,  Platnich  JM,  Muruve  DA,  et  al.  Interleukin-8  in  gastrointestinal  inflammation  and  malignancy,  induction  and  clinical  consequences. 
+
+Int J Interferon Cytokine Mediat Res. 2016;8:13–34.
+
+15. Kumar  S,  Shukla  R,  Ranjan  P,  Kumar  A.  Interleukin-10,  A  compelling  therapeutic  target  in  patients  with  irritable  bowel  syndrome.  Clin  Ther. 
+
+2017;39:632–643. doi:10.1016/j.clinthera.2017.01.030
+
+16. Tsuge  K,  Inazumi  T,  Shimamoto  A,  Sugimoto  Y.  Molecular  mechanisms  underlying  prostaglandin  E2-exacerbated  inflammation  and  immune 
+
+diseases. Int Immunol. 2019;31:597–606. doi:10.1093/intimm/dxz021
+
+17. Couper  KN,  Blount  DG,  Riley  EM.  IL-10,  the  master  regulator  of  immunity  to  infection.  J  Immunol.  2008;180:5771–5777.  doi:10.4049/ 
+
+jimmunol.180.9.5771
+
+18. Iyer SS, Cheng G. Role of interleukin 10 transcriptional regulation in inflammation and autoimmune disease. Crit Rev Immunol. 2012;32:23–63. 
+
+doi:10.1615/CritRevImmunol.v32.i1.30
+
+19. Li MO, Flavell RA. Contextual regulation of inflammation, a duet by transforming growth factor-β and interleukin-10. Immunity. 2008;28:468–476. 
+
+doi:10.1016/j.immuni.2008.03.003
+
+20. Dinarello  CA,  Simon  A,  van  der  Meer  JWM.  Treating  inflammation  by  blocking  interleukin-1  in  a  broad  spectrum  of  diseases.  Nat  Rev  Drug 
+
+Discov. 2012;11:633–652. doi:10.1038/nrd3800
+
+21. Richards CD. The enigmatic cytokine oncostatin M and roles in disease. ISRN Inflamm. 2013;2013:e512103. doi:10.1155/2013/512103
+22. Hirano T. IL-6 in inflammation, autoimmunity and cancer. Int Immunol. 2021;33:127–148. doi:10.1093/intimm/dxaa078
+23. Tanaka T, Narazaki M, Kishimoto T. IL-6 in inflammation, immunity, and disease. Cold Spring Harb Perspect Biol. 2014;6:a016295. doi:10.1101/ 
+
+cshperspect.a016295
+
+24. Seyfizadeh N, Seyfizadeh N, Gharibi T, Babaloo Z. Interleukin-13 as an important cytokine, A review on its roles in some human diseases. Acta 
+
+Microbiol Immunol Hung. 2015;62:341–378. doi:10.1556/030.62.2015.4.2
+
+25. Valkanova  V,  Ebmeier  KP,  Allan  CLCRP.  IL-6  and  depression,  a  systematic  review  and  meta-analysis  of  longitudinal  studies.  J  Affect  Disord. 
+
+2013;150:736–744. doi:10.1016/j.jad.2013.06.004
+
+26. Kim Y-K, Suh I-B, Kim H, et al. The plasma levels of interleukin-12 in schizophrenia, major depression, and bipolar mania, effects of psychotropic 
+
+drugs. Mol Psychiatry. 2002;7:1107–1114. doi:10.1038/sj.mp.4001084
+
+27. Park  H-J,  Shim  H-S,  An  K,  et  al.  IL-4  Inhibits  IL-1  β  -induced  depressive-like  behavior  and  central  neurotransmitter  alterations.  Mediators 
+
+Inflamm. 2015;2015:941413. doi:10.1155/2015/941413
+
+28. Singer CA, Figueroa-Masot XA, Batchelor RH, Dorsa DM. The mitogen-activated protein kinase pathway mediates estrogen neuroprotection after 
+glutamate toxicity in primary cortical neurons. J Neurosci off J Soc Neurosci. 1999;19:2455–2463. doi:10.1523/JNEUROSCI.19-07-02455.1999
+29. Gresa-Arribas  N,  Viéitez  C,  Dentesano  G,  et  al.  Modelling  neuroinflammation  in  vitro,  a  tool  to  test  the  potential  neuroprotective  effect  of 
+
+anti-inflammatory agents. PLoS One. 2012;7:e45227. doi:10.1371/journal.pone.0045227
+
+Journal of Inflammation Research 2022:15                                                                                          
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                       
+
+6715
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Jacques and Floris                                                                                                                                                   
+
+Dovepress
+
+30. Kim  I-D,  Lee  J-K.  HMGB1-binding  heptamer  confers  anti-inflammatory  effects in  primary  microglia  culture.  Exp  Neurobiol.  2013;22:301–307. 
+
+doi:10.5607/en.2013.22.4.301
+
+31. Shu Z, Yang B, Zhao H, et al. Tangeretin exerts anti-neuroinflammatory effects via NF-κB modulation in lipopolysaccharide-stimulated microglial 
+
+cells. Int Immunopharmacol. 2014;19:275–282. doi:10.1016/j.intimp.2014.01.011
+
+32. Vaux DL. Research methods, Know when your numbers are significant. Nature. 2012;492:180–181. doi:10.1038/492180a
+33. Friedrich  M,  Pohin  M,  Powrie  F.  Cytokine  networks  in  the  pathophysiology  of  inflammatory  bowel  disease.  Immunity.  2019;50:992–1006. 
+
+doi:10.1016/j.immuni.2019.03.017
+
+34. Lin Z,  Huang  Y,  Jiang H,  et  al.  Functional differences and similarities  in  activated  peripheral blood  mononuclear  cells  by  lipopolysaccharide or 
+
+phytohemagglutinin stimulation between human and cynomolgus monkeys. Ann Transl Med. 2021;9:257. doi:10.21037/atm-20-4548
+
+35. Saeedi BJ, Kao DJ, Kitzenberg DA, et al. HIF-dependent regulation of claudin-1 is central to intestinal epithelial tight junction integrity. Mol Biol 
+
+Cell. 2015;26:2252–2262.
+
+36. Popa  C,  Netea  MG,  Van  Riel  PL,  Van  Der  Meer  JW,  Stalenhoef  AF.  The  role  of  TNF-α  in  chronic  inflammatory  conditions,  intermediary 
+
+metabolism, and cardiovascular risk. J Lipid Res. 2007;48:751–762. doi:10.1194/jlr.R600021-JLR200
+
+37. van der Bruggen T, Nijenhuis S, van Raaij E, Verhoef J, Sweder van Asbeck B. Lipopolysaccharide-induced tumor necrosis factor alpha production 
+by  human  monocytes  involves  the  Raf-1/MEK1-MEK2/ERK1-ERK2  Pathway.  Infect  Immun.  1999;67:3824–3829.  doi:10.1128/IAI.67.8.3824- 
+3829.1999
+
+38. Lu  Y,  Wahl  LM.  Oxidative  stress  augments  the  production  of  matrix  metalloproteinase-1,  cyclooxygenase-2,  and  prostaglandin  E2  through 
+enhancement  of  NF-κB  activity  in  lipopolysaccharide-activated  human  primary  monocytes.  J  Immunol.  2005;175:5423–5429.  doi:10.4049/ 
+jimmunol.175.8.5423
+
+39. Liu  X,  Yin  S,  Chen  Y,  et  al.  LPS-induced  proinflammatory  cytokine  expression  in  human  airway  epithelial  cells  and  macrophages  via  NF-κB, 
+
+STAT3 or AP-1 activation. Mol Med Rep. 2018;17:5484–5491. doi:10.3892/mmr.2018.8542
+
+40. Rana  P,  Bagewadi  H,  Banerjee  BD,  Bhattacharya  SK,  Mediratta  PK.  Attenuation  of  oxidative  stress  and  neurotoxicity  involved  in  the 
+antidepressant-like  effect  of  the  MK-801(dizocilpine)  in  bacillus  Calmette-Guerin-induced  depression  in  mice.  J  Basic  Clin  Physiol  Pharmacol. 
+2020;31. doi:10.1515/jbcpp-2019-0016
+
+41. Collett A, Sims E, Walker D, et al. Comparison of HT29-18-C1 and Caco-2 cell lines as models for studying intestinal paracellular drug absorption. 
+
+Pharm Res. 1996;13:216–221. doi:10.1023/A:1016082829111
+
+42. Martínez-Maqueda  D,  Miralles  B,  Recio  I.  HT29  Cell  Line.  in  the  Impact  of  Food  Bioactives  on  Health,  in  vitro  and  ex  vivo  Models.  eds. 
+
+Verhoeckx K. Springer International Publishing; 2015:113–124. doi:10.1007/978-3-319-16104-4_11
+
+43. Eckmann  L,  Jung  HC,  Schürer-Maly  C,  et  al.  Differential  cytokine  expression  by  human  intestinal  epithelial  cell  lines,  regulated  expression  of 
+
+interleukin 8. Gastroenterology. 1993;105:1689–1697. doi:10.1016/0016-5085(93)91064-O
+
+44. Neels  JG,  Pandey  M,  Hotamisligil  GS,  Samad  F.  Autoamplification  of  tumor  necrosis  factor-α.  Am  J  Pathol.  2006;168:435–444.  doi:10.2353/ 
+
+ajpath.2006.050699
+
+45. Andrews  C,  McLean  MH,  Durum  SK.  Cytokine  Tuning  of  Intestinal  Epithelial  Function.  Front  Immunol.  2018;9:1270.  doi:10.3389/ 
+
+fimmu.2018.01270
+
+46. Kominsky DJ, Campbell EL, Ehrentraut SF, et al. IFN-γ-mediated induction of an apical IL-10 receptor on polarized intestinal epithelia. J Immunol 
+
+Baltim Md. 2014;192:1267–1276.
+
+47. Lorén V, Cabré E, Ojanguren I, et al. Interleukin-10 enhances the intestinal epithelial barrier in the presence of corticosteroids through p38 MAPK 
+activity in caco-2 monolayers, A possible mechanism for steroid responsiveness in ulcerative colitis. PLoS One. 2015;10:e0130921. doi:10.1371/ 
+journal.pone.0130921
+
+48. Zheng L, Kelly CJ, Battista KD, et al. Microbial-derived butyrate promotes epithelial barrier function through IL-10 receptor-dependent repression 
+
+of claudin-2. J Immunol Baltim Md. 2017;199:2976–2984.
+
+49. Gitter AH, Bendfeldt K, Schmitz H, et al. Epithelial barrier defects in HT-29/B6 colonic cell monolayers induced by tumor necrosis factor-alpha. 
+
+Ann N Y Acad Sci. 2000;915:193–203. doi:10.1111/j.1749-6632.2000.tb05242.x
+
+50. Al-Sadi RM, Ma TY. IL-1β causes an increase in intestinal epithelial tight junction permeability. J Immunol Baltim Md. 2007;178:4641–4649.
+51. McLean  MH,  Neurath  MF,  Durum  SK.  Targeting  interleukins  for  the  treatment  of  inflammatory  bowel  disease—what  lies  beyond  anti-TNF 
+
+therapy? Inflamm Bowel Dis. 2014;20:389–397. doi:10.1097/01.MIB.0000437616.37000.41
+
+52. Ye X, Sun M. AGR2 ameliorates tumor necrosis factor-α-induced epithelial barrier dysfunction via suppression of NF-κB p65-mediated MLCK/ 
+
+p-MLC pathway activation. Int J Mol Med. 2017;39:1206–1214. doi:10.3892/ijmm.2017.2928
+
+53. Maria-Ferreira  D,  Nascimento  AM,  Cipriani  TR,  et  al.  Rhamnogalacturonan,  a  chemically-defined  polysaccharide,  improves  intestinal  barrier 
+
+function in DSS-induced colitis in mice and human Caco-2 cells. Sci Rep. 2018;8:12261. doi:10.1038/s41598-018-30526-2
+
+54. Yu H, Huang X, Ma Y, et al. Interleukin-8 regulates endothelial permeability by down-regulation of tight junction but not dependent on integrins 
+
+induced focal adhesions. Int J Biol Sci. 2013;9:966–979. doi:10.7150/ijbs.6996
+
+55. Mazzon E, Puzzolo D, Caputi AP, Cuzzocrea S. Role of IL-10 in hepatocyte tight junction alteration in mouse model of experimental colitis. Mol 
+
+Med. 2002;8:353–366. doi:10.1007/BF03402016
+
+56. Kontoyiannis D, Boulougouris G, Manoloukos M, et al. Genetic dissection of the cellular pathways and signaling mechanisms in modeled tumor 
+
+necrosis factor-induced Crohn’s-like inflammatory bowel disease. J Exp Med. 2002;196:1563–1574. doi:10.1084/jem.20020281
+
+57. Kalinski P. Regulation of immune responses by prostaglandin E2. J Immunol Baltim Md. 2012;188:21–28.
+58. Sheibanie  AF,  Yen  JH,  Khayrullina  T,  et  al.  The  proinflammatory  effect  of  prostaglandin  E2  in  experimental  inflammatory  bowel  disease  is 
+
+mediated through the IL-23–>IL-17 axis. J Immunol Baltim Md. 2007;178:8138–8147.
+
+59. Bethea  JR,  Gillespie  GY,  Benveniste  EN.  Interleukin-1β  induction  of  TNF-α  gene  expression,  Involvement  of  protein  kinase  C.  J  Cell  Physiol. 
+
+1992;152:264–273. doi:10.1002/jcp.1041520207
+
+60. Park  Y-G,  Kang  SK,  Noh  SH,  et  al.  PGE2  induces  IL-1beta  gene  expression  in  mouse  osteoblasts  through  a  cAMP-PKA  signaling  pathway. 
+
+Int Immunopharmacol. 2004;4:779–789.
+
+61. Kusugami K, Fukatsu A, Tanimoto M, et al. Elevation of interleukin-6 in inflammatory bowel disease is macrophage- and epithelial cell-dependent. 
+
+Dig Dis Sci. 1995;40:949–959. doi:10.1007/BF02064182
+
+62. Gabay C. Interleukin-6 and chronic inflammation. Arthritis Res Ther. 2006;8:S3. doi:10.1186/ar1917
+
+6716
+
+https://doi.org/10.2147/JIR.S389614                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2022:15 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                   
+
+Jacques and Floris
+
+63. Mizuno T, Zhang G, Takeuchi H, et al. Interferon-γ directly induces neurotoxicity through a neuron specific, calcium-permeable complex of IFN-γ 
+
+receptor and AMPA GluRl receptor. FASEB J. 2008;22:1797–1806. doi:10.1096/fj.07-099499
+
+64. Yu Z, Cheng G, Wen X, et al. Tumor necrosis factor alpha increases neuronal vulnerability to excitotoxic necrosis by inducing expression of the 
+AMPA-glutamate receptor subunit GluR1 via an acid sphingomyelinase- and NF-kappaB-dependent mechanism. Neurobiol Dis. 2002;11:199–213. 
+doi:10.1006/nbdi.2002.0530
+
+65. Jana M, Dasgupta S, Saha RN, Liu X, Pahan K. Induction of tumor necrosis factor-α (TNF-α) by interleukin-12 p40 monomer and homodimer in 
+
+microglia and macrophages. J Neurochem. 2003;86:519–528. doi:10.1046/j.1471-4159.2003.01864.x
+
+66. Vanderwall  AG,  Milligan  ED.  Cytokines  in  pain,  harnessing  endogenous  anti-inflammatory  signaling  for  improved  pain  management.  Front 
+
+Immunol. 2019;10:3009.
+
+67. Treede  R-D,  Rief  W,  Barke  A,  et  al.  Chronic  pain  as  a  symptom  or  a  disease,  the  IASP  classification  of  chronic  pain  for  the  international 
+
+classification of diseases (ICD-11). PAIN. 2019;160:19–27. doi:10.1097/j.pain.0000000000001384
+
+68. Chavan  SS,  Pavlov  VA,  Tracey  KJ.  Mechanisms  and  therapeutic  relevance  of  neuro-immune  communication.  Immunity.  2017;46:927–942. 
+
+doi:10.1016/j.immuni.2017.06.008
+
+69. Scholz J, Woolf CJ. The neuropathic pain triad, neurons, immune cells and glia. Nat Neurosci. 2007;10:1361–1368. doi:10.1038/nn1992
+70. Hess A, Roesch J, Saake M, et al. Functional brain imaging reveals rapid blockade of abdominal pain response upon anti-TNF therapy in crohn’s 
+
+disease. Gastroenterology. 2015;149:864–866. doi:10.1053/j.gastro.2015.05.063
+
+71. Song D, Li Y, Tang D, Huang L, Yuan Y. Neuron-glial communication mediated by TNF-α and glial activation in dorsal root ganglia in visceral 
+
+inflammatory hypersensitivity. Am J Physiol Gastrointest Liver Physiol. 2014;306:G788–795. doi:10.1152/ajpgi.00318.2013
+
+72. Villarán RF, Espinosa-Oliva AM, Sarmiento M, et al. Ulcerative colitis exacerbates lipopolysaccharide-induced damage to the nigral dopaminergic 
+
+system, potential risk factor in Parkinson`s disease. J Neurochem. 2010;114:1687–1700. doi:10.1111/j.1471-4159.2010.06879.x
+
+73. Koopman  FA,  Chavan  SS,  Miljko  S,  et  al.  Vagus  nerve  stimulation  inhibits  cytokine  production  and  attenuates  disease  severity  in  rheumatoid 
+
+arthritis. Proc Natl Acad Sci U S A. 2016;113:8284–8289. doi:10.1073/pnas.1605635113
+
+74. Walker AK, Kavelaars A, Heijnen CJ, Dantzer R. Neuroinflammation and Comorbidity of Pain and Depression. Pharmacol Rev. 2014;66:80–101. 
+
+doi:10.1124/pr.113.008144
+
+75. Connor TJ, Song C, Leonard BE, Merali Z, Anisman H. An assessment of the effects of central interleukin-1β, −2, −6, and tumor necrosis factor-α 
+administration on some behavioural, neurochemical, endocrine and immune parameters in the rat. Neuroscience. 1998;84(3):923–933. doi:10.1016/ 
+S0306-4522(97)00533-2
+
+Journal of Inflammation Research                                                                                                     
+
+Dovepress 
+
+Publish your work in this journal 
+
+The Journal of Inflammation Research is an international, peer-reviewed open-access journal that welcomes laboratory and clinical findings on 
+the  molecular  basis,  cell  biology  and  pharmacology  of  inflammation  including  original  research,  reviews,  symposium  reports,  hypothesis 
+formation and commentaries on: acute/chronic inflammation; mediators of inflammation; cellular processes; molecular mechanisms; pharmacology 
+and  novel  anti-inflammatory  drugs;  clinical  conditions  involving  inflammation.  The  manuscript  management  system  is  completely  online  and 
+includes a very quick and fair peer-review system. Visit http://www.dovepress.com/testimonials.php to read real quotes from published authors.  
+
+Submit your manuscript here: https://www.dovepress.com/journal-of-inflammation-research-journal
+
+Journal of Inflammation Research 2022:15                                                                                   
+
+DovePress                                                                                                                       
+
+6717
+
+Powered by TCPDF (www.tcpdf.org)

@@ -1,0 +1,943 @@
+Journal of Inflammation Research
+
+ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/djir20
+
+Pretreatment with Eupatilin Attenuates
+Inflammation and Coagulation in Sepsis by
+Suppressing JAK2/STAT3 Signaling Pathway
+
+Yilun Lu, Ding Li, Yueyue Huang, Yuanyuan Sun, Hongmin Zhou, Fanrong Ye,
+Hongjing Yang, Tingting Xu, Shichao Quan & Jingye Pan
+
+To cite this article: Yilun Lu, Ding Li, Yueyue Huang, Yuanyuan Sun, Hongmin Zhou, Fanrong
+Ye, Hongjing Yang, Tingting Xu, Shichao Quan & Jingye Pan (2023) Pretreatment with Eupatilin
+Attenuates Inflammation and Coagulation in Sepsis by Suppressing JAK2/STAT3 Signaling
+Pathway, Journal of Inflammation Research, , 1027-1042, DOI: 10.2147/JIR.S393850
+
+To link to this article:  https://doi.org/10.2147/JIR.S393850
+
+© 2023 Lu et al.
+
+Published online: 10 Mar 2023.
+
+Submit your article to this journal 
+
+Article views: 285
+
+View related articles 
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=djir20
+
+Journal of Inflammation Research                                                         
+
+Dovepress
+open access to scientific and medical research
+
+Open Access Full Text Article
+
+O R I G I N A L  R E S E A R C H
+
+Pretreatment with Eupatilin Attenuates 
+Inflammation and Coagulation in Sepsis by 
+Suppressing JAK2/STAT3 Signaling Pathway
+
+Yilun Lu
+Hongjing Yang1–3, Tingting Xu1–3, Shichao Quan3–6, Jingye Pan1–5
+
+1–3,*, Ding Li
+
+1–3,*, Yueyue Huang1–3, Yuanyuan Sun1–3, Hongmin Zhou1–3, Fanrong Ye1–3, 
+
+1Department of Intensive Care Unit, the First Affiliated Hospital of Wenzhou Medical University, Wenzhou, People’s Republic of China; 2Key 
+Laboratory of Intelligent Treatment and Life Support for Critical Diseases of Zhejiang Province, Wenzhou, People’s Republic of China; 3Wenzhou Key 
+Laboratory of Critical Care and Artificial Intelligence, Wenzhou, People’s Republic of China; 4Collaborative Innovation Center for Intelligence Medical 
+Education, Wenzhou, People’s Republic of China; 5Zhejiang Engineering Research Center for Hospital Emergency and Process Digitization, Wenzhou, 
+People’s Republic of China; 6Department of General Medicine, the First Affiliated Hospital of Wenzhou Medical University, Wenzhou, People’s 
+Republic of China
+
+*These authors contributed equally to this work 
+
+Correspondence: Jingye Pan, Department of Intensive Care Unit, the First Affiliated Hospital of Wenzhou Medical University, Wenzhou, People’s 
+Republic of China, Email wmupanjingye@126.com; Shichao Quan, Department of General Medicine, the First Affiliated Hospital of Wenzhou Medical 
+University, Wenzhou, People’s Republic of China, Email generalpractice@qq.com
+
+Purpose: Sepsis is an aggressive and life-threatening organ dysfunction induced by infection. Excessive inflammation and coagula-
+tion  contribute  to  the  negative  outcomes  for  sepsis,  resulting  in  high  morbidity  and  mortality.  In  this  study,  we  explored  whether 
+Eupatilin could alleviate lung injury, reduce inflammation and coagulation during sepsis.
+Methods:  We  constructed  an  in  vitro  sepsis  model  by  stimulating  RAW264.7  cells  with  1  μg/mL  lipopolysaccharide  (LPS)  for  6 
+hours. The cells were divided into control group, LPS group, LPS+ Eupatilin (Eup) group, and Eup group to detect their cell activity 
+and inflammatory cytokines and coagulation factor levels. Cells in LPS+Eup and Eup group were pretreated with Eupatilin (10μM) for 
+2 hours. In vivo, mice were divided into sham operation group, cecal ligation and puncture (CLP) group and Eup group. Mice in the 
+CLP  and  Eup  groups  were  pretreated  with  Eupatilin  (10mg/kg)  for  2  hours  by  gavage.  Lung  tissue  and  plasma  were  collected  and 
+inflammatory cytokines, coagulation factors and signaling were measured.
+Results:  In  vitro,  tumor  necrosis  factor  (TNF)-α,  interleukin  (IL)-1β,  IL-6,  and  tissue  factor  (TF)  expression  in  LPS-stimulated 
+RAW264.7  cells  was  downregulated  by  Eupatilin  (10μM).  Furthermore,  Eupatilin  inhibited  phosphorylation  of  the  JAK2/STAT3 
+signaling pathway and suppressed p-STAT3 nuclear translocation. In vivo, Eupatilin increased the survival rate of the mice. In septic 
+mice, plasma concentrations of TNF-α, IL-1β and IL-6, as well as TF, plasminogen activator inhibitor 1 (PAI-1), D-dimer, thrombin- 
+antithrombin complex (TAT) and fibrinogen were improved by Eupatilin. Moreover, Eupatilin alleviated lung injury by improving the 
+expression of inflammatory cytokines and TF, fibrin deposition and macrophage infiltration in lung tissue.
+Conclusion: Our results revealed that Eupatilin may modulate inflammation and coagulation indicators as well as improve lung injury 
+in sepsis via the JAK2/STAT3 signaling pathway.
+Keywords: Eupatilin, sepsis, inflammation, coagulation, JAK2/STAT3
+
+Introduction
+Sepsis  is  a  life-threatening  organ  dysfunction  caused  by  infection,  which  results  from  dysregulated  host  response.1 
+A study reported in Lancet showed that sepsis remains a major cause of health loss worldwide, with 48.9 million cases 
+each year and approximately 11 million deaths, which accounts around one-fifth of the total global deaths.2 According to 
+Nature Reviews Disease Primers, more than half of sepsis patients are complicated with coagulation system imbalance.3 
+Moreover,  in  patients  who  have  sepsis  with  disseminated  intravascular  coagulation  (DIC)  the  mortality  rate  is  almost 
+
+Journal of Inflammation Research 2023:16 1027–1042                                                     
+
+1027
+© 2023 Lu et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms.php 
+and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing the work 
+you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For 
+permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+
+Received: 25 October 2022Accepted: 24 February 2023Published: 10 March 2023Lu et al                                                                                                                                                                
+
+Dovepress
+
+twice that of sepsis patients without DIC.4  Therefore, reducing inflammation and coagulation disorders could be the key 
+to reducing sepsis mortality.
+
+Macrophages  are  involved  in  various  pathophysiological  processes  in  sepsis,  including  inflammation,  coagulation, 
+immunity  and  metabolism,  and  play  a  crucial  role  in  sepsis-induced  acute  lung  injury.5,6  In  the  early  stages  of  sepsis, 
+macrophages  engulf  pathogens  and  activate  the  innate  immune  system.  Macrophages  express  pattern  recognition 
+receptors  (PRRs),  which  can  detect  pathogen-associated  molecular  patterns  (PAMPs)  or  damage-associated  molecular 
+patterns (DAMPs), initiating a series of immune cell activations and upregulating the expression of inflammation-related 
+genes, that produce a series of inflammatory cytokines.7 In this process, the body targets pathogens to contain, kill and/or 
+expel  them.  However,  there  is  also  a  defense  strategy,  called  disease  tolerance,  which  refers  to  limiting  the  negative 
+impact of infection on the host without affecting the pathogen load.8  The expression of high levels of PRRs and other 
+receptors, including cytokines by tissue-resident macrophages contributes to the establishment of disease tolerance.9  In 
+addition,  signal  transduction  pathways  that  are  activated  in  response  to  PAMPs  or  DAMPs  also  contribute  to  tissue 
+damage control and establishment of disease tolerance, both of which limit the negative effects of infection.
+
+Lipopolysaccharide  (LPS),  an  important  cell  wall  constituent  of  Gram-negative  bacteria,  is  a  potent  inducer  of 
+inflammatory  responses.10  After  exposure  to  LPS,  macrophages  produce  large  amounts  of  inflammatory  cytokines, 
+interleukin (IL)-1, IL-6, and tumor necrosis factor (TNF).11 Recent studies have shown that monocytes and macrophages, 
+especially  those  from  myeloid  origin,  are  main  cell  types  that  express  tissue  factor  (TF),  which  causes  pathological 
+coagulation in sepsis.12,13  In severe sepsis, macrophages secrete inflammatory mediators and the coagulation system is 
+activated, which promotes fibrin production and thrombosis.14,15  In addition, coagulation abnormalities contribute to the 
+lethality of sepsis and septic acute lung injury (ALI).16 Many in vivo studies use cecal ligation and puncture (CLP) model 
+in mice, which can simulate the pathological condition of abdominal infection through cecal contamination and, to some 
+extent, mimic the response of clinical patients with sepsis.17,18  Thus, we conducted sepsis model using LPS-stimulated 
+RAW264.7 macrophages and CLP-induced mice in our study.
+
+Eupatilin (Eup) is a lipophilic flavonoid isolated from Artemisia argyi, which has the effect of warming the meridian 
+to stop bleeding, dispersing cold and relieving pain. In recent years, Eupatilin has been found to have biological activities 
+against  inflammation,  oxidation,  and  tumors.19  It  has  antioxidant  and  anti-apoptotic  effects  against  cisplatin-induced 
+ototoxicity,  as  well  as  inhibiting  inflammatory  responses  and  aging  in  nucleus  pulposus  (NP)  cells.20,21  In  addition, 
+a derivative of Eupatilin to treat dry eye disease is being developed and is undergoing Phase I study.22 Eupatilin can also 
+reduce  the  inflammatory  response  in  LPS-induced  rats,  decreasing  the  level  of  surfactant  protein  (SP)-A,  SP-D,  and 
+inflammatory  factors.23  Moreover,  Eupatilin  can  reduce  the  number  of  inflammatory  cells  in  OVA-induced  asthmatic 
+mice  and  inhibit  the  NF-κB  and  MAPK  pathways  in  both  mice  and  RAW264.7  cells.24  Besides,  by inhibiting  STAT3, 
+Eupatilin  attenuates  airway  remodeling  and  inhibits  gastric  cancer  cell  growth.25,26  A  recent  study  has  shown  that 
+Eupatilin  is  associated  with  coagulation.  It  can  inhibit  arachidonic  acid  (AA)-induced  platelet  aggregation  and  throm-
+boxane  A2  (TXA2)  and  5-hydroxytryptophan  (5-HT)  generation.27  Nevertheless,  the  underlying  mechanisms  and 
+whether  it  can  be  used  to  protect  sepsis-induced  coagulation  disorders  is  unclear.  Besides,  our  previous  study  has 
+shown that in sepsis, phosphorylation of STAT3 at Tyr705 can affect the coagulation and inflammation systems, resulting 
+in fatal damage.28
+
+Thus,  we  hypothesized  that  Eupatilin  can  exert  anti-inflammatory  and  anti-coagulation  effects  in  LPS-induced 
+
+RAW264.7 macrophages and CLP mouse model by suppressing the JAK2/STAT3 signaling pathway.
+
+Materials and Methods
+Reagents
+LPS,  from  Escherichia  coli  (O127:B8),29  was  acquired  from  Sigma  (USA).  Eupatilin  (Catalog  No:  HY-N0783), 
+AG490  (Catalog  No:  HY-12000)  and  Cell  Counting  Kit-8  kit  (Catalog  No:  HY-K0301)  were  purchased  from 
+MedChem  Express  (Shanghai,  China).  The  molecular  formula  of  Eupatilin  was  shown  in  Figure  1A.  Total  RNA 
+from  cells  was  isolated  using  RNA  kit  (Catalog  No:  DP419,  Tiangen,  China).  SYBR  Green  (Catalog  No:  QST-100, 
+TOROIVD,  China)  and  5  ×  All-In-One  RT  MasterMix  (Catalog  No:  G492,  ABM,  Canada)  were  used  for  Real-time 
+
+1028
+
+https://doi.org/10.2147/JIR.S393850                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2023:16 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                                
+
+Lu et al
+
+Figure 1 Effects of Eupatilin (Eup) on inflammation indicators and TF expression in RAW264.7 cells. (A) The molecular formula of Eupatilin. (B) The cell viability after 
+treatment with different concentrations (0,1.25,2.5,5,10,20,40,80,160μM) of Eupatilin for 24 hours. (C) The cell viability in different groups after stimulating for 24 hours. 
+(D-G) The differences in TNF-α, IL-1β and IL-6, and TF mRNA expression were determined by RT-qPCR. (H-J) The concentrations of TNF-α, IL-1β and IL-6 in RAW264.7 
+cell supernatants were detected by ELISA. (K-O) The protein expression of TNF-α, IL-1β and IL-6, and TF were analyzed by Western blot. Eupatilin (10 μM) was applied to 
+RAW264.7 cells for 2 hours, followed by a 6-hour stimulation with LPS (1 μg/mL). n≥3 per group, one-way ANOVA test. *p < 0.05, **p < 0.01, ***p < 0.001, versus control 
+(CON) group; NS, not significant versus CON group; #p < 0.05, ##p < 0.01, ###p < 0.001, versus LPS group.
+
+Journal of Inflammation Research 2023:16                                                                                          
+
+https://doi.org/10.2147/JIR.S393850                                                                                                                                                                                                                       
+
+1029
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Lu et al                                                                                                                                                                
+
+Dovepress
+
+quantitative PCR (RT-qPCR). Fetal bovine serum (FBS; Catalog No: 16000–004) and DMEM (high glucose; Catalog 
+No:  C11995500BT)  were  gained  from  Gibco  (Life  Technologies,  Darmstadt,  Germany).  RIPA  buffer  (Catalog  No: 
+P0013B),  Phenylmethanesulfonyl  fluoride  (PMSF,  Catalog  No:  ST506),  DTT  (Catalog  No:  ST041)  and  Endogenous 
+Peroxidase  Blocking  Buffer  (Catalog  No:  P0100B)  were  obtained  from  Beyotime,  China.  The  BCA  kit  and  ECL 
+chemiluminescence  reagent  were  procured  from  Thermo  Fisher  (USA).  The  PVDF  membrane  was  from  EDM 
+Millipore  (Billerica,  MA,  USA).  Phosphate-buffered  saline  (PBS,  Catalog  No:  P1020),  20  ×  TBST  buffer  (Catalog 
+No:  T1082),  4%  paraformaldehyde  (Catalog  No:  P1110),  Triton X-100  (Catalog  No:  T8200),  5%  BSA  (Catalog  No: 
+SW3015)  and  H&E  staining  kit  (Catalog  No:  G1120)  were  from  Solarbio  (Beijing,  China).  The  DAB  kit  was  from 
+Zhongshan Golden Bridge Biotechnology (Beijing, China).
+
+Preparation of Eupatilin
+In the in vitro experiments, Eupatilin was dissolved in DMSO to form a stock solution with a final concentration of 10 
+mM,  and  stored  at  −80°C.  In  the  in  vivo  experiments,  Eupatilin  was  dissolved  in  80%  corn  oil  and  20%  DMSO  at 
+a concentration of 10 mg/mL; the solution was used immediately after preparation.
+
+In vitro
+Cell Culture and Intervention
+RAW264.7 macrophages were purchased from ATCC (Manassas, VA, USA) and cultivated in DMEM with 10% FBS. 
+The cells were maintained in an incubator at 37°C with a 5%CO2 level. Cells were randomly classified into four groups: 
+control (CON) group, LPS group, LPS + Eup group, and Eup group. The LPS group was stimulated with 1 μg/mL LPS 
+for 6 hours,30  while the LPS + Eup group was treated with 10 μM Eupatilin for 2 hours, followed by LPS for 6 hours. 
+The Eup group was treated only with 10 μM Eupatilin, which was added the same time as LPS+ Eup group.
+
+Cell Counting Kit-8 (CCK-8) Assay
+The effects of Eupatilin on the proliferation of RAW264.7 macrophages were assessed using the CCK-8 assay. The day 
+before stimulation, RAW264.7 cells were seeded in a 96-well plate at a density of 1.0×104 cells/well. After 24 hours, the 
+supernatant was replaced with fresh medium. The CCK-8 solution was then added into each well, and the mixture was 
+incubated  at  37°C.  After  2  hours,  the  optical  density  at  450  nm  was  measured  using  a  microplate  reader  (Molecular 
+Devices, San Jose, CA, USA).
+
+Real Time Quantitative PCR
+In  accordance  with  the  instructions,  the  total  RNA  from  RAW264.7  cells  was  extracted  and  1000  ng  of  RNA  was 
+transformed into 20 μL cDNA using the reagents listed above. The cDNA was then stored at -80°C. The RT-qPCR was 
+performed  using  SYBR  Green  on  a  PCR  detection  system  (7500fast,  USA).  The  cycling  conditions  were  as  follows: 
+initial denaturation at 95°C for 60s, then denaturation at 95°C for 15s, annealing at 60°C for 30s, and extension at 72°C 
+for  45s,  the  three  steps  above  cycled  for  40  times.  The  results  were  normalized  to  GAPDH  and  the  statistics  were 
+calculated by the 2−ΔΔCt method. The  primer pair  sequences for mice  were from Generay Biotech (Shanghai, China) 
+and listed in Table 1.
+
+In vivo
+Experimental Animals
+We obtained male C57BL/6 mice at the age of 6–8 weeks and the weight of 18–25 g from Shanghai SLAC Laboratory, 
+Animal Limited Liability Company (SCXK (ZHE) 2019–0001). According to the local animal welfare policy, the mice 
+were raised in a specific pathogen-free laboratory animal environment, in which the temperature maintained at 23 ± 3°C, 
+the  humidity  kept  at  55%  ±  10%,  and  the  light/dark  cycle  controlled  at  12:12.  During  the  study,  the  mice  were  fed 
+a normal diet. All animal experiments were complied with the requirements of the Animal Care and Use Committee of 
+Wenzhou Medical University.  The animal  experimentation protocol  was granted by the Ethics Committee  of Wenzhou 
+Medical University (YS2018-088, 2018.02.26).
+
+1030
+
+https://doi.org/10.2147/JIR.S393850                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2023:16 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                                
+
+Lu et al
+
+Table 1 The Primer Pair Sequences of Real-Time (RT)-qPCR
+
+Gene
+
+Primer Squence
+
+5’ to 3’
+
+GAPDH
+
+Forward primer
+
+GGAGCGAGATCCCTCCAAAAT
+
+Reverse primer
+
+GGCTGTTGTCATACTTCTCATGG
+
+IL-1β
+
+Forward primer
+
+GCTGCTTCCAAACCTTTGAC
+
+Reverse primer
+
+CTTCTCCACAGCCACAATGA
+
+IL-6
+
+Forward primer
+
+CAATAACCACCCCTGACC
+
+Reverse primer
+
+GCGCAGAATGAGATGAGTT
+
+TNF-α
+
+Forward primer
+
+GGAAAGGACACCATGAGC
+
+Reverse primer
+
+CCACGATCAGGAAGGAGA
+
+TF
+
+Forward primer
+
+CCAAACCCGTCAATCAAGTC
+
+Reverse primer
+
+TCTGCTTCACATCCTTCACAAT
+
+Abbreviations:  GAPDH,  glyceraldehyde-3-phosphate  dehydrogenase;  IL,  interleukin; 
+TNF, tumor necrosis factor; TF, tissue factor.
+
+Cecal Ligation and Puncture (CLP) and Animal Tests
+The  mice  were  randomly  assigned  into  three  groups  according  to  the  random  number  table  method:  sham  operation 
+(SHAM) group, CLP group, CLP + Eup group. After the processing time, each group contained more than six samples. 
+The  mice  were  anesthetized  by  1%  sodium  pentobarbital  (Solarbio,  China)  according  to  their  weight  (100  μL/10  g) 
+before operation. After the mice were anesthetized, we opened the abdominal cavity and carefully exposed the cecum, 
+which was then ligated at 1 cm from the end and punched through by a needle (21-gauge). Subsequently, the feces were 
+squeezed  out  into  the  abdomen  and  the  cecum  was  placed  back.  Finally,  the  abdominal  cavity  was  closed.31  Similar 
+procedures  without  ligation  and  puncture  were  used  in  the  SHAM  group.  For  the  CLP+Eup  group,  the  mice  were 
+administered  Eupatilin  (10mg/kg)  by  gavage  2  hours  before  operation.  After  surgery,  each  mouse  was  immediately 
+resuscitated  by  subcutaneous  injection  of  1  mL  warm  saline.  The  experimental  samples  were  collected  24  hours  after 
+surgery. Besides, survival analysis was performed and lasted for 72 hours, with 10 mice per group, during which the mice 
+were monitored every 6 hours and euthanized at the point of moribundity.
+
+Hematoxylin and Eosin (H&E) Staining
+The  lung  tissue  from  three  groups  of  mice  were  collected,  fixed  in  4%  paraformaldehyde,  dehydrated,  embedded,  and 
+sliced into 4-μm-thick sections. Following the manufacturer’s instructions, the slices were stained by H&E staining kit. 
+Then,  the  severity  of  lung  injury  was  evaluated  based  on  inflammatory  cell  infiltration,  edema  and  congestion.  The 
+pulmonary injury was scored as follows: 0 point for no injury, 1 point for <25% of the field injured, 2 points for 25% to 
+50% of the field injured, 3 points for 50% to 75% of the field injured, and 4 points for >75% of the field injured.32  Each 
+slide  had  six  microscopic  fields  analyzed,  and  the  average  was  taken  as  the  final  score  for  each  lung  tissue.  Lung 
+histological analyses were performed in a blinded manner.
+
+Immunohistochemical Assay
+The lung slices were dewaxed and rehydrated. Then, the antigen in slices was retrieved in citrate buffer (0.01 M, pH 6.0) 
+for  10  minutes  using  a  microwave  oven,  followed  by  quenching  of  endogenous  peroxidase  for  15  minutes.  Next,  the 
+sections  were  blocked  with  5%  BSA  for  an  hour.  The  slices  were  then  incubated  with  rabbit  anti-fibrinogen  antibody 
+(Abcam,  Catalog  No:  ab34269)  overnight  at  4°C.  The  next  day,  the  slices  were  incubated  at  37°C  for  1h  with  HRP- 
+conjugated  goat  anti-rabbit  antibody.  Subsequently,  the  slices  were  stained  using  a  DAB  kit  and  observed  under 
+a microscope.
+
+Journal of Inflammation Research 2023:16                                                                                          
+
+https://doi.org/10.2147/JIR.S393850                                                                                                                                                                                                                       
+
+1031
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Lu et al                                                                                                                                                                
+
+Dovepress
+
+Elisa Test
+The  supernatants  from  RAW264.7  cell  were  collected,  centrifuged  at  1000  ×  g  for  10  minutes  and  stored  at  −20°C. 
+Twenty-four hours after surgery, the plasma was collected from mice using anticoagulant tubes with 3.2% sodium citrate. 
+The tubes were centrifuged at 1000 × g for 15 minutes and stored at − 80°C. The experiment was performed according to 
+the  manufacturer’s  instructions.  The  catalog  numbers  for  the  reagent  kits  were  as  follows:  IL-1β  (Catalog  No:70- 
+EK201B),  IL-6  (Catalog  No:70-EK206)  and  TNF-α  (Catalog  No:70-EK282)  from  MultiScience,  China.  TF  (Catalog 
+No:  DY3178-05)  and  Plasminogen  activator  inhibitor  (PAI)-1  (Catalog  No:  DY3828-05)  from  R&D  Systems,  USA. 
+D-dimer  (Catalog  No:  CSB-E13584m),  Fibrinogen  (Catalog  No:  CSB-E08202m)  and  thrombin-antithrombin  complex 
+(TAT) (Catalog No: CSB-E08433m) from Cusabio, China.
+
+Western Blotting
+RAW264.7  macrophages  and  lung  tissue  from  mice  were  dissociated  by  RIPA  buffer  with  10%  protein  phosphatase 
+inhibitor and 1% PMSF. After measuring the protein concentrations using the BCA kit, lysates containing 20 µg protein 
+samples were separated on 10% or 12.5% SDS-PAGE gels. After that, the proteins were electrotransferred onto PVDF 
+membranes  in  a  cold  condition;  these  membranes  were  then  blocked  using  5%  skim  milk  in  1  ×  TBST  buffer  for  1.5 
+hours at room temperature. Then, the membranes were incubated with the respective primary antibodies at 4°C overnight. 
+On the second day, the membranes were incubated with goat HRP-conjugated IgG antibodies (Catalog No: SA00001-2 
+for anti-rabbit or Catalog No: SA00001-1 for anti-mice, Proteintech, China) for 1 hour at room temperature. The proteins 
+were then visualized using an ECL chemiluminescence reagent. The primary antibodies were as follows: STAT3 (Catalog 
+No:  9139S)  and  p-STAT3  (Try705)  (Catalog  No:  9145S)  from  Cell  Signaling  Technology,  USA.  TF  (Catalog  No: 
+DF6400), IL-6 (Catalog No: DF6087), TNF-α (Catalog No: AF7014), IL-1β (Catalog No: AF5103), GAPDH (Catalog 
+No: AF7021), Tubulin (Catalog No: AF7011), and Histone H3 (Catalog No: BF9211) are from Affinity, China. p-JAK2 
+(pY1007+Y1008) (Catalog  No:  ab32101),  JAK2  (Catalog  No:  ab108596),  thrombin  (Catalog  No:  ab92621) and  PAI-1 
+(Catalog  No:  ab222754)  from  Abcam  (Cambridge,  United  Kingdom).  The  internal  reference  proteins  in  this  study 
+included GAPDH, Tubulin, and Histone H3. ImageJ software (NIH, USA) was used to quantify the protein bands.
+
+Immunofluorescence
+For  cell  immunofluorescence,  macrophages  were  fixed  with  4%  paraformaldehyde  for  10  min,  permeabilized  in  0.2% 
+Triton  X-100  for  15  minutes,  and  blocked  in  5%  BSA  for  30  minutes.  All  the  operations  were  performed  at  room 
+temperature.  Then,  the  cells  are  incubated  with  p-STAT3  primary  antibodies  overnight  at  4°C,  followed  by  incubation 
+with FITC secondary antibodies against the appropriate sources for 1 hour at 37°C (Catalog No: BL031A for anti-mice or 
+Catalog  No:  BL033A  for  anti-rabbit,  Biosharp).  Thereafter,  the  sections  were  mounted  using  an  anti-fluorescence 
+quencher containing DAPI (Catalog No:36308ES11, Yeasen, China).
+
+For tissue immunofluorescence staining, lung sections were treated the same way as for immunohistochemistry, then 
+incubated  with  the  F4/80  (Catalog  No:  sc-377009,  Santa  Cruz)  and  TF  (Catalog  No:  DF6400,  Affinity)  primary 
+antibodies overnight at 4°C. The following day, the slides were performed in the same way as for cell immunofluores-
+cence.  Finally,  we  visualized  the  fluorescence  signal  in  the  tissue  and  cells  using  a  laser  confocal  microscope  (Nikon, 
+Japan). The statistical significance was estimated using the mean fluorescence intensity (MFI).
+
+Statistical Analyses
+GraphPad Prism  9.0.0  (GraphPad  Software,  USA)  was  used  for  the  statistical  analysis. Each  experiment  was  indepen-
+dently  carried  out  in  at  least  three  duplicates.  Values  were  presented  as  mean ± SD.  P  <  0.05  was  considered  to  be 
+statistically  significant.  After  evaluating  normality  and  variance  in  each  group,  the  group  differences  were  examined 
+using  one-way  ANOVA,  followed  by  Tukey’s  post-hoc  multiple  comparison  test.  The  analysis  was  carried  out  to 
+determine the statistical methods for comparison between groups. The Log rank test was used to compare the survival 
+time in each group of mice.
+
+1032
+
+https://doi.org/10.2147/JIR.S393850                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2023:16 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                                
+
+Lu et al
+
+Results
+Effects of Eupatilin on Cell Viability
+To assess the effect of Eupatilin on cell viability and cytotoxicity, we examined the effect of Eupatilin on RAW 264.7 
+macrophages  using  the  CCK8  assay.  As  shown  in  Figure  1B,  the  cell  viability  of  RAW  264.7  macrophages  was  little 
+affected  within  24  hours  at  concentrations  less  than  10μM.  Thus,  in  the  following  experiments,  we  used  a  10μM 
+concentration  of  Eupatilin  to  eliminate  any  potential  cytotoxic  effect.  Besides,  the  result  of  CCK8  also  showed  that 
+LPS  induced  cell  proliferation  in  macrophages,  while  Eupatilin  could  inhibit  the  LPS-induced  cell  proliferation 
+(Figure 1C).
+
+Eupatilin Decreased the Expression of Inflammatory Cytokines and TF in LPS-Induced 
+RAW264.7 Cells
+To explore the effect of Eupatilin, we measured inflammatory cytokines and TF levels in RAW264.7 cells six hours after 
+LPS stimulation. As shown in Figure 1D-F, after the stimulation with LPS, the mRNA expression raised sharply in TNF- 
+α (25.15±4.10), IL-1β (3753.55±114.04) and IL-6 (36976.14±1121.44). However, pretreatment with Eupatilin apparently 
+attenuated  the  LPS-induced  increase  in  inflammatory  cytokine  expression.  TF  is  a  major  promoter  of  coagulation.  As 
+shown in Figure 1G, Eupatilin apparently inhibited LPS-induced mRNA expression of TF (84.66±4.86 in LPS group vs 
+48.49±3.39 in LPS+Eup group).
+
+Western blot and ELISA were performed to examine the expression of inflammatory cytokines and TF at the protein 
+level. In the supernatants from the LPS group, the concentrations of TNF-α, IL-1β and IL-6 were higher than the control 
+group, whereas this increase was significantly reduced in the LPS + Eup group (Figure 1H-J, 19,615.96±714.41pg/mL, 
+26.24±2.44pg/mL and 2590.58±109.74pg/mL in LPS group vs 17,095.77±140.07pg/mL, 19.10±1.79pg/mL and 1796.74 
+±256.63pg/mL  in  LPS+Eup  group,  respectively).  Moreover,  the  Western  blot  results  illustrated  that  pretreatment  with 
+Eupatilin significantly reduced LPS-induced inflammatory cytokine expression in RAW264.7 cells (Figure 1K-N). Both 
+the Western blot and ELISA experiments indicated the reduction in the expression of inflammation indicators in the RAW 
+264.7 cells after using Eupatilin. Western blot analysis also revealed a decrease in TF expression in the LPS + Eup group 
+(Figure 1K and O).
+
+Eupatilin Regulated LPS-Induced Inflammation and Coagulation by Suppressing JAK2/ 
+STAT3 Signaling Pathway in RAW264.7 Cells
+To  observe  whether  Eupatilin-mediated  effects  on  inflammation  and  coagulation  were  linked  to  the  JAK2/STAT3 
+signaling  pathway,  we  performed  Western  blot  in  RAW264.7  cells  to  detect  the  phosphorylation  of  target  proteins. 
+Compared with the CON group, the LPS group had significantly higher expression levels of both p-JAK2 and p-STAT3. 
+However,  after  pretreatment  with  Eupatilin,  the  expression  levels  of  both  p-JAK2  and  p-STAT3  were  diminished 
+(Figure  2A-C,  1.48±0.02  and  3.10±0.14  in  LPS  group  vs  1.21±0.06  and  2.38±0.11  in  LPS+Eup  group,  respectively). 
+AG490  is  an  inhibitor  of  JAK2,  which  reduced  the  phosphorylation  of  JAK2  and  STAT3  (Figure  2D).  Western  blot 
+analysis  revealed  that  AG490  inhibited  the  phosphorylation  of  both  STAT3  and  JAK2,  while  Eupatilin  pretreatment 
+strengthened this inhibition (Figure 2E-G). Moreover, comparing with CLP group, the use of AG490 could reduce the 
+expression of TNF-α, IL-1β, IL-6 and TF (Figure 2H-K, 15.09±1.61, 1843.46±85.28, 18,345.62±427.00, and 55.24±1.82 
+in  LPS  group  vs  11.71±0.17,  1170.53±41.54,  4321.65±241.26,  and  38.15±3.08  in  LPS+AG490  group,  respectively), 
+while the use of Eupatilin strengthened this inhibition.
+
+To  verify  whether  Eupatilin  pretreatment  can  reduce  p-STAT3  nuclear  translocation  in  LPS-stimulated  RAW264.7 
+cells,  both  Western  blot  and  immunofluorescence  were  performed.  Western  blot  analysis  showed  that  the  pretreatment 
+with  Eupatilin  attenuated  the  expression  of  p-STAT3  in  nucleus  (Figure  3A).  In  addition,  cell  immunofluorescence 
+showed  a  reduction  in  the  nuclear  translocation  of  p-STAT3  after  the  pretreatment  with  Eupatilin  in  RAW264.7  cells 
+(Figure 3B).
+
+Journal of Inflammation Research 2023:16                                                                                          
+
+https://doi.org/10.2147/JIR.S393850                                                                                                                                                                                                                       
+
+1033
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Lu et al                                                                                                                                                                
+
+Dovepress
+
+Figure 2 Effects of Eupatilin on JAK2/STAT3 signaling pathways in RAW264.7 cells. (A-C) The phosphorylation of JAK2 and STAT3 in RAW264.7 cells was analyzed by 
+Western  blot.  (D)  The  phosphorylation  of  JAK2  and  STAT3  in  RAW264.7  cells  after  using  AG490  alone  for  7  hours  was  analyzed  by  Western  blot.  (E-G)  The 
+phosphorylation  of  JAK2  and  STAT3  in  RAW264.7  cells  after  pretreatment  with  AG490  and  AG490  plus  Eupatilin  were  analyzed  by  the  Western  blot.  The  relative 
+expression levels of phosphorylated JAK2 and STAT3 were normalized to JAK2 and STAT3, respectively. (H-K) The differences in TNF-α, IL-1β and IL-6, and TF mRNA 
+expression were determined by RT-qPCR. Before receiving LPS (1 μg/mL) for 6 hours, RAW264.7 cells were pretreated with AG490 (10 µM) for 1 hour. n≥3 per group, one- 
+way ANOVA test. ***p < 0.001, versus CON group; #p < 0.05, ##p < 0.01, ###p < 0.001, versus LPS group; $ p < 0.05, $$ p < 0.01, $$$ p < 0.001, versus LPS+AG490 
+group.
+
+Eupatilin Increased Survival Rate and Improved Inflammation and Coagulation in Septic 
+Mice
+To investigate the effect of Eupatilin on the survival rate of septic mice, we established a model using CLP with C57BL/6 
+mice and calculated the 72-hour survival rate. The results showed that compared with SHAM group, the survival rate in 
+CLP group dropped sharply (Figure 4A, 1/10,10% in CLP group vs 10/10,100% in SHAM group). Moreover, compared 
+to mice in CLP group, the survival rate in CLP+Eup group increased (5/10, 50%).
+
+1034
+
+https://doi.org/10.2147/JIR.S393850                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2023:16 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                                
+
+Lu et al
+
+Figure 3 Effects of Eupatilin on the translocation of p-STAT3 into the nuclei in RAW264.7 cells after stimulation with LPS. (A) The protein levels of p-STAT3 in the nuclei of 
+RAW264.7 cells were determined by Western blot. (B) p-STAT3 (green) fluorescence images of RAW264.7 cells (scale bar: 50 µm, 600 ×) were captured under a confocal 
+laser microscope. n≥3 per group, one-way ANOVA test. ***p < 0.001, versus CON group; #p < 0.05, ##p < 0.01, versus LPS group.
+
+To  explore  whether  Eupatilin  improves  inflammation  and  coagulation  in  mouse  model,  ELISA was  performed.  As 
+anticipated,  the  level  of  inflammatory  cytokines,  such  as  TNF-α,  IL-1β  and  IL-6  (241.72±30.17pg/mL,  33.59±2.25pg/ 
+mL,  213.99±75.66ng/mL  in  CLP  group  vs  141.52±19.96pg/mL,  25.80±4.05pg/mL,  41.36±17.86ng/mL  in  CLP+Eup 
+group,  respectively),  as  well  as  coagulation  factors,  such  as  TF,  TAT,  PAI-1  and  D-dimer  (82.24±4.89pg/mL,  42.79 
+±8.39ng/mL,  233.75±82.02ng/mL,  31.80±3.14ng/mL  in  CLP  group  vs  68.21±  2.50pg/mL,  12.60±2.90ng/mL,  23.91 
+±21.07ng/mL,  23.33±1.78ng/mL  in  CLP+Eup  group,  respectively),  were  lower  in  the  plasma  for  mice  in  CLP+Eup 
+group (Figure 4B-H) than those in the CLP group. In addition, compared with the SHAM group, the fibrinogen level in 
+plasma  was  decreased  in  the  CLP  group,  while  the  pretreatment  with  Eupatilin  reversed  this  trend  (Figure  4I,  497.13 
+±21.69µg/mL in CLP group vs 705.19±138.68µg/mL in CLP+Eup group, respectively).
+
+Eupatilin Alleviated Pulmonary Inflammation and Lung Injury in Septic Mice
+We performed H&E staining to detect lung injury. H&E staining revealed that in the CLP models, the alveolar wall was 
+thickened, hyaline membranes were formed, and neutrophils had accumulated in the interstitial space. As anticipated, the 
+CLP+Eup group exhibited slighter lung tissue injury (Figure 5A). Moreover, the expression of inflammatory cytokines in 
+lung tissue among the three groups was analyzed. As shown in Figure 5B-E, Eupatilin reduced the expression of TNF-α, 
+IL-1β and IL-6 in lung tissue of mice. Macrophages initiate the primary inflammatory process, and F4/80 is a biomarker 
+for them. Immunofluorescence staining demonstrated that the CLP group had stronger F4/80 fluorescent signals than the 
+sham group, while Eupatilin pretreatment decreased these signals (Figure 5F).
+
+Eupatilin Reduced Coagulation and Fibrin Deposition in the Lung Tissue of Septic Mice
+We used Western blot, immunohistochemistry and immunofluorescence staining to investigate whether Eupatilin reduces 
+coagulation  in  lung  tissue.  The  exposure  of  TF  is  the  way  to  promote  coagulation.  The  results  of  Western  blot  and 
+immunofluorescence showed that Eupatilin could lower the exposure of TF in the lung tissue of septic mice (Figure 6A, 
+B  and  E). Furthermore,  Western blot showed  decreased  expression  levels of  thrombin,  and PAI-1  in the lung  tissue  of 
+septic mice after Eupatilin pretreatment (Figure 6A, C and D). Additionally, according to immunohistochemistry results, 
+fibrin deposition (brown stain) was observed in the CLP group. However, the amount of fibrin deposition was less in the 
+lung tissue from mice pretreated with Eupatilin (Figure 6F).
+
+Journal of Inflammation Research 2023:16                                                                                          
+
+https://doi.org/10.2147/JIR.S393850                                                                                                                                                                                                                       
+
+1035
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Lu et al                                                                                                                                                                
+
+Dovepress
+
+Figure 4 Effects of Eupatilin on the survival rate, inflammation and coagulation indicators in septic mice. (A) The survival plot for the mice in each group (n=10 per group, 
+log rank test). (B-I) The levels of TNF-α, IL-1β, IL-6, TF, TAT, PAI-1, D-dimer, and fibrinogen in mice plasma were detected by ELISA (n≥3 per group, one-way ANOVA test). 
+Mice were pretreated with Eup (10mg/kg) by gavage for 2 hours before CLP modeling for 24 hours. *p < 0.05, **p < 0.01, ***p < 0.001, versus SHAM group; #p < 0.05, ##p 
+< 0.01, ###p < 0.001, versus CLP group.
+
+Eupatilin Suppressed the Activation of JAK2/STAT3 Signaling Pathway in the Lung 
+Tissue of Septic Mice
+To explore the effect of Eupatilin on JAK2/STAT3 pathway, we extracted proteins from the lung tissue of septic mice. 
+The  Western  blot  analysis  revealed  that  the  expression  of  p-JAK2  and  p-STAT3  was  considerably  higher  in  the  CLP 
+group than in the SHAM  group, and decreased  with  Eupatilin pretreatment (Figure 7A-C,  1.79±0.24 and  2.21±0.20 in 
+CLP group vs 1.24±0.16 and 1.11±0.15 in CLP+Eup group, respectively).
+
+Discussion
+One  of  the  pathological  features  of  sepsis  is  the  hyperactivation  of  inflammation  and  coagulation  systems;  both  can 
+promote  and  impact  upon  each  other.33  In  the  present  study,  we  found  that  Eupatilin  reduced  the  expression  of 
+inflammatory  factors  and  tissue  factors  in  LPS-induced  RAW264.7  cells  in  vitro  and  increased  the  survival  of  CLP 
+mice. In vivo, Eupatilin attenuated lung injury and reduced inflammatory infiltration and coagulation activation in CLP 
+
+1036
+
+https://doi.org/10.2147/JIR.S393850                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2023:16 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                                
+
+Lu et al
+
+Figure 5 Effects of Eupatilin on the expression of inflammation indicators and macrophage infiltration in lung tissue of septic mice. (A) Following H&E staining, pictures of 
+the lung tissue in each group were taken using an optical microscope (400 ×, scale bar: 25 µm). Lung injury was scored by observing the degree and extent of lung injury in 
+the sections. (B-E) The protein expression of TNF-α, IL-1β, IL-6 in the lung tissue were analyzed by Western blot. (F) The fluorescence images of F4/80 (green) in lung 
+tissue (scale bar: 100 µm) were captured under the confocal laser microscope. n≥3 per group, one-way ANOVA test. *p < 0.05, **p < 0.01, ***p < 0.001, versus SHAM 
+group; #p < 0.05, ##p < 0.01, ###p < 0.001, versus CLP group.
+
+mice.  In  summary,  our  research  revealed  that  Eupatilin  could  protect  septic  mice  from  lung  injury,  by  improving 
+inflammation and coagulation, and that this protection was linked to JAK2/STAT3 signaling pathway.
+
+Ample evidence suggests extensive interaction between inflammation and coagulation, with inflammation activating 
+coagulation  and  coagulation  greatly  influencing  inflammatory  activity.34  In  sepsis  patients,  high  concentrations  of 
+cytokines  can  be  found  in  blood  circulation.15  The  first  mediator  identified  is  TNF,  which  is  then  followed  by  various 
+IL with noticeably elevated levels—IL-6 and IL-1 being the most significant.35 Our research showed that, in both in vivo 
+and in vitro sepsis models, the levels of inflammatory cytokines were increased.
+
+Journal of Inflammation Research 2023:16                                                                                          
+
+https://doi.org/10.2147/JIR.S393850                                                                                                                                                                                                                       
+
+1037
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Lu et al                                                                                                                                                                
+
+Dovepress
+
+Figure 6 Effects of Eupatilin on the expression of coagulation indicators and fibrin deposition in lung tissue of septic mice. (A-D) The protein expression of TF, thrombin and 
+PAI-1  in  the  lung  tissue were  analyzed  by Western  blot.  (E)  TF  (green) fluorescence  images  (scale bar:  100  µm)  of  lung  tissue were  captured under  the  confocal  laser 
+microscope. (F) The images of fibrin deposition in the lung tissue from three mice groups were detected by immunohistochemical staining (400 ×, scale bar: 25 µm). n≥3 per 
+group, one-way ANOVA test. **p < 0.01, ***p < 0.001, versus SHAM group; #p < 0.05, ##p < 0.01, versus CLP group.
+
+Pro-inflammatory cytokines have the ability to stimulate coagulation in vitro. TF is the main factor in the coagulation 
+process  and  is  also  a  link  between  coagulation  and  inflammation.36–39  Under  normal  physiological  conditions,  mono-
+cytes,  endothelial  cells  and  epithelial  cells  have  low  TF  expression.40  However,  during  sepsis,  these  cells  express  and 
+release TF into circulation after being stimulated by inflammatory factors and LPS.13,41  Besides, after LPS stimulation, 
+caspase-11 is activated, followed by gasdermin D (GSDMD) pores formed and phosphatidylserine exposure, triggering 
+the  coagulation  cascade.42  Previous  research  has  also  demonstrated  that  blocking  IL-6  inhibits  endotoxin-induced 
+coagulation  activation.43  Numerous  investigations  have  shown  that  the  stimulation  of  human  monocytes  with  LPS 
+increases  TF  expression.40,44  Moreover,  healthy  humans  who  received  a  low-dose  endotoxemia  injection  had  a  125- 
+fold increase in the amount of TF mRNA in their circulating monocytes.45,46  In a model of endotoxemia, early research 
+showed  that  inhibiting  the  expression  of  TF  attenuated  septic  shock,  and  animals  with  low  TF  levels  had  decreased 
+
+1038
+
+https://doi.org/10.2147/JIR.S393850                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2023:16 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                                
+
+Lu et al
+
+Figure 7 Effects of Eupatilin on JAK2/STAT3 signaling pathways in lung tissue of septic mice. (A-C) The phosphorylation levels of JAK2 and STAT3 in septic mice were 
+analyzed by Western blot. The relative expression levels of phosphorylated JAK2 and STAT3 were normalized to JAK2 and STAT3, respectively. n≥3 per group, one-way 
+ANOVA test. **p < 0.01, ***p < 0.001, versus SHAM group; #p < 0.05, ###p < 0.001, versus CLP group.
+
+coagulation,  inflammation,  and  mortality.47  In  our  study,  we  discovered  that  TF  expression  was  noticeably  higher  in 
+sepsis models, while the pretreatment with Eupatilin reversed these changes.
+
+After  the  release  of  TF,  it  binds  to  activated  factor  VII(VIIa),  forming  the  TF–FVIIa  complex,  which  can  induce 
+a pro-inflammatory response in macrophages.48  The TF–VIIa complex then activates factor X and initiates coagulation 
+activation.  Factor  Xa,  together  with  factor  Va,  forms  the  prothrombinase  complex,  which  subsequently  converts 
+prothrombin  to  thrombin.49  It  can  amplify  inflammation  by  binding  to  platelets  and  protease  activated  receptor  1 
+(PAR-1).50  Thrombin  then  cleaves  fibrinogen  into  fibrin,51  and  fibrin  degradation  products can  induce  IL-6  production 
+by monocytes in vitro.52  Moreover, fibrin degradation can elevate the levels of D-dimer. This process produces higher 
+levels of PAI-1, and the overproduction of which will impair fibrinolysis.53  Increased fibrin formation due to impaired 
+fibrinolysis causes organ injury and mortality in sepsis.54
+
+According to a number of studies, the STAT3 signaling pathway can regulate inflammatory responses in LPS-induced 
+macrophages  and  acute  lung  injury,  including  the  production  and  release  of  inflammatory  factors.55–58  In  our  previous 
+study, we found that activation of the nuclear transcription factor STAT3 through phosphorylation at the tyrosine 705 site 
+induced TF expression and facilitated the onset of coagulation dysfunction in sepsis.28 In addition, the use of the STAT3 
+inhibitor BP-1-102 decreased the expression of LPS-induced inflammatory cytokines such as IL-1β, IL-6, TNF-α, and TF 
+in RAW264.7 cells. Similarly, our present experiments detected phosphorylation of STAT3 in both mice lung tissue and 
+LPS-stimulated macrophages sepsis models, and increased intranuclear phosphorylation was found in macrophages, both 
+of which are in agreement with previous studies.29
+
+However,  other  mechanisms  may  also  be  involved  in  Eupatilin’s  effects.  Studies  have  shown  that  Eupatilin  is 
+a  selective  PPARα-receptor  agonist,  the  activation  of  PPARα  may  be  related  to  the  alleviation  of  inflammation  and 
+oxidative  stress  in  LPS-induced  ALI.23,59  Eupatilin  has  also  been  found  to  reduce  the  expression  of  inflammatory 
+cytokines by inhibiting toll-like receptor 4 (TLR4).60  However, whether it has specific receptors requires further study. 
+In addition, Eupatilin may also play a role in other pathways, such as PI3K/AKT, NF-κB, MAPK and Nrf2 pathways.24,61 
+Thus,  whether  these  pathways  also  play  a  role  in  regulating  inflammation  and  coagulation  in  sepsis  needs  further 
+investigation.  According  to  one  study,  Eupatilin  can  lower  the  expression  of  inflammatory  mediators  by  inhibiting  the 
+NF-κB signaling pathway in endotoxin-stimulated macrophages.62  However, the specific mechanism of its regulation of 
+macrophages and its effect on pathogens has not been elucidated yet.
+
+In our study, we found that the effect of Eupatilin pretreatment on the expression of inflammatory cytokines and tissue 
+factors  was  consistent  in  both  in  vitro  and  in  vivo  experiments.  Eupatilin-mediated  effects in  vivo  were  maintained  in 
+both plasma and lung tissues. Moreover, the inhibition of the JAK2/STAT3 signaling pathway was observed in both lung 
+tissue and cells after Eupatilin pretreatment. Similar to Eupatilin, another plant-based molecule, piperlongumin, also has 
+
+Journal of Inflammation Research 2023:16                                                                                          
+
+https://doi.org/10.2147/JIR.S393850                                                                                                                                                                                                                       
+
+1039
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Lu et al                                                                                                                                                                
+
+Dovepress
+
+regulatory effects on inflammation and  coagulation in severe infections,  and further studies are needed to  compare the 
+effects of these compounds.29
+
+However, our study also has some limitations. First of all, endothelial cells also play an important role in inflamma-
+tion and coagulation disorders caused by sepsis. However, we did not perform analysis on endothelial cells in the present 
+study. Secondly, the study was performed only in C57BL/6 mice and was not validated in other murine species. Finally, 
+we only used a single dose and intervention time in our study, so further studies should be conducted to investigate the 
+optimum concentration and intervention time for Eupatilin-related effects.
+
+Conclusion
+Our results confirmed that Eupatilin can reduce the expression of inflammatory cytokines and coagulation factors in both 
+RAW264.7  macrophages  and  mouse  sepsis  models.  It  also  increased  survival  and  attenuated  lung  injury  in  mice  with 
+sepsis.  The  mechanism  for  this  may  involve  the  inhibition  of  JAK2/STAT3  activation  and  the  reduction  of  p-STAT3 
+nuclear  translocation,  thereby  regulating  inflammatory  cytokines  and  coagulation  factors.  Additionally,  the  potential 
+mechanisms and effects of Eupatilin on other organs in sepsis require further investigation.
+
+Abbreviation
+JAK2,  Janus  kinase  2;  p-JAK2,  phosphorylated  JAK2;  STAT3,  signal  transducer  and  activator  of  transcription  3; 
+p-STAT3,  phosphorylated  STAT3;  LPS,  lipopolysaccharide;  CLP,  cecal  ligation  and  puncture;  IL,  interleukin;  TNF, 
+tumor necrosis factor; TF, tissue factor; PAI-1, plasminogen activator inhibitor 1; TAT, thrombin-antithrombin complex; 
+DIC,  disseminated  intravascular  coagulation;  ALI,  acute  lung  injury;  ELISA,  enzyme-linked  immunosorbent  assay; 
+GAPDH, glyceraldehyde-3-phosphate dehydrogenase.
+
+Ethics Approval
+All animal studies were conducted by the Guide for the Care and Use of Laboratory Animals (2011) and approved by 
+Wenzhou Medical University Institutional Animal Care and Use Committees. The animal experimentation protocol was 
+granted by the Ethics Committee of Wenzhou Medical University (YS2018-088, 2018.02.26). The licence number for the 
+mice was SCXK (ZHE) 2019-0001.
+
+Acknowledgments
+We  sincerely  appreciate  the  financial  support  from  the  National  Natural  Science  Foundation  of  China  (Grant 
+No.81873949), Medical Innovation Discipline of Zhejiang Province (Critical Care Medicine, Y2015), Major project co- 
+founded  by  Zhejiang  Province  and  Ministry  of  Science  and  Technology  (Grant  No.WKJ-ZJ-1909),  Major  Science  and 
+Technology  Project  of  Wenzhou  Science  and  Technology  Bureau  (Grant  No.2018ZY002),  Basic  Scientific  Research 
+Project  of  Wenzhou  Science  and  Technology  Bureau  (Grant  No.Y20210097),  The  5G  Network-based  Platform  for 
+Precision Emergency Medical Care in Regional Hospital Clusters. MIIT. PRC (2020NO.78).
+
+Disclosure
+The authors report no conflicts of interest in this work.
+
+References
+
+1. Singer M, Deutschman CS, Seymour CW, et al. The third international consensus definitions for sepsis and septic shock (sepsis-3). JAMA. 2016;315 
+
+(8):801–810. doi:10.1001/jama.2016.0287
+
+2. Rudd KE, Johnson SC, Agesa KM, et al. Global, regional, and national sepsis incidence and mortality, 1990-2017: analysis for the Global Burden of 
+
+Disease Study. Lancet. 2020;395(10219):200–211.
+
+3. Gando S, Levi M, Toh CH. Disseminated intravascular coagulation. Nat Rev Dis Primers. 2016;2:16037.
+4. Levi M, Scully M. How I treat disseminated intravascular coagulation. Blood. 2018;131(8):845–854.
+5. Rothmeier  AS,  Marchese  P,  Petrich  BG,  et  al.  Caspase-1-mediated  pathway  promotes  generation  of  thromboinflammatory  microparticles.  J  Clin 
+
+Invest. 2015;125(4):1471–1484.
+
+6. Rosseau  S,  Hammerl  P,  Maus  U,  et  al.  Phenotypic  characterization  of  alveolar  monocyte  recruitment  in  acute  respiratory  distress  syndrome.  Am 
+
+J Physiol Lung Cell Mol Physiol. 2000;279(1):L25–35.
+
+1040
+
+https://doi.org/10.2147/JIR.S393850                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2023:16 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                                
+
+Lu et al
+
+7. Huang M, Cai S, Su J. The pathogenesis of sepsis and potential therapeutic targets. Int J Mol Sci. 2019;20(21):58.
+8. Wiersinga WJ. Current insights in sepsis: from pathogenesis to new treatment targets. Curr Opin Crit Care. 2011;17(5):480–486.
+9. Soares MP, Teixeira L, Moita LF. Disease tolerance and immunity in host protection against infection. Nat Rev Immunol. 2017;17(2):83–96.
+10. Mazgaeen L, Gurung P. Recent advances in lipopolysaccharide recognition systems. Int J Mol Sci. 2020;21(2):2. doi:10.3390/ijms21020379
+11. Cavaillon JM, Adib-Conquy M. Monocytes/macrophages and sepsis. Crit Care Med. 2005;33(12 Suppl):S506–509.
+12. Kral-Pointner  JB,  Schrottmaier  WC, Horvath  V,  et  al.  Myeloid  but  not  epithelial  tissue  factor  exerts  protective  anti-inflammatory  effects  in  acid 
+
+aspiration-induced acute lung injury. J Thromb Haemost. 2017;15(8):1625–1639.
+
+13. Pawlinski R, Wang JG, Owens AP, et al. Hematopoietic and nonhematopoietic cell tissue factor activates the coagulation cascade in endotoxemic 
+
+mice. Blood. 2010;116(5):806–814.
+
+14. Zhang H, Zeng L, Xie M, et al. TMEM173 drives lethal coagulation in sepsis. Cell Host Microbe. 2020;27(4):556–570.e556.
+15. Levi M, van der Poll T. Inflammation and coagulation. Crit Care Med. 2010;38(2 Suppl):S26–34.
+16. Abraham E. Coagulation abnormalities in acute lung injury and sepsis. Am J Respir Cell Mol Biol. 2000;22(4):401–404.
+17. Corral  J,  Yélamos  J,  Hernández-Espinosa  D,  et  al.  Role  of  lipopolysaccharide  and  cecal  ligation  and  puncture  on  blood  coagulation  and 
+
+inflammation in sensitive and resistant mice models. Am J Pathol. 2005;166(4):1089–1098.
+
+18. Zanotti-Cavazzoni SL, Goldfarb RD. Animal models of sepsis. Crit Care Clin. 2009;25(4):703–719, vii–viii.
+19. Nageen B, Sarfraz I, Rasul A, et al. Eupatilin: a natural pharmacologically active flavone compound with its wide range applications. J Asian Nat 
+
+Prod Res. 2020;22(1):1–16.
+
+20. Lu,  X,  Deng,  T,  Dong,  H  et  al.  Novel  Application  of  Eupatilin  for  Effectively  Attenuating  Cisplatin-Induced  Auditory  Hair  Cell  Death  via 
+
+Mitochondrial Apoptosis Pathway. Oxid Med Cell Longev. 2022;2022:1090034.
+
+21. Yang H, Yang X, Rong K,  et al. Eupatilin  attenuates the  senescence of nucleus  pulposus cells and mitigates  intervertebral disc degeneration via 
+
+inhibition of the MAPK/NF-κB signaling pathway. Front Pharmacol. 2022;13:940475.
+
+22. Jung  J,  Huh  KY,  Jin  X,  et  al.  A  phase  I  study  to  evaluate  the  safety,  tolerability,  pharmacodynamic  and  pharmacokinetic  profiles  of  ocular 
+
+GLH8NDE in healthy male adults. Clin Transl Sci. 2022;15(2):343–352.
+
+23. Liu H, Hao J, Wu C, et al. Eupatilin alleviates lipopolysaccharide-induced acute lung injury by inhibiting inflammation and oxidative stress. Med 
+
+Sci Monit. 2019;25:8289–8296.
+
+24. Bai D, Sun T, Lu F, et al. Eupatilin suppresses OVA-induced asthma by inhibiting NF-κB and MAPK and activating Nrf2 signaling pathways in 
+
+mice. Int J Mol Sci. 2022;23:3.
+
+25. Li Y, Ren R, Wang L, Peng K. Eupatilin alleviates airway remodeling via regulating phenotype plasticity of airway smooth muscle cells. Biosci 
+
+Rep. 2020;40:1.
+
+26. Cheong JH, Hong SY, Zheng Y, Noh SH. Eupatilin inhibits gastric cancer cell growth by blocking STAT3-mediated VEGF expression. J Gastric 
+
+Cancer. 2011;11(1):16–22.
+
+27. Ryu R, Jung UJ, Kim HJ, et al. Anticoagulant and antiplatelet activities of artemisia princeps pampanini and its bioactive components. Prev Nutr 
+
+Food Sci. 2013;18(3):181–187.
+
+28. Xu  S,  Pan  X,  Mao  L,  et  al.  Phospho-Tyr705  of  STAT3  is  a  therapeutic  target  for  sepsis  through  regulating  inflammation  and  coagulation.  Cell 
+
+Commun Signal. 2020;18(1):104.
+
+29. Fang  Z,  Zhang  X,  Huang  Y,  et  al.  Piperlongumin  improves  survival  in  the  mouse  model  of  sepsis:  effect  on  coagulation  factors  and  lung 
+
+inflammation. Inflammation. 2022;1:1–16.
+
+30. Xiang  P,  Chen  T,  Mou  Y,  et  al.  NZ  suppresses  TLR4/NF-κB  signalings  and  NLRP3  inflammasome  activation  in  LPS-induced  RAW264.7 
+
+macrophages. Inflamm Res. 2015;64(10):799–808.
+
+31. Toscano MG, Ganea D, Gamero AM. Cecal ligation puncture procedure. J Vis Exp. 2011;51.
+32. Li  B,  Zeng  M,  He  W,  et  al.  Ghrelin  protects  alveolar  macrophages  against  lipopolysaccharide-induced  apoptosis  through  growth  hormone 
+secretagogue  receptor  1a-dependent  c-Jun  N-terminal  kinase  and  Wnt/β-catenin  signaling  and  suppresses  lung  inflammation.  Endocrinology. 
+2015;156(1):203–217.
+
+33. Hotchkiss RS, Moldawer LL, Opal SM, Reinhart K, Turnbull IR, Vincent JL. Sepsis and septic shock. Nat Rev Dis Primers. 2016;2:16045.
+34. Levi M, van der Poll T, Büller HR. Bidirectional relation between inflammation and coagulation. Circulation. 2004;109(22):2698–2704.
+35. Levi M, van der Poll T. Coagulation and sepsis. Thromb Res. 2017;149:38–44.
+36. Davie EW, Fujikawa K, Kisiel W. The coagulation cascade: initiation, maintenance, and regulation. Biochemistry. 1991;30(43):10363–10370.
+37. Witkowski  M,  Landmesser  U,  Rauch  U.  Tissue  factor  as  a  link  between  inflammation  and  coagulation.  Trends  Cardiovasc  Med.  2016;26 
+
+(4):297–303.
+
+38. Grover  SP,  Mackman  N.  Tissue  factor:  an  essential  mediator  of  hemostasis  and  trigger  of  thrombosis.  Arterioscler  Thromb  Vasc  Biol.  2018;38 
+
+(4):709–725.
+
+39. Zelaya H, Rothmeier AS, Ruf W. Tissue factor at the crossroad of coagulation and cell signaling. J Thromb Haemost. 2018;16(10):1941–1952.
+40. Egorina  EM,  Sovershaev  MA,  Bjørkøy  G,  et  al.  Intracellular  and  surface  distribution  of  monocyte  tissue  factor:  application  to  intersubject 
+
+variability. Arterioscler Thromb Vasc Biol. 2005;25(7):1493–1498.
+
+41. McVey JH. The role of the tissue factor pathway in haemostasis and beyond. Curr Opin Hematol. 2016;23(5):453–461.
+42. Yang  X,  Cheng  X,  Tang  Y,  et  al.  Bacterial  endotoxin  activates  the  coagulation  cascade  through  gasdermin  D-dependent  phosphatidylserine 
+
+exposure. Immunity. 2019;51(6):983–996.e986.
+
+43. van der Poll T, Levi M, Hack CE, et al. Elimination of interleukin 6 attenuates coagulation activation in experimental endotoxemia in chimpanzees. 
+
+J Exp Med. 1994;179(4):1253–1259.
+
+44. Gregory SA, Morrissey JH, Edgington TS. Regulation of tissue factor gene expression in the monocyte procoagulant response to endotoxin. Mol 
+
+Cell Biol. 1989;9(6):2752–2755.
+
+45. Franco RF, de Jonge E, Dekkers PE, et al. The in vivo kinetics of tissue factor messenger RNA expression during human endotoxemia: relationship 
+
+with activation of coagulation. Blood. 2000;96(2):554–559.
+
+46. Aras O, Shet A, Bach RR, et al. Induction of microparticle- and cell-associated intravascular tissue factor in human endotoxemia. Blood. 2004;103 
+
+(12):4545–4553.
+
+Journal of Inflammation Research 2023:16                                                                                          
+
+https://doi.org/10.2147/JIR.S393850                                                                                                                                                                                                                       
+
+1041
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Lu et al                                                                                                                                                                
+
+Dovepress
+
+47. Pawlinski  R,  Pedersen  B,  Schabbauer  G,  et  al.  Role  of  tissue  factor  and  protease-activated  receptors  in  a  mouse  model  of  endotoxemia.  Blood. 
+
+2004;103(4):1342–1347.
+
+48. Cunningham  MA,  Romas  P,  Hutchinson  P,  Holdsworth  SR,  Tipping  PG.  Tissue  factor  and  factor  VIIa  receptor/ligand  interactions  induce 
+
+proinflammatory effects in macrophages. Blood. 1999;94(10):3413–3420.
+
+49. Amaral A, Opal SM, Vincent JL. Coagulation in sepsis. Intensive Care Med. 2004;30(6):1032–1040.
+50. Conway EM. Thrombin: coagulation’s master regulator of innate immunity. J Thromb Haemost. 2019;17(11):1785–1789.
+51. Mosesson MW. The roles of fibrinogen and fibrin in hemostasis and thrombosis. Semin Hematol. 1992;29(3):177–188.
+52. Spronk HM, van der Voort D, Ten Cate H. Blood coagulation and the risk of atherothrombosis: a complex relationship. Thromb J. 2004;2(1):12.
+53. Zeerleder S, Hack CE, Wuillemin WA. Disseminated intravascular coagulation in sepsis. Chest. 2005;128(4):2864–2875.
+54. Watanabe  R,  Wada  H,  Watanabe  Y,  et  al.  Activity  and  antigen  levels  of  thrombin-activatable  fibrinolysis  inhibitor  in  plasma  of  patients  with 
+
+disseminated intravascular coagulation. Thromb Res. 2001;104(1):1–6.
+
+55. Bode JG, Albrecht U, Häussinger D, Heinrich PC, Schaper F. Hepatic acute phase proteins–regulation by IL-6- and IL-1-type cytokines involving 
+
+STAT3 and its crosstalk with NF-κB-dependent signaling. Eur J Cell Biol. 2012;91(6–7):496–505.
+
+56. Gao  Y,  Zhao  H,  Wang  P,  Wang  J,  Zou  L.  The  roles  of  SOCS3  and  STAT3  in  bacterial  infection  and  inflammatory  diseases.  Scand  J  Immunol. 
+
+2018;88(6):e12727.
+
+57. Zimmers TA, Fishel ML, Bonetto A. STAT3 in the systemic inflammation of cancer cachexia. Semin Cell Dev Biol. 2016;54:28–41.
+58. Zhao J, Yu H, Liu Y, et al. Protective effect of suppressing STAT3 activity in LPS-induced acute lung injury. Am J Physiol Lung Cell Mol Physiol. 
+
+2016;311(5):L868–l880.
+
+59. Choi Y, Jung Y, Kim SN. Identification of Eupatilin from Artemisia argyi as a Selective PPARα Agonist Using Affinity Selection Ultrafiltration LC- 
+
+MS. Molecules. 2015;20(8):13753–13763.
+
+60. Fei  X,  Chen  C,  Kai  S,  et  al.  Eupatilin  attenuates  the  inflammatory  response  induced  by  intracerebral  hemorrhage  through  the  TLR4/MyD88 
+
+pathway. Int Immunopharmacol. 2019;76:105837.
+
+61. Lee  DC,  Oh  JM,  Choi  H,  et  al.  Eupatilin  inhibits  reactive  oxygen  species  generation  via  Akt/NF-κB/MAPK  signaling  pathways  in  particulate 
+
+matter-exposed human bronchial epithelial cells. Toxics. 2021;9:2.
+
+62. Choi  EJ,  Lee  S,  Chae  JR,  Lee  HS,  Jun  CD,  Kim  SH.  Eupatilin  inhibits  lipopolysaccharide-induced  expression  of  inflammatory  mediators  in 
+
+macrophages. Life Sci. 2011;88(25–26):1121–1126.
+
+Journal of Inflammation Research                                                                                                     
+
+Dovepress 
+
+Publish your work in this journal 
+
+The Journal of Inflammation Research is an international, peer-reviewed open-access journal that welcomes laboratory and clinical findings on 
+the  molecular  basis,  cell  biology  and  pharmacology  of  inflammation  including  original  research,  reviews,  symposium  reports,  hypothesis 
+formation and commentaries on: acute/chronic inflammation; mediators of inflammation; cellular processes; molecular mechanisms; pharmacology 
+and  novel  anti-inflammatory  drugs;  clinical  conditions  involving  inflammation.  The  manuscript  management  system  is  completely  online  and 
+includes a very quick and fair peer-review system. Visit http://www.dovepress.com/testimonials.php to read real quotes from published authors.  
+
+Submit your manuscript here: https://www.dovepress.com/journal-of-inflammation-research-journal
+
+1042
+
+DovePress                                                                                                               
+
+Journal of Inflammation Research 2023:16 
+
+Powered by TCPDF (www.tcpdf.org)

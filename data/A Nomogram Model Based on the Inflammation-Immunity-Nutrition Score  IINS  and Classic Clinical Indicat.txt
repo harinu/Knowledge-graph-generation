@@ -1,0 +1,1101 @@
+Journal of Inflammation Research
+
+ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/djir20
+
+A Nomogram Model Based on the Inflammation-
+Immunity-Nutrition Score (IINS) and Classic Clinical
+Indicators for Predicting Prognosis in Extranodal
+Natural Killer/T-Cell Lymphoma
+
+Yanxia He, Zhumei Luo, Haoqing Chen, Liqing Ping, Cheng Huang, Yan Gao &
+Huiqiang Huang
+
+To cite this article: Yanxia He, Zhumei Luo, Haoqing Chen, Liqing Ping, Cheng Huang, Yan Gao
+& Huiqiang Huang (2024) A Nomogram Model Based on the Inflammation-Immunity-Nutrition
+Score (IINS) and Classic Clinical Indicators for Predicting Prognosis in Extranodal Natural Killer/
+T-Cell Lymphoma, Journal of Inflammation Research, , 2089-2102, DOI: 10.2147/JIR.S452521
+
+To link to this article:  https://doi.org/10.2147/JIR.S452521
+
+© 2024 He et al.
+
+Published online: 04 Apr 2024.
+
+Submit your article to this journal 
+
+View related articles 
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=djir20
+
+Journal of Inflammation Research                                                         
+
+Dovepress
+open access to scientific and medical research
+
+Open Access Full Text Article
+
+O R I G I N A L  R E S E A R C H
+
+A Nomogram Model Based on the 
+Inflammation-Immunity-Nutrition Score (IINS) and 
+Classic Clinical Indicators for Predicting Prognosis in 
+Extranodal Natural Killer/T-Cell Lymphoma
+
+Yanxia He1,*, Zhumei Luo1,*, Haoqing Chen2,3,*, Liqing Ping2,3, Cheng Huang2,3, Yan Gao2,3, Huiqiang Huang2,3
+
+1Department of Oncology, The Third People’s Hospital of Chengdu, Sichuan, People’s Republic of China; 2State Key Laboratory of Oncology in South 
+China, Collaborative Innovation Center of Cancer Medicine, Sun Yat-Sen University Cancer Center, Guangzhou, People’s Republic of China; 
+3Department of Medical Oncology, Sun Yat-sen University Cancer Center, Guangzhou, People’s Republic of China
+
+*These authors contributed equally to this work 
+
+Correspondence: Huiqiang Huang; Yan Gao, Department of Medical Oncology, Sun Yat-sen University Cancer Center, Guangzhou, People’s Republic 
+of China, Email huanghqsysucc@163.com; gaoyan@sysucc.org.cn 
+
+Background: Systemic  inflammation,  immunity,  and  nutritional status  are  closely related  to  patients’ outcomes  in  several  kinds  of 
+cancers.  This  study  aimed  to  establish  a  new  nomogram  based  on  inflammation-immunity-nutrition  score  (IINS)  to  predict  the 
+prognosis of extranodal natural killer/T-cell lymphoma (ENKTL) patients.
+Methods: The clinical data of 435 patients with ENTKL were retrospectively reviewed and randomly assigned to training cohort (n=305) 
+and validation cohort (n=131) at a ratio of 7:3. Cox regression analysis was employed to identify independent prognostic factors and develop 
+a nomogram in the training cohort. Harrell’s concordance index (C-index), calibration curve, receiver operating characteristic (ROC) curve, 
+and  decision  curve  analysis  (DCA)  curve  were  employed  to  assess  the  performance  of  the  nomogram  and  compare  it  with  traditional 
+prognostic systems (PINK, IPI, KPI). Internal validation was performed using 1000 bootstrap resamples in the validation cohort. Kaplan- 
+Meier survival analyses were conducted to compare the overall survival (OS) of patients in different risk groups.
+Results:  In  the  training  cohort,  in  addition  to  several  classic  parameters,  IINS  was  identified  as  an  independent  prognostic  factor 
+significantly  associated  with  the  OS  of  patients.  The  nomogram  established  based  on  the  independent  prognostic  indicators  showed 
+superior survival prediction efficacy, with C-index of 0.733 in the training cohort and 0.759 in the validation cohort compared to the 
+PINK (0.636 and 0.737), IPI (0.81 and 0.707), and KPI (0.693 and 0.639) systems. Furthermore, compared with PINK, IPI, and IPI 
+systems,  the  nomogram  showed  relatively  superior  calibration  curves  and  more  powerful  prognostic  discrimination  ability  in 
+predicting  the  OS  of  patients.  DCA  curves  revealed  some  advantages  in  terms  of  clinical  applicability  of  the  nomogram  compared 
+to the PINK, IPI, and IPI systems.
+Conclusion:  Compared  with  traditional  prognostic  systems,  the  nomogram  showed  promising  prospects  for  risk  stratification  in 
+ENKTL patient prognosis, providing new insights into the personalized treatment.
+Keywords: inflammation-immunity-nutrition score, extranodal natural killer/T-cell lymphoma, nomogram, prognosis, overall survival
+
+Introduction
+Extranodal  natural  killer/T-cell  lymphoma  (ENKTL),  characterized  by  malignant  proliferation  of  natural  killer  cells  and 
+cytotoxic  T  lymphocytes,  is  a  distinctly  heterogeneous  clinicopathological  entity  primarily  occurring  in  Asia  and  South 
+America.1,2  In  recent  years,  with  the  optimization  of  radiotherapy  and  L-asparaginase-based  chemotherapy  regimens,  the 
+survival  rate  of  ENKTL  patients  has  markedly  improved.  However,  approximately  50%  of  patients  with  advanced-stage 
+ENKTL usually develop relapsed/refractory (r/r) disease, and the outcomes in these populations remain dismal.3,4  Several 
+prognostic systems, such as the Prognostic Index for Natural Killer Lymphoma (PINK), International Prognostic Index (IPI), 
+
+Journal of Inflammation Research 2024:17 2089–2102                                                     
+
+2089
+© 2024 He et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms.php 
+and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing the work 
+you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For 
+permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+
+Received: 14 December 2023Accepted: 19 March 2024Published: 4 April 2024He et al                                                                                                                                                               
+
+Dovepress
+
+and Korean prognostic index (KPI), are widely used in ENKTL to stratify risk and predict the outcomes of patients, while 
+these models do not produce accurate risk stratification to some extent.5–8 In addition, both the IPI and KPI prognostic systems 
+were proposed for patients who were treated with anthracycline-containing regimens, such as CHOP and CHOP-like, and may 
+not be fully applicable in the era of nonanthracycline chemotherapy.5,8 Therefore, it is extremely important to explore a more 
+efficient and accurate prognosis evaluation system for ENKTL.
+
+In  recent  years,  growing  evidence  has  indicated  that  the  inflammatory  response,  immunity  and  nutrition  status  of 
+individuals  have  a  close  relationship  with  the  occurrence,  progression,  and  metastasis  of  tumours.9,10  Many  studies  have 
+reported that the ratios of different peripheral blood mononuclear subtypes, such as the neutrophil to lymphocyte ratio (NLR), 
+lymphocyte to monocyte ratio (LMR), platelet-lymphocyte ratio (PLR), and monocyte to leukocyte ratio (MWR), play an 
+important role in predicting the prognosis of patients with various cancers.11–14 High-sensitivity C-reactive protein (hs-CRP) 
+is a critical inflammatory-related protein synthesized by the liver and has been shown to affect patient survival in hepatocel-
+lular carcinoma and nasopharyngeal carcinoma.15–17  The levels of serum albumin (ALB) intuitively reflect the nutritional 
+status of individuals and have been confirmed to be an effective tool for predicting the outcomes of patients with gastric cancer 
+and haematological malignancy.18,19 The inflammation-immunity-nutrition score (IINS), which reflects hs-CRP, lymphocytes 
+(LYM), and ALB, is considered a superior prognostic evaluation system indicator.12,20,21 However, the relationship between 
+IINS and the prognosis of patients with ENKTL has not been further explored.
+
+Therefore,  the  aim  of  our  study  was  to  develop  a  new  nomogram  model  based  on  the  IINS  score  and  traditional 
+clinical indicators and to evaluate the performance of the evaluation system in predicting the prognosis of patients with 
+ENKTL.  Additionally,  we  further  compared  the  prognosis  predictive  ability  of  the  nomogram  model  with  traditional 
+prognostic systems, including PINK, IPI, and KPI systems.
+
+Materials and Methods
+Patients
+The clinical and laboratory data of 435 consecutive patients diagnosed with ENKTL at Sun Yat-Sen University Cancer Center 
+(SYSUCC)  between  January  2017  and  October  2021  were  retrospectively  collected.  The  eligible  patients  were  defined  as 
+follows: 1) histological and pathological confirmation of ENKTL; 2) newly diagnosed; and 3) complete clinicopathological and 
+follow-up data. The main exclusion criteria were as follows: 1) complications with other malignancies; 2) definite evidence of 
+infection; and 3) lost to follow-up. The last follow-up date was April 18, 2023, and the overall survival (OS) was calculated as the 
+time span from the diagnosis of ENKTL to the last follow-up or patient death. The study was carried out in accordance with 
+the 1964 Helsinki Declaration and its later amendments and approved by the institutional Ethics Committee of SYSUCC.
+
+Study Variables and Cutoff Value Calculation
+We obtained the baseline clinicopathological parameters of patients, such as age, sex, Ann Arbor stage, and haematological 
+parameters,  including  hs-CRP,  ALB,  and  LYM.  According  to  receiver  operating  characteristic  (ROC)  curve  analysis,  we 
+determined the  optimal cutoff value for  each  indicator associated with OS and  grouped each  parameter as  follows:  hs-CRP 
+score =0 (≤10.1 mg/L) and score=1 (>10.1 mg/L), ALB score=0 (>41.1 g/L) and score=1 (≤41.1 g/L), LYM score= 0 (>1.12×109/ 
+L), score =1 (≤1.12×109/L). The IINS scores were defined as the sum of the hs-CRP, LYM, and ALB scores.12 The patients were 
+then  allocated  to  three  groups  according  to  IINS  scores:  Low  IINS  (IINS=0),  medium  IINS  (IINS=1),  and  high  IINS 
+(IINS=2 or 3).
+
+Study Design and Statistical Analysis
+The flowchart of this study is shown in Figure 1. All cases were randomly assigned to the training cohort (n=304) and 
+validation cohort (n=131) at a ratio of 7:3. The Chi-square test and Fisher’s exact test were used to examine the balance 
+of clinicopathological features and scores of several prognostic systems between the training cohort and the validation 
+cohort. In the training cohort, a prognostic nomogram model was constructed by using univariate and multivariate Cox 
+analyses  to  screen  variables  that  independently  related  to  OS.  ROC  curve  analysis  was  utilized  to  evaluate  the 
+predictive  efficacy  of  the  nomogram.  The  performance  and  net  clinical  benefit  of  the  nomogram  were  evaluated  by 
+
+2090
+
+https://doi.org/10.2147/JIR.S452521                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2024:17 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                               
+
+He et al
+
+Figure 1 Study design and flowchart of the included patients.
+
+calibration curve and decision curve analysis (DCA) and then compared with traditional prognostic models PINK, IPI, 
+and  KPI.  Internal  validation  was  adopted  in  the  validation  cohort.  The  R  software  (version  4.2.1)  packages  “rms”, 
+“timeROC” and “ggDCA” were utilized to construct the nomogram, ROC curves, calibration curves and DCA curves, 
+respectively.  Kaplan–Meier  analysis  was  conducted  to  compare  the  OS  of  patients  between  different  risk  groups. 
+Statistics  were  performed  using R  software  (version  4.2.1)  and  SPSS  software  (version  26.0),  and  a  two-tailed  p<0.05 
+was defined as statistically significant.
+
+Journal of Inflammation Research 2024:17                                                                                          
+
+https://doi.org/10.2147/JIR.S452521                                                                                                                                                                                                                       
+
+2091
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)He et al                                                                                                                                                               
+
+Dovepress
+
+Results
+Clinical Characteristics and Survival
+The baseline clinical characteristics of all 435 patients are summarized in Table 1. In the total population, the median age was 
+46 (range 7~83) years, and 67.8% were male. The majorities of the patients were in the early stage (stage I/II) (72.4%) and 
+exhibited good status according to  the Eastern Cooperative Oncology Group  Performance Status  (ECOG  PS) assessment 
+(93.3%). Eighty-one percent (81.4%) of individuals had nasal cavity or adjacent tissue invasion. Only a few patients presented 
+distal  lymph  node  involvement  (12.4%),  bone  marrow  (4.1%),  or  B  symptoms  (34.5%).  Baseline  characteristics  were 
+balanced between the two groups.
+
+The  median  follow-up  times  in  the  training  cohort  and  validation  cohort  were  51.9  months  (95%  CI:  47.9–56.0 
+months) and 47.8 months (95% CI: 44.7–51.0 months), respectively. The 1-, 3-, and 5-year OS rates were 84.2%, 70.5%, 
+and 62.6% in the training group and 81.7%, 71.5%, and 67.1% in the validation group, respectively.
+
+Table 1 Clinical Characteristics of Patients
+
+Variables
+
+Whole Cohort Training Cohort Validation Cohort
+
+P value
+
+Total
+Age (y)
+
+<60
+
+≥60
+Sex
+
+Female
+
+Male
+ECOG PS
+
+0–1
+
+≥2
+B symptoms
+
+No
+
+Yes
+Primary sites
+
+Nasal
+
+Non-nasal
+Distal LN involvement
+
+No
+
+Yes
+Ann Arbor stage
+
+I–II
+
+III–IV
+LDH (U/L)
+
+≤250
+
+>250
+BM involvement
+
+No
+
+Yes
+PINK
+
+0
+
+1
+≥2
+
+IPI
+
+0~1
+2~3
+
+≥4
+
+No. (%)
+
+No. (%)
+
+No. (%)
+
+435
+
+304
+
+131
+
+354 (81.4)
+
+81 (18.6)
+
+140 (32.2)
+
+295 (67.8)
+
+406 (93.3)
+
+29 (6.7)
+
+285 (65.5)
+
+150 (34.5)
+
+354 (81.4)
+
+81 (18.6)
+
+381 (87.6)
+
+54 (12.4)
+
+315 (72.4)
+
+120 (27.6)
+
+281 (64.6)
+
+154 (35.4)
+
+417 (95.9)
+
+18 (4.1)
+
+236 (54.3)
+
+104 (23.9)
+95 (21.8)
+
+303 (69.7)
+117 (26.9)
+
+15 (3.4)
+
+244 (80.3)
+
+60 (19.7)
+
+91 (29.9)
+
+213 (70.1)
+
+283 (93.1)
+
+21 (6.9)
+
+200 (65.8)
+
+104 (34.2)
+
+251 (82.6)
+
+53 (17.4)
+
+269 (88.5)
+
+35 (11.5)
+
+227 (74.7)
+
+77 (25.3)
+
+201 (66.1)
+
+103 (33.9)
+
+294 (96.7)
+
+10 (3.3)
+
+167 (54.9)
+
+75 (24.7)
+62 (20.4)
+
+216 (71.1)
+79 (26.0)
+
+9 (3.0)
+
+110 (84.0)
+
+21 (16.0)
+
+49 (37.4)
+
+82 (62.6)
+
+123 (93.9)
+
+8 (6.1)
+
+85 (64.9)
+
+46 (35.1)
+
+103 (78.6)
+
+28 (21.4)
+
+112 (85.5)
+
+19 (14.5)
+
+88 (67.2)
+
+43 (32.8)
+
+80 (61.1)
+
+51 (38.9)
+
+123 (93.9)
+
+8 (6.1)
+
+69 (52.7)
+
+29 (22.1)
+33 (25.2)
+
+87 (66.4)
+38 (29.0)
+
+6 (4.6)
+
+0.362
+
+0.126
+
+0.759
+
+0.856
+
+0.333
+
+0.385
+
+0.109
+
+0.312
+
+0.176
+
+0.523
+
+0.525
+
+(Continued)
+
+2092
+
+https://doi.org/10.2147/JIR.S452521                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2024:17 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                               
+
+He et al
+
+Table 1 (Continued). 
+
+Variables
+
+Whole Cohort Training Cohort Validation Cohort
+
+P value
+
+No. (%)
+
+No. (%)
+
+No. (%)
+
+KPI
+
+0
+1~2
+
+≥3
+
+IINS
+0
+
+1
+
+2~3
+Treatment regimens
+
+121 (27.8)
+223 (51.3)
+
+91 (20.9)
+
+156 (35.9)
+
+110 (25.3)
+
+169 (38.9)
+
+Pegaspargase-based
+
+365 (83.9)
+
+Non-pegaspargase-based
+
+70 (16.1)
+
+91 (29.9)
+152 (50.0)
+
+61 (20.1)
+
+113 (37.2)
+
+78 (25.7)
+
+113 (37.2)
+
+253 (83.2)
+
+51 (16.8)
+
+30 (22.9)
+71 (54.2)
+
+30 (22.9)
+
+43 (32.8)
+
+32 (24.4)
+
+56 (42.7)
+
+112 (85.5)
+
+19 (14.5)
+
+0.317
+
+0.530
+
+0.554
+
+Abbreviations:  ECOG  PS,  Eastern  Cooperative  Oncology  Group  Performance  Status;  Distal  LN  involvement,  Distal 
+lymph  node  involvement;  BM,  Bone  marrow;  PINK,  Prognostic  Index  for  Natural  Killer  Lymphoma;  IPI,  International 
+Prognostic Index; KPI, Korean prognostic index; IINS, inflammation-immunity-nutrition score.
+
+Univariate and Multivariate Cox Analysis
+Cox  univariate and multivariate analyses were performed, and the results are presented in Table 2. Univariate analysis 
+revealed that high IINS scores (IINS=2 or 3) had a significant influence on OS, with high hazard ratios (HR=2.093, 95% 
+CI: 1.634–2.682, p<0.001). In addition, age (HR=1.648, 95% CI: 1.062–2.558, p=0.026), ECOG PS (HR=5.252, 95% CI: 
+3.105–8.885,  p<0.001),  B  symptoms  (HR=1.941,  95%  CI:  1.316–2.862,  p<0.001),  primary  sites  (HR=1.952,  95%  CI: 
+
+Table 2 Cox Univariate and Multivariable Analysis of Predictors Correlated with OS 
+in the Training Cohort
+
+Variables
+
+Univariate Analysis
+
+Multivariate Analysis
+
+HR (95% CI)
+
+P
+
+HR (95% CI)
+
+P
+
+Age (y)
+
+≥60/<60
+
+Sex
+Male/Female
+
+ECOG PS
+
+≥2/0–1
+B symptoms
+
+Yes/No
+
+Primary sites
+Non-nasal/Nasal
+
+Distal LN involvement
+
+Yes/No
+Ann Arbor stage
+
+III–IV/I–II
+
+LDH (U/L)
+>250/≤250
+
+BM involvement
+
+Yes/No
+IINS
+
+2~3/1/0
+
+1.648 (1.062~2.558)
+
+0.026
+
+1.862 (1.170~2.965)
+
+0.009
+
+0.727 (0.486~1.087)
+
+0.120
+
+5.252 (3.105~8.885)
+
+<0.001
+
+2.857 (1.537~5.313)
+
+0.001
+
+1.941 (1.316~2.862)
+
+0.001
+
+1.220 (0.765~1.944)
+
+0.404
+
+1.952 (1.258~3.031)
+
+0.003
+
+0.880 (0.524~1.478)
+
+0.630
+
+2.654 (1.654~4.258)
+
+<0.001
+
+0.709 (0.375~1.342)
+
+0.291
+
+2.945 (1.992~4.353)
+
+<0.001
+
+2.189 (1.310~3.656)
+
+0.003
+
+2.598 (1.763~3.829)
+
+<0.001
+
+1.544 (0.986~2.419)
+
+0.058
+
+6.887 (3.430~13.828)
+
+<0.001
+
+2.587 (1.172~5.710)
+
+0.019
+
+2.093 (1.634~2.682)
+
+<0.001
+
+1.429 (1.051~1.943)
+
+0.023
+
+Abbreviations: ECOG PS, Eastern Cooperative Oncology Group Performance Status; Distal LN involvement, 
+Distal  lymph  node  involvement;  BM,  Bone  marrow;  IINS,  inflammation-immunity-nutrition  score.  p<0.05 
+marked in bold font shows statistically significant.
+
+Journal of Inflammation Research 2024:17                                                                                          
+
+https://doi.org/10.2147/JIR.S452521                                                                                                                                                                                                                       
+
+2093
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)He et al                                                                                                                                                               
+
+Dovepress
+
+1.258–3.031,  p=0.003),  distal  lymph  nodes  involvement  (HR=2.654,  95%  CI:  1.654–4.258,  p<0.001),  and  Ann  Arbor 
+stage (HR=2.945, 95% CI: 1.992–4.353, p<0.001) were associated with OS of patients. Then, we included variables with 
+p<  0.05  for  Cox  multivariate  analysis  and  observed  that  age  (HR=1.862,  95%  CI:  1.170–2.965,  p=  0.009),  ECOG  PS 
+(HR=2.857,  95%  CI:  1.537–5.313,  p=0.001),  Ann  Arbor  stage  (HR=2.189,  95%  CI:  1.310–3.656,  p=0.003),  bone 
+marrow  involvement  (HR=2.587,  95%  CI:  1.172–5.710,  p=0.019),  and  IINS  (HR=1.429,  95%  CI:  1.051–1.943, 
+p=0.023) were still significant independent factors of OS.
+
+Construction of the Nomogram and Model Performance
+In the training cohort, the prognostic nomogram was constructed according to the selected variables (Figure 2). The risk 
+rating of each variable was assigned a corresponding point, which provides a visual representation of the scores for each 
+risk  factor.  Larger  points  suggested  a  higher  probability  of  death.  By  adding  the  scores  for  all  risk  factors,  we  could 
+calculate the survival probability of patients at different time points. We observed that IINS had a greater impact on OS 
+than  ECOG  PS,  bone  marrow  involvement,  and  Ann  Arbor  stage.  The  constructed  nomogram  model  based  on  the 
+selected factors showed superior accuracy in predicting the OS rate of patients, with a C-index of 0.733 (95% CI: 0.684– 
+0.781).  The  calibration  curves  revealed  good  performance  in  predicting  the  1-,  3-  and  5-year  OS  of  patients  in  this 
+population (Figure 3A–C). Moreover, the C-index of the nomogram for OS prediction in the validation cohort was 0.759 
+(95% CI: 0.680–0.838), and the calibration curves showed good agreement between 1-, 3-, and 5-year overall survival 
+probabilities predicted by the nomogram and actual observation (Figure 3D–F).
+
+Comparison Performances of the Nomogram
+Then, we compared the predictive ability of the nomogram with the PINK, IPI, and KPI models in terms of the C-index and 
+AUC. In the training cohort, the C-index of the nomogram was 0.733 (95% CI: 0.684–0.781), which indicated better performance 
+than that of the PINK, IPI, and KPI systems, with values of 0.636 (95% CI: 0.584–0.688), 0.681 (95% CI: 0.630–0.732), and 
+0.693 (95% CI: 0.640–0.747), respectively. Similarly, the C-index of the nomogram was 0.759 (95% CI: 0.680–0.838), higher 
+than that of the PINK (0.737, 95% CI: 0.662–0.811), IPI (0.707, 95% CI: 0.629–0.785) and KPI (0.639, 95% CI: 0.551–0.727) 
+(Table 3). In addition, the established nomogram had the largest AUC in predicting 1-, 3- and 5-year OS compared to the PINK, 
+IPI and KPI systems, both in the training cohort (Figure 4A–C) and the validation cohort (Figure 4D–F). The results suggested 
+that compared with traditional  prognostic systems, the  nomogram  model  presented a trend  of  superior  predictive  capability. 
+Moreover, DCA showed that the nomogram appeared to yield the most significant net benefit in terms of 1-, 3-, and 5-year OS 
+
+Figure 2 Nomograms to predict the 1-, 3-, and 5-year OS of ENKTL patients in the training cohort. 
+Abbreviations: ECOG PS, Eastern Cooperative Oncology Group Performance Status; BM, Bone marrow; IINS, inflammation-immunity-nutrition score.
+
+2094
+
+https://doi.org/10.2147/JIR.S452521                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2024:17 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                               
+
+He et al
+
+Figure 3 The calibration curves for predicting the 1-, 3-, and 5-year OS of patients with ENKTL in the training cohort (A–C) and validation cohort (D–F).
+
+Journal of Inflammation Research 2024:17                                                                                          
+
+https://doi.org/10.2147/JIR.S452521                                                                                                                                                                                                                       
+
+2095
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)He et al                                                                                                                                                               
+
+Dovepress
+
+Table 3 Comparisons of the C-Index of the Nomogram, PINK, 
+IPI, and  KPI  Prognostic  Systems  in  the  Training  and  Validation 
+Cohorts
+
+Prognostic Model Training Cohort
+
+Validation Cohort
+
+C-Index (95% CI) C-Index (95% CI)
+
+Nomograms
+
+0.733 (0.684~0.781)
+
+0.759 (0.680~0.838)
+
+PINK
+
+IPI
+KPI
+
+0.636 (0.584~0.688)
+
+0.737 (0.662~0.811)
+
+0.681 (0.630~0.732)
+0.693 (0.640~0.747)
+
+0.707 (0.629~0.785)
+0.639 (0.551~0.727)
+
+Abbreviations:  PINK,  Prognostic  Index  for  Natural  Killer  Lymphoma;  IPI, 
+International Prognostic Index; KPI, Korean prognostic index.
+
+compared  to  the  PINK,  IPI,  and  KPI  prognostic  systems  in  both  the  training  cohort  (Figure  5A–C)  and  validation  cohort 
+(Figure 5D–F), which indicated that the nomogram may has good clinical application value.
+
+Discrimination Ability of the Prognostic Nomogram
+First, we assigned patients to three groups according to IINS scores and found that patients with high IINS scores had significantly 
+worse 1-, 3-, and 5-year OS than those with low IINS in both the training and validation cohorts (Figure 6A and B). Then, the 
+patients were categorized into high-risk and low-risk groups according to the median nomogram scores. The results showed that in 
+the training cohort, the 1-, 3- and 5-year OS rates were 93%, 89%, and 85% in the low-risk group and 75%, 60%, and 54% in the 
+high-risk group, respectively (p < 0.001). In the validation cohort, patients in the high-risk group had lower 1-, 3-, and 5-year OS 
+rates (67%, 53%, and 49%) than those in the low-risk group (93%, 92%, and 89%) (p<0.001) (Figure 6C and D). The constructed 
+nomogram showed significant differences in OS between the different risk groups, reflecting the good discriminative efficacy of 
+the model in predicting patient prognosis. The results indicated that the new prognostic nomogram model might be a useful tool 
+for predicting the survival of patients with ENKTL.
+
+Discussion
+Here,  we  established  a  new  nomogram  model  based  on  IINS  scores  to  predict  the  prognosis  of  ENKTL  patients.  We 
+showed  that  IINS  scores  were  a  significant  prognostic  factor  for  OS  and  that  patients  with  high  IINS  scores  had 
+significantly poorer outcomes than those with low IINS scores. In addition, for the first time, we combined IINS scores 
+with  several  traditional  clinical  parameters  that  were  independently  associated  with  patient  prognosis  to  determine  the 
+prognostic value of the new nomogram in patients with ENKTL. Our results suggested that the new nomogram appears 
+to  exhibit  superior  performance  compared  to  the  traditional  prognostic  systems  PINK,  IPI,  and  KPI,  which  provides 
+important reference value for personalized treatment of ENKTL patients.
+
+ENKTL,  as  a  haematological  malignancy  originating  from  mature  NK  cells  or  cytotoxic  T cells  (CTLs),  exhibits 
+obvious  heterogeneity  in  clinical  manifestations  and  prognosis.1,2  Although  patients  with  early-stage  ENKTL  exhibit 
+a  good  prognosis  after  treatment  with  standard  radiotherapy  or  combination  chemotherapy,  patients  with  advanced 
+disease  often  present  dismal  outcomes,  with  a  5-year  survival  rate  of  approximately  70%.22,23  To  identify  patients’ 
+prognostic  risks  more  accurately,  researchers  have  gradually  explored  the  prognostic  value  of  the  PINK,  IPI  and  KPI 
+prognostic  systems  in  ENKTL  patients.  However,  these  models  failed  to  accurately  delineate  risk  among  different 
+populations or  to distinguish high-risk  groups among  early-stage patients.24,25  Previous studies have  demonstrated that 
+systemic  inflammation  affects  the  occurrence  and  development  of  tumours  by  inducing  gene  mutations,  inhibiting  cell 
+apoptosis, inducing angiogenesis, and activating abnormal inflammatory signalling pathways.9,10  A growing number of 
+studies  have  illustrated  the  diagnostic  and  prognostic  values  of  inflammatory  markers,  such  as  LMR,  NLR,  systemic 
+immune-inflammatory index (SII) and prognostic nutritional index (PNI), in various cancers.26–29 Recently, a study found 
+that the Glasgow Prognostic Score (GPS), an inflammation-based prognostic evaluation system comprising measures of 
+C-reactive  protein  and  albumin,  showed  significant  prognostic  value  in  ENKTL.30  However,  the  prognostic  system  is 
+
+2096
+
+https://doi.org/10.2147/JIR.S452521                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2024:17 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                               
+
+He et al
+
+Figure 4 The ROC curves show the comparisons of AUC values of the nomogram, PINK, IPI, and KPI prognostic systems for predicting 1-, 3- and 5-year OS in the training 
+cohorts (A–C) and validation cohorts (D–F).
+
+Journal of Inflammation Research 2024:17                                                                                          
+
+https://doi.org/10.2147/JIR.S452521                                                                                                                                                                                                                       
+
+2097
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)He et al                                                                                                                                                               
+
+Dovepress
+
+Figure 5 Decision curve analysis for 1-, 3-, and 5-year OS predictions of the nomogram, PINK, IPI, and KPI prognostic systems in the training cohort (A–C) and validation 
+cohort (D–F).
+
+limited to two peripheral blood indicators and may not fully reflect an individual’s inflammatory and immune status. In 
+addition, the sample size of this study was limited. In another study. Scholars analysed the prognostic predictive value of 
+the controlling nutritional status (CONUT) score reflecting albumin, serum total cholesterol, and absolute lymphocytes 
+and created a workable nomogram model for personalized assessment. The results showed that the CONUT score was 
+more efficient in predicting ENKTL prognosis than the IPI, KPI and PINK models.13 However, this study mainly focused 
+on the impact of nutritional status on patient prognosis, while the impact of inflammation and immune status on patient 
+prognosis  was  not  further  investigated.  ENKTL  is  a  distinct  subtype  of  non-Hodgkin’s  lymphoma  (NHL)  frequently 
+characterized by prominent necrosis and inflammation.22,31  Particularly, due to its unique pathological features, ENKTL 
+has  a  relatively  high  probability  of  haemophagocytic  lymphohistiocytosis  (HLH),  a  potentially  fatal  systemic 
+
+2098
+
+https://doi.org/10.2147/JIR.S452521                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2024:17 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                               
+
+He et al
+
+Figure 6 Kaplan–Meier curves for the IINS score and nomogram model in the training cohort (A and C) and validation cohort (B and D).
+
+inflammatory response syndrome caused by uncontrolled overactivation of lymphocytes and macrophages.32  Therefore, 
+we  needed  to  explore  a  more  comprehensive  prognostic  system  that  could  reflect  the  inflammatory,  immune,  and 
+nutritional status of patients to predict the survival of patients more accurately.
+
+Recently, the IINS score, which is derived from hs-CRP, ALB, and lymphocyte LYM, has been reported as a strong clinical 
+prognostic indicator in hepatocellular carcinoma patients.20 A high IINS score represents reduced lymphocytes, hypoproteinae-
+mia, and high hs-CRP, which often indicates high systemic inflammation and low immune function and nutritional status. At 
+present, there have been no studies describing the prognostic effect of the IINS scoring system in ENKTL. In our study, the results 
+revealed that patients with high IINS scores experienced a relatively shorter overall survival time than those with low IINS scores 
+and demonstrated that IINS was a practical and effective prognostic indicator, which is consistent with those observed in some 
+kinds of tumours12,21  Furthermore, in addition to IINS, traditional prognostic factors such as age, ECOG performance status, 
+bone marrow involvement, and Ann Arbor stage have also been confirmed to be important factors affecting the prognosis of 
+patients  with  ENKTL  and  have  been  included  in  several  traditional  prognostic  models,  such  as  the  PINK,  IPI,  and  KPI. 
+Therefore, we constructed and validated a new nomogram model based on both IINS and independent prognostic indicators and 
+compared the  predictive  effect  of this  model with that of  the traditional prognostic systems  PINK,  IPI, and  IPI. The results 
+showed that compared with the PINK, IPI and KPI models, the C-index and AUC values of the IINS-based nomogram were 
+higher, indicating that the nomogram may have more powerful predictive efficacy and better identify prognostic risks in patients 
+
+Journal of Inflammation Research 2024:17                                                                                          
+
+https://doi.org/10.2147/JIR.S452521                                                                                                                                                                                                                       
+
+2099
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)He et al                                                                                                                                                               
+
+Dovepress
+
+with ENKTL. Our results provide insight into the relationship between inflammation, nutrition, and immunity and the survival of 
+ENKTL patients.
+
+However, this study has some limitations. Firstly, although the nomogram tending to have improved predictive 
+power,  it  was  not  statistically  significant  enough,  possibly  due  to  the  limited  numbers  in  these  cohorts.  Further 
+study  of  this  nomogram  in  larger  multi-institutional  studies  is  necessary  to  definitively  establish  the  effectiveness 
+of  this  nomogram  in  comparison  to  other  established  predictive  models  commonly  used  in  clinical  practice. 
+Secondly,  we  excluded  ENKTL  patients  with  clear  infections  in  our  study,  which  might  be  a  limitation  of  the 
+prognostic  scoring  system.  However,  this  exclusion  ensured  that  our  observation  and  analysis  of  inflammation 
+primarily focused on processes related to the tumor-associated inflammation, avoiding interference from infection- 
+induced  inflammation.  This  approach  helped  to  reduce  the  impact  of  external  factors  on  the  study  results,  leading 
+to  a  more  accurate  assessment  of  the  characteristics  and  effects  of  tumor-related  inflammation.  Furthermore, 
+different treatment regimens were included in the study, possibly impacting the survival of patients to some extent.
+In  summary,  we  first  established  and  validated  a  new  nomogram  based  on  the  IINS  score  and  traditional  prognostic 
+indicators and evaluated the prognostic value of the nomogram in ENKTL patients. Our findings suggest that IINS may act as 
+a strong prognostic predictor in patients with ENKTL. Specifically, IINS combined with traditional prognostic factors presents 
+better  prognostic  performance  than  PINK,  IPI,  and  KPI,  possibly  providing  an  easy  way  to  identify  patients  with  a  poor 
+prognosis and an opportunity to guide treatment and follow-up strategies to improve the outcomes of ENKTL patients.
+
+Data Sharing Statement
+The data  sets  used  and/or  analyzed  in  this  study  are  accessible  and  can  be  obtained  from  the  corresponding  authors  if 
+reasonably requested.
+
+Ethics Approval
+This  study  was  supported  by  the  Ethics  Committee  of  Sun  Yat-sen  University  Cancer  Center  (Ethics  approval  number: 
+B202353601) and complied with the Declaration of Helsinki. All patients agreed to informed consent involved in the study.
+
+Acknowledgment
+We thank all patients and clinical staff who participated in the study.
+
+Author Contributions
+All  authors  made  a  significant  contribution  to  the  work  reported,  whether  that  is  in  the  conception,  study  design, 
+execution, acquisition of data, analysis and interpretation, or in all these areas; took part in drafting, revising or critically 
+reviewing the article; gave final approval of the version to be published; have agreed on the journal to which the article 
+has been submitted; and agree to be accountable for all aspects of the work.
+
+Funding
+This  study  was  supported  by  the  funding  of  National  Natural  Science  Foundation  of  China  (No.  81970176);  National 
+Natural Science Foundation of China (No.82170188).
+
+Disclosure
+The authors report no conflicts of interest in this work.
+
+References
+
+1. Tse E, Kwong YL. The diagnosis and management of NK/T-cell lymphomas. J Hematol Oncol. 2017;10(1):85. doi:10.1186/s13045-017-0452-9
+2. Tse E, Kwong YL. How I treat NK/T-cell lymphomas. Blood. 2013;121(25):4997–5005. doi:10.1182/blood-2013-01-453233
+3. Bu S, Yuan F, Wei X, et al. L-asparaginase-based regimen as a first-line treatment for newly diagnosed nasal type extranodal natural killer cell/T-cell 
+
+lymphoma. Exp Ther Med. 2016;11(6):2437–2445. doi:10.3892/etm.2016.3249
+
+2100
+
+https://doi.org/10.2147/JIR.S452521                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2024:17 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                               
+
+He et al
+
+4. Vittayawacharin P,  Khuhapinant A.  A five-year retrospective study of treatment outcomes using the  L-asparaginase-based regimen as  a  first-line 
+chemotherapy  protocol  for  patients  diagnosed  with  extranodal  NK/T-cell  lymphoma,  nasal-type,  in  Thailand.  Hematology.  2021;26(1):75–82. 
+doi:10.1080/16078454.2020.1867783
+
+5. Kim SJ, Yoon DH, Jaccard  A, et al. A  prognostic index for natural killer cell lymphoma after  non-anthracycline-based treatment: a multicentre, 
+
+retrospective analysis. Lancet Oncol. 2016;17(3):389–400. doi:10.1016/s1470-2045(15)00533-1
+
+6. Zhou Z, Sehn LH, Rademaker AW, et al. An enhanced International Prognostic Index (NCCN-IPI) for patients with diffuse large B-cell lymphoma 
+
+treated in the rituximab era. Blood. 2014;123(6):837–842. doi:10.1182/blood-2013-09-524108
+
+7. Lee  J,  Suh  C,  Park YH,  et al.  Extranodal  natural killer  T-cell lymphoma,  nasal-type:  a prognostic model  from  a retrospective multicenter  study. 
+
+J Clin Oncol. 2006;24(4):612–618. doi:10.1200/JCO.2005.04.1384
+
+8. Sun J, Ke X, Zhang M, et al. New prognostic models for extranodal natural killer T-cell lymphoma, nasal-type using Cox regression and machine 
+
+learning. Transl Cancer Res. 2021;10(2):613–626. doi:10.21037/tcr-20-3017
+
+9. Elinav  E,  Nowarski  R,  Thaiss  CA,  et  al.  Inflammation-induced  cancer:  crosstalk  between  tumours,  immune  cells  and  microorganisms.  Nat  Rev 
+
+Cancer. 2013;13(11):759–771. doi:10.1038/nrc3611
+
+10. Mantovani A, Allavena P, Sica A, et al. Cancer-related inflammation. Nature. 2008;454(7203):436–444. doi:10.1038/nature07205
+11. Li  YJ,  Li  ZM,  Xia  Y,  et  al.  Serum  C-reactive  protein  (CRP)  as  a  simple  and  independent  prognostic  factor  in  extranodal  natural  killer/T-cell 
+
+lymphoma, nasal type. PLoS One. 2013;8(5):e64158. doi:10.1371/journal.pone.0064158
+
+12. Zhang Z, Liang Y, Zhong D, et al. Prognostic value of inflammation-immunity-nutrition score in patients with hepatocellular carcinoma treated with 
+
+anti-PD-1 therapy. J Clin Lab Anal. 2022;36(5). doi:10.1002/jcla.24336
+
+13. Zhang S, Sun C, Chen X, et al. The prognostic value of controlling nutritional status (CONUT) score–based nomogram on extranodal natural killer/ 
+
+T cell lymphoma patients. Ann Hematol. 2023;102(6):1433–1442. doi:10.1007/s00277-023-05232-3
+
+14. Wang L, Si H, Wang J, et al. Blood cell parameters as prognostic predictors of disease development for patients with advanced non-small cell lung 
+
+cancer. Oncol Lett. 2020;20(2):1101–1110. doi:10.3892/ol.2020.11655
+
+15. Murata M. Inflammation and cancer. Environ Health Preventative Med. 2018;23(1). doi:10.1186/s12199-018-0740-1.
+16. Liao  M,  Chen  P,  Liao  Y,  et  al.  Preoperative  high-sensitivity  C-reactive  protein  to  lymphocyte  ratio  index  plays  a  vital  role  in  the  prognosis  of 
+
+hepatocellular carcinoma after surgical resection. Onco Targets Ther. 2018;11:5591–5600. doi:10.2147/ott.S167857
+
+17. Li J, Chen S, Peng S, et al. Prognostic nomogram for patients with Nasopharyngeal Carcinoma incorporating hematological biomarkers and clinical 
+
+characteristics. Int J Bio Sci. 2018;14(5):549–556. doi:10.7150/ijbs.24374
+
+18. Zhang  Y,  Chen  Q,  Lu  C,  et  al.  Prognostic  role  of  controlling  nutritional  status  score  in  hematological  malignancies.  Hematology.  2022;27 
+
+(1):653–658. doi:10.1080/16078454.2022.2078040
+
+19. Lu  J,  Xu  BB,  Zheng  ZF,  et  al.  CRP/prealbumin,  a  novel  inflammatory  index  for  predicting  recurrence  after  radical  resection  in  gastric  cancer 
+
+patients: post hoc analysis of a randomized Phase III trial. Gastric Cancer. 2018;22(3):536–545. doi:10.1007/s10120-018-0892-0
+
+20. Liang Y, Zhang Z, Zhong D, et al. The prognostic significance of inflammation-immunity-nutrition score on postoperative survival and recurrence 
+
+in hepatocellular carcinoma patients. Front Oncol. 2022;12:913731. doi:10.3389/fonc.2022.913731
+
+21. Jiang P, Wang J, Gong C, et al. A nomogram model for predicting recurrence of stage I–III endometrial cancer based on Inflammation-Immunity- 
+
+Nutrition Score (IINS) and traditional classical predictors. J Inflamm Res. 2022;15:3021–3037. doi:10.2147/JIR.S362166
+
+22. He X, Gao Y, Li Z, et al. Review on natural killer/T-cell lymphoma. Hematol Oncol. 2021;41(2):221–229. doi:10.1002/hon.2944
+23. Kim SJ, Yoon SE, Kim WS. Treatment of localized extranodal NK/T cell lymphoma, nasal type: a systematic review. J Hematol Oncol. 2018;11 
+
+(1):1–8.
+
+24. Qi S-N, Xu LM, Yuan ZY, et al. Effect of primary tumor invasion on treatment and survival in extranodal nasal-type NK/T-cell lymphoma in the 
+modern  chemotherapy  era:  a  multicenter  study  from  the  China  Lymphoma  Collaborative  Group  (CLCG).  Leukemia  Lymphoma.  2019;60 
+(11):2669–2678. doi:10.1080/10428194.2019.1602265
+
+25. Yamaguchi M, Suzuki R, Oguchi M, et al. Treatments and outcomes of patients with extranodal natural killer/T-cell lymphoma diagnosed between 
+
+2000 and 2013: a cooperative study in Japan. J Clin Oncol. 2017;35(1):32–39. doi:10.1200/jco.2016.68.1619
+
+26. Wan  L,  Wu  C,  Luo  S,  et  al.  Prognostic  value  of  Lymphocyte-to-Monocyte  Ratio  (LMR)  in  cancer  patients  undergoing  immune  checkpoint 
+
+inhibitors. Dis Markers. 2022;2022:3610038. doi:10.1155/2022/3610038
+
+27. Gawinski C, Holdakowska A, Wyrwicz L. Correlation between Lymphocyte-to-Monocyte Ratio (LMR), Neutrophil-to-Lymphocyte Ratio (NLR), 
+Platelet-to-Lymphocyte Ratio (PLR) and Extramural Vascular Invasion (EMVI) in locally advanced rectal cancer. Curr Oncol. 2022;30(1):545–558. 
+doi:10.3390/curroncol30010043
+
+28. Ding P, Guo H, Sun C, et al. Combined systemic immune-inflammatory index (SII) and prognostic nutritional index (PNI) predicts chemotherapy 
+response  and  prognosis  in  locally  advanced  gastric  cancer  patients  receiving  neoadjuvant  chemotherapy  with  PD-1  antibody  sintilimab  and 
+XELOX: a prospective study. BMC Gastroenterol. 2022;22(1):121. doi:10.1186/s12876-022-02199-9
+
+29. Wang  HK,  Wei  Q,  Yang  YL,  et  al.  Clinical  usefulness  of  the  lymphocyte-to-monocyte  ratio  and  aggregate  index  of  systemic  inflammation  in 
+
+patients with esophageal cancer: a retrospective cohort study. Cancer Cell Int. 2023;23(1):13. doi:10.1186/s12935-023-02856-3
+
+30. Li  Y-J,  Jiang  WQ,  Huang  JJ,  et  al.  The  Glasgow  Prognostic  Score  (GPS)  as  a  novel  and  significant  predictor  of  extranodal  natural  killer/T-cell 
+
+lymphoma, nasal type. Am J Hematol. 2013;88(5):394–399. doi:10.1002/ajh.23422
+
+31. Tse E, Fox CP, Glover A, et al. Extranodal natural killer/T-cell lymphoma: an overview on pathology and clinical management. Semin Hematol. 
+
+2022;59(4):198–209. doi:10.1053/j.seminhematol.2022.10.002
+
+32. He Y, Gao Y, Ping L, et al. The emerging role of anti-PD-1 antibody-based regimens in the treatment of extranodal NK/T-cell lymphoma-associated 
+
+hemophagocytic lymphohistiocytosis. J Cancer Res Clin Oncol. 2022. doi:10.1007/s00432-022-04147-2
+
+Journal of Inflammation Research 2024:17                                                                                          
+
+https://doi.org/10.2147/JIR.S452521                                                                                                                                                                                                                       
+
+2101
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)He et al                                                                                                                                                               
+
+Dovepress
+
+Journal of Inflammation Research                                                                                                     
+
+Dovepress 
+
+Publish your work in this journal 
+
+The Journal of Inflammation Research is an international, peer-reviewed open-access journal that welcomes laboratory and clinical findings on 
+the  molecular  basis,  cell  biology  and  pharmacology  of  inflammation  including  original  research,  reviews,  symposium  reports,  hypothesis 
+formation and commentaries on: acute/chronic inflammation; mediators of inflammation; cellular processes; molecular mechanisms; pharmacology 
+and  novel  anti-inflammatory  drugs;  clinical  conditions  involving  inflammation.  The  manuscript  management  system  is  completely  online  and 
+includes a very quick and fair peer-review system. Visit http://www.dovepress.com/testimonials.php to read real quotes from published authors.  
+
+Submit your manuscript here: https://www.dovepress.com/journal-of-inflammation-research-journal
+
+2102
+
+DovePress                                                                                                               
+
+Journal of Inflammation Research 2024:17 
+
+Powered by TCPDF (www.tcpdf.org)

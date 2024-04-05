@@ -1,0 +1,4 @@
+You will be given a text of a research article.
+Your job is to correct the formatting of the text and give back a clean text.
+The text is long and includes a lot of citations and references.
+You can ignore the citations and references, but make sure that the text is clean and readable.

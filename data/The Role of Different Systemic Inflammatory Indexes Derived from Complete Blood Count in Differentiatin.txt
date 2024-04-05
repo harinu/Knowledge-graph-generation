@@ -1,0 +1,1358 @@
+Journal of Inflammation Research
+
+ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/djir20
+
+The Role of Different Systemic Inflammatory
+Indexes Derived from Complete Blood Count
+in Differentiating Acute from Chronic Calculus
+Cholecystitis and Predicting Its Severity
+
+Liling Chen & Xinyuan Chen
+
+To cite this article: Liling Chen & Xinyuan Chen (2024) The Role of Different Systemic
+Inflammatory Indexes Derived from Complete Blood Count in Differentiating Acute from
+Chronic Calculus Cholecystitis and Predicting Its Severity, Journal of Inflammation Research, ,
+2051-2062, DOI: 10.2147/JIR.S453146
+
+To link to this article:  https://doi.org/10.2147/JIR.S453146
+
+© 2024 Chen and Chen.
+
+Published online: 03 Apr 2024.
+
+Submit your article to this journal 
+
+View related articles 
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=djir20
+
+Journal of Inflammation Research                                                         
+
+Dovepress
+open access to scientific and medical research
+
+Open Access Full Text Article
+
+O R I G I N A L  R E S E A R C H
+
+The Role of Different Systemic Inflammatory 
+Indexes Derived from Complete Blood Count in 
+Differentiating Acute from Chronic Calculus 
+Cholecystitis and Predicting Its Severity
+
+Liling Chen
+
+1, Xinyuan Chen
+
+2
+
+1Department of Clinical Laboratory, Wenzhou Seventh People’s Hospital, Wenzhou, Zhejiang Province, People’s Republic of China; 2Department of 
+Clinical Laboratory, Wenzhou Central Hospital, Wenzhou, Zhejiang Province, People’s Republic of China
+
+Correspondence: Xinyuan Chen, Department of Clinical Laboratory, Wenzhou Central Hospital, Bailidonglu Street, Lucheng District, Wenzhou, 
+325000, People’s Republic of China, Tel +8615858805715, Fax +86057788070190, Email 742846523@qq.com 
+
+Purpose: This  study  aimed  to  evaluate  the  diagnostic  value  of  the  different  Complete  blood  count-derived  systemic  inflammation 
+indexes,  including  neutrophil-to-lymphocyte  ratio  (NLR),  platelet-to-lymphocyte  ratio  (PLR),  systemic  immune-inflammation  index 
+(SII), and neutrophil to lymphocyte × platelet ratio (NLPR) in differential diagnosing the chronic calculus cholecystitis (CCC) and the 
+acute calculus cholecystitis (ACC), as well as determining the severity of ACC.
+Patients and Methods: 105 CCC and 88 ACC patients were enrolled. NLR, PLR, SII, and NLPR were evaluated in both cohorts as 
+well as in different severity levels of ACC. The severity of ACC was determined based on the Tokyo Guidelines. Receiver operating 
+characteristic (ROC) curve and Univariate/multivariate regression analyses were conducted.
+Results:  The  levels  of  NLR,  PLR,  SII,  and  NLPR  were  significantly  higher  in  the  ACC  group  compared  to  the  CCC  group.  The 
+optimal  cutoff  values  for  NLR,  PLR,  SII,  and  NLPR  were  determined  to  be  3.89,  144.7,  896.8,  and  0.031  respectively.  NLR>3.89 
+demonstrates the highest predictive capability with an AUC of 0.801 and a sensitivity of 72.73%. Multivariate analysis showed that 
+NLR>3.89 (OR: 4.169, p = 0.004) and NLPR>0.031 (OR: 4.304, p = 0.005) were dominant in distinguishing ACC from CCC. In ACC 
+patients, the levels of NLR, SII, and NLPR were significantly higher in the Moderate to Severe-degree ACC (MS-ACC) group than in 
+Mild-Degree  ACC  (M-ACC).  NLPR  >  0.044  exhibited  the  highest  predictive  ability  with  an  AUC  of  0.778  and  a  specificity  of 
+91.67%.  Multivariate  analysis  showed  that  NLR>6.399  (OR:  10.308,  p  =  0.000)  was  a  possible  independent  prognostic  factor  for 
+accessing the severity of ACC.
+Conclusion: Systemic inflammation indexes can be useful in predicting the risk of ACC and MS-ACC. NLR demonstrates the best 
+distinguishing power and sensitivity for distinguishing ACC from CCC, while NLPR shows the best predictive power and specificity 
+for predicting the severity of ACC.
+Keywords: cholecystitis, NLR, PLR, SII, NLPR
+
+Introduction
+Cholecystitis is a widespread issue characterized by inflammation of the gallbladder, often prompted by blockage of the 
+cystic duct.1  Calculous cholecystitis (CC) accounts for 95% of cases and can be further classified as chronic calculous 
+cholecystitis (CCC) or acute calculous cholecystitis (ACC) based on the severity of clinical manifestations and the rate of 
+disease progression.2,3
+
+Currently, Cholecystitis cannot be definitively diagnosed through a single examination. Diagnosis relies primarily on 
+a thorough medical history, symptoms, physical examination, and imaging findings.4 The gold standard for differentiating 
+between acute and chronic cholecystitis is the use of pathologic findings from cholecystectomy. During the pre-operative 
+period,  imaging  of  the  gallbladder  plays  a  crucial  role  in  distinguishing  between  the  CCC  and  ACC.  While 
+
+Journal of Inflammation Research 2024:17 2051–2062                                                     
+
+2051
+© 2024 Chen and Chen. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/ 
+terms.php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing 
+the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. 
+For permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+
+Received: 13 December 2023Accepted: 19 March 2024Published: 3 April 2024Chen and Chen                                                                                                                                                      
+
+Dovepress
+
+ultrasonography  is  commonly  used,  it  may  not  provide  conclusive  results  in  some  patients.5,6  Computed  tomography 
+(CT)  has  its  limitations,  including  the  risk  of  false-positive  and  false-negative  diagnoses,  radiation  exposure,  and 
+potential  nephrotoxic  effects  from  contrast  media.7,8  Magnetic  resonance  imaging  (MRI)  is  accurate  in  differentiating 
+ACC from CCC due to its superior soft-tissue contrast resolution,5,9 but it can be costly and time-consuming. The use of 
+MRI may be limited to severely ill patients and may not be feasible in settings with limited medical resources.
+
+Research is ongoing on the role of biomarkers in predicting the severity of ACC. Tokyo Guidelines 2018 (TG18) is 
+a  widely  accepted  standard  for  assessing  the  severity  of  ACC  using  scoring  systems.4  However,  it  involves  collecting 
+numerous parameters.
+
+Thus,  accurately  diagnosing  different  types  of  cholecystitis  in  the  pre-operative  period  often  poses  challenges  for 
+clinicians.  Nonetheless,  accurate  diagnosis  is  crucial  for  appropriate  treatment  and  optimal  patient  outcomes.4,10  For 
+patients  exhibiting  symptoms  of  CCC,  elective  cholecystectomy  is  recommended.  Prompt  urgent  cholecystectomy  is 
+imperative  for  those  with  mild  ACC  while  patients  with  moderate  to  severe  ACC  require  urgent  or  early  gallbladder 
+drainage  in  addition  to  initial  medical  treatment  and  organ  support.11  Delayed  or  incorrect  diagnosis  can  lead  to 
+complications, including gallbladder perforation, sepsis, and even septic shock. In patients with severe sepsis or shock 
+caused by cholelithiasis, the mortality rate exceeds 60%.12 Therefore, rapid, accurate diagnosis and evaluation are crucial 
+for developing the best treatment plan and providing timely and effective care when cholecystitis occurs.
+
+Previous  studies  have  elucidated  that  white  blood  cell  (WBC)  count  and  leukocyte  subtype  cells  are  valuable 
+indicators  for  predicting  the  inflammatory  process  in  acute  cholecystitis.13–17  WBC  count  has  been  established  as  the 
+primary biomarker for assessing the severity of cholecystitis.4  Elevated WBC count is often observed due to the robust 
+inflammatory response triggered by gallstone blockage.18  In addition, Platelets also play a role in inflammation and host 
+defense.19  Several  inflammatory  parameters  based  on  WBC  and  platelet  counts,  such  as  the  neutrophil-to-lymphocyte 
+ratio  (NLR),  platelet-to-lymphocyte  ratio  (PLR),  systemic  immune-inflammation  index  (SII),  and  neutrophil-to- 
+lymphocyte  platelet  ratio  (NLPR),  as  potential  valuable  indicators  in  assessing  the  inflammatory  process.  This  study 
+aimed  to  evaluate  the  diagnostic  effectiveness  and  practical  application  of  these  systemic  inflammatory  indexes  in 
+patients  with  CC.  These  indices  could  offer  a  rapid,  accessible,  easy-to-calculate,  and  cost-effective  method  for 
+differentiating diagnose ACC from CCC as well as determining the severity of ACC, particularly in developing nations 
+where access to advanced imaging and diagnostic tools may be limited.
+
+Materials and Methods
+Study Subjects
+This prospective, observational, and single-center study was conducted at the hepatobiliary surgery of Wenzhou Central 
+Hospital. The research was carried out from June 2022 to September 2023, involving 250 patients who had undergone 
+cholecystectomy  due  to  ACC  or  CCC.  Histopathological  examination  was  performed  on  the  resected  gallbladders. 
+Diagnosis of CCC and ACC before surgery primarily relied on a combination of detailed medical history, comprehensive 
+clinical examination, laboratory tests, and imaging investigations. The final confirmation of the diagnosis of both ACC 
+and CCC was based on the pathological examination of  postoperative gallbladder tissue specimens.  The ACC patients 
+underwent  further  classification  by  the  TG18  into  three  severity  grades:4  Moderate  ACC  is  related  to  any  one  of  the 
+following  conditions:  (1)  elevated  WBC  count  (>18,000/mm3);  (2)  palpable  tender  mass  in  the  right  upper  abdominal 
+quadrant; (3) the duration of complaints > 72 h; (4) marked local inflammation (gangrenous cholecystitis, pericholecystic 
+abscess, hepatic abscess, biliary peritonitis, emphysema cholecystitis). Severe ACC is associated with dysfunction of any 
+one of the following organs/systems: (1) cardiovascular dysfunction: hypotension requiring treatment with dopamine ≥ 5 
+μg/kg  per  minute,  or  any  dose  of  norepinephrine;  (2)  neurological  dysfunction:  decreased  level  of  consciousness;  (3) 
+respiratory  dysfunction:  PaO2  /FiO2  ratio  <  300;  (4)  renal  dysfunction:  oliguria,  creatinine  >  2.0  mg/dL;  (5)  hepatic 
+dysfunction: PT international normalized ratio (INR)> 1.5; (6) hematological dysfunction: platelet count < 100,000/mm3. 
+Mild  ACC  does  not  meet  the  criteria  for  “Moderate”  or  “Severe”  ACC.  Patients  with  Moderate-  and  severe-degree 
+inflammations  were  grouped  as  the  high-degree  inflammation  group  and  compared  with  the  mild-degree  inflammation 
+group. The criteria for exclusion were established as follows: (1) Patients below 18 years of age or above 90 years of age, 
+
+2052
+
+https://doi.org/10.2147/JIR.S453146                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2024:17 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                      
+
+Chen and Chen
+
+(2)  complicated  with  gallbladder  polyp  or  gallbladder  carcinoma,  (3)  complicated  with  intrahepatic  or  extrahepatic 
+cholelithiasis, (4) complicated with serious medical diseases such as heart, lung, brain or kidney, (5) complicated with 
+other  acute  or  chronic  infections,  autoimmune,  malignant  tumors,  or  inflammatory  diseases,  (7)  non-calculous 
+cholecystitis.
+
+Blood sampling and Biochemical Analysis
+Blood  specimens  were  collected  under  sterile  conditions  on  Day  1  of  hospital  admission.  EDTA-anticoagulated  blood 
+sample (2 mL) was used for the determination of routine blood count through the Sysmex XE-2100 Hematology System 
+(East Asia Company, Japan). Blood parameters, such as neutrophil counts, lymphocyte counts, and platelet counts were 
+all  recorded.  The  NLR,  PLR,  SII,  and  NLPR  were  calculated  as  follows:  NLR  (neutrophils/lymphocytes  ratio),  PLR 
+(platelets/lymphocytes  ratio),  SII  ((neutrophils  ×  platelets)/lymphocytes),  NLPR  (neutrophils/  (lymphocytes  ×  platelets 
+ratio)). Peripheral blood (5 mL) was collected into pre-coagulation tubes and centrifuged for the serum. The serum was 
+then analyzed for various biochemical parameters including ALT (alanine transaminase), AST (aspartate transaminase), 
+GGT  (gamma-glutamyl  transpeptidase),  ALP  (alkaline  phosphatase),  TC  (total  cholesterol),  TG  (triglyceride),  HDL-C 
+(high-density  lipoprotein  cholesterol),  LDL-C  (low-density  lipoprotein  cholesterol),  Apo  AI  (apolipoprotein  AI),  Apo 
+B  (apolipoprotein  B),  and  Lp  (a)  (a-lipoprotein),  CREA  (creatinine)  using  the  Beckman  Coulter  AU5800  Automatic 
+Biochemical Analyzer (Beckman Coulter Co. Ltd. USA). Sodium citrate-anticoagulation blood sample (5 mL) was used 
+for the INR analysis through the STA-R Evolution® Experts series (STAGO, France). All determinations were performed 
+in the Clinical Science Experiment Center of the Wenzhou Central Hospital. The normal ranges of serum TC, TG, HDL- 
+C,  LDL-C,  Apo  AI,  Apo  B,  and  Lp  (a)  levels  in  our  Clinical  Science  Experiment  Center  were  2.44–5.17,  0.40–1.70, 
+1.16–1.42, 2.07–3.10 mmol/L, 1.00–1.6, 0.60–1.1 g/L and 0–300 mg/L, respectively.
+
+Statistical Analysis
+All statistical analyses were performed using SPSS v.27 (SPSS Inc., Chicago, IL, USA). Kolmogorov–Smirnov test was 
+used  to  determine  whether  variables  were  normally  distributed.  Mean  ±  standard  deviation  (SD)  was  used  to  present 
+normally  distributed  variables,  and  median  and  interquartile  range  (IQR)  values  were  used  for  abnormally  distributed 
+variables, while categorical variables were reported as percentages. Comparisons between groups were performed using 
+the  Mann–Whitney  test  and  Chi-square  test  for  numerical  and  categorical  variables,  respectively.  Receiver  operating 
+characteristics  (ROC)  curve  analysis  was  performed  to  estimate  optimal  cut-off  values,  maximizing  sensitivity  and 
+specificity according to the Youden index. Univariate analysis and multivariate regression analysis for each factor were 
+performed  by  logistics  regression  analysis.  These  parameters  were  treated  as  binary  variables  and  were  dichotomized 
+based  on  optimal  cut-off  values  or  mean  values.  Variables  with  statistical  significance  (P-value  <  0.1)  in  univariable 
+regression models were included in the multivariable regression model using the “forward LR” method to determine their 
+significance  after  adjustment  for  potential  confounders.  All  tests  were  two-tailed  and  P-value  <  0.05  was  considered 
+statistically significant.
+
+Results
+General Patient Characteristics
+A total of 105 patients with CCC (36 male, 69 female) with a median age of 52 years (range: 18–80) and 88 patients with 
+ACC (51 male, 37 female) with a median age of 56.5 years (range: 23–88) were included in this study based on specific 
+inclusion and exclusion criteria. The laboratory findings indicated that patients with ACC had significantly higher levels 
+of liver function enzymes such as AST, ALP, and GGT compared to CCC patients, with GGT showing the most notable 
+increase.  Conversely,  ACC  patients  exhibited  decreased  concentrations  of  TC,  TG,  LDL-C,  Apo  AI,  and  Apo  B  in 
+comparison  to  CCC  patients.  Furthermore,  ACC  patients had  higher  White  blood  cell  and  neutrophil  counts  but lower 
+relative lymphocyte counts compared to CCC patients. Detailed demographic information and serum parameter distribu-
+tions of the patients can be found in Table 1.
+
+Journal of Inflammation Research 2024:17                                                                                          
+
+https://doi.org/10.2147/JIR.S453146                                                                                                                                                                                                                       
+
+2053
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Chen and Chen                                                                                                                                                      
+
+Dovepress
+
+Table 1 Comparison of Important Laboratory Parameters Between CCC and ACC
+
+Variables
+
+CCC (n=105)
+
+ACC (n=88)
+
+P-value
+
+Demographics
+Age, years
+
+Female, n (%)
+
+Hospitalization, Day
+Laboratory test
+
+ALT, U/L
+
+AST, U/L
+ALP, U/L
+
+GGT, U/L
+TC, nmol/L
+
+TG, nmol/L
+
+HDL-C, nmol/L
+LDL-C, nmol/L
+
+Apo AI, g/L
+
+Apo B, g/L
+Lp (a), mg/L
+CREA, μmol/L
+WBC, 109/L
+LYM, 109/L
+NEUT, 109/L
+PLT, 109/L
+INR
+
+52.000 (39.000, 63.000)
+
+56.50 (45.000, 68.000)
+
+69 (65.714)
+
+37 (42.045)
+
+7.000 (6.000, 8.000)
+
+9.000 (7.000, 13.000)
+
+24.000 (15.250, 37.750)
+
+27.500 (16.250, 60.500)
+
+23.000 (18.500, 32.500)
+82.000 (64.000, 100.000)
+
+30.000 (19.000, 60.500)
+4.790(4.090, 5.550)
+
+29.500 (20.000, 48.500)
+86.500 (73.000, 117.800)
+
+59.000 (31.000, 131.000)
+4.390(3.740, 4.870)
+
+1.380(0.930, 2.080)
+
+1.130±0.266
+2.610(2.140, 3.110)
+
+1.280(1.120, 1.460)
+
+1.060(0.670, 1.460)
+
+1.143±0.423
+2.280(1.800, 2.660)
+
+1.130(0.920, 1.280)
+
+0.780(0.640, 0.970)
+138.000(89.000, 227.000)
+
+0.700(0.560, 0.860)
+143.000(75.000, 208.000)
+
+60.000 (50.000, 72.000)
+
+64.500 (56.000, 79.500)
+
+6.270 (5.330, 7.900)
+1.841(1.381, 2.303)
+
+3.677 (2.892, 5.731)
+
+9.980 (7.320, 15.06)
+1.296(1.012, 1.703)
+
+8.002(5.034, 12.843)
+
+0.021*
+
+<0.001*
+
+<0.001*
+
+0.05
+
+0.006*
+0.01*
+
+<0.001*
+<0.001*
+
+<0.001*
+
+0.809
+0.003*
+
+<0.001*
+
+0.020*
+0.298
+
+0.01*
+
+<0.001*
+<0.001*
+
+<0.001*
+
+233.000 (198.000, 281.000]
+1.12±0.31
+
+227.000 (186.000, 265.000]
+1.19±0.11
+
+0.152
+0.250
+
+Notes: Data are presented as mean ± standard deviation, median [25th–75th percentile], or number (percentage). 
+*P < 0.05. 
+Abbreviations: CCC, chronic calculous cholecystitis; ACC, acute calculous cholecystitis; P, comparison between 
+CCC and ACC group; ALT, Alanine transaminase; AST, Aspartate transaminase; GGT, Gamma-glutamyl transpepti-
+dase; ALP, Alkaline phosphatase; TC, total cholesterol; TG, Triglyceride; HDL-C, High-density lipoprotein choles-
+terol; LDL-C, Low-density lipoprotein cholesterol; Apo AI, Apolipoprotein AI; Apo B, Apolipoprotein B, Lp (a), 
+a-lipoprotein; CREA, creatinine; WBC, White blood cell; LYM, Lymphocytes; NEUT, Neutrophil; PLT, Platelets; INR, 
+International normalized ratio of prothrombin time.
+
+Among the patients with ACC, there were 36 cases of mild-degree inflammation (M-ACC) and 52 cases of moderate- 
+and  severe-degree  inflammation  (MS-ACC).  Severe  ACC  was  present  in  only  three  patients,  with  one  case  involving 
+hepatic dysfunction, another with respiratory complications, and the third demonstrating cardiological dysfunction. The 
+average age of patients with M-ACC was 50.4 years, while for the MS-ACC group, it was 59.5 years. Apo AI levels were 
+notably lower in MS-ACC patients compared to those with M-ACC. Analysis of blood parameters revealed a significant 
+increase  in  WBC  and  neutrophil  counts  in  MS-ACC  patients  compared  to  M-ACC  patients,  whereas  the  lymphocyte 
+count was significantly lower in the MS-ACC group than  in the M-ACC group.  The additional laboratory findings for 
+M-ACC and MS-ACC patients are shown in Table 2.
+
+The Results of the Assessed Systemic Inflammatory Indexes in Each Group of Patients 
+with CC
+The  NLR  value  was  markedly  higher  in  ACC  patients  [6.444  (3.199–11.446)]  compared  to  the  CCC  group  [1.971 
+(1.519–3.301), P <0.001]. Also, there was a notable rise in the PLR [169.121 (125.75–246.336) and 127.253 (98.612– 
+174.706);  respectively,  P  <0.001],  SII  [1470.792  (689.186–2758.316))  and  440.228  (315.366–872.194);  respectively, 
+P <0.001] and NLPR [0.030 (0.014–0.058) and 0.008 (0.006–0.015); respectively, P < 0.001], in ACC patients compared 
+to the CCC group (Figure 1).
+
+Furthermore, in MS-ACC patients, the NLR, SII, and NPLR values were significantly higher compared to M-ACC 
+patients (NLR:9.747 (5.068–14.065) Vs 4.093 (2.020, 5.411); p < 0.001; SII:2218.176 (1176.878–3349.847) vs 932.005 
+
+2054
+
+https://doi.org/10.2147/JIR.S453146                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2024:17 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                      
+
+Chen and Chen
+
+Table  2  Demographic  Data  and  Laboratory  Results  of  the  ACC  Patients  Stratified 
+According to the Severity Grade
+
+Variables
+
+M-ACC (n=36)
+
+MS-ACC (n=52)
+
+P-value
+
+Demographics
+
+Age, years
+
+50.400±14.600
+
+Gender Female, n (%)
+Hospitalization (Day)
+
+17 (47.2)
+9.472±5.241
+
+59.500±14.300
+
+20 (38.5)
+11.569±5.428
+
+Laboratory test
+
+ALT, U/L
+AST, U/L
+
+ALP, U/L
+GGT, U/L
+
+TC, nmol/L
+
+TG, nmol/L
+HDL-C, nmol/L
+
+LDL-C, nmol/L
+
+Apo AI, g/L
+Apo B, g/L
+
+Lp (a), mg/L
+CREA, μmol/L
+WBC, 109/L
+LYM, 109/L
+NEUT, 109/L
+PLT, 109/L
+INR
+
+27.000 (17.000, 69.000)
+24.000 (19.000, 50.000)
+
+31.000 (16.000, 53.500)
+31.000 (21.000, 43.000)
+
+91.500 (72.000, 117.000)
+53.000 (26.000, 123.000)
+
+85.500 (73.000, 130.000)
+66.000 (36.000, 139.000)
+
+4.530(3.910, 5.020)
+
+1.190(0.810, 1.490)
+1.151±0.355
+
+2.310(2.140, 2.920)
+
+1.223±0.335
+0.750(0.620, 0.870)
+
+4.260(3.590, 4.790)
+
+0.940(0.610, 1.440)
+1.137±0.464
+
+2.250(1.600, 2.590)
+
+1.070±0.346
+0.680(0.540, 0.830)
+
+132.000(95.000, 208.000)
+
+163.000(59.000, 204.000)
+
+60.000(54.000, 71.000)
+
+67.000(57.000, 83.000)
+
+8.429±3.033
+
+13.957±6.056
+
+1.559(1.099, 1.900)
+
+1.228(0.889, 1.404)
+
+6.081(3.486, 7.826)
+251.000 (199.000, 278.000)
+
+11.061(6.417, 15.302)
+212.009 (168.991, 254.020)
+
+1.121±0.073
+
+1.191±0.123
+
+0.005*
+
+0.413
+0.079
+
+0.740
+0.370
+
+0.870
+0.810
+
+0.132
+
+0.177
+0.884
+
+0.071
+
+0.045*
+0.140
+
+0.550
+
+0.134
+
+<0.001*
+
+0.040*
+
+<0.001*
+0.050
+
+0.224
+
+Notes: Data are presented as mean ± standard deviation, median [25th–75th percentile], or number (percentage). 
+*P < 0.05. 
+Abbreviations: M-ACC, mild ACC group; MS-ACC, moderate to severe ACC group, p, comparison between 
+M-ACC  and  MS-ACC  group;  ALT,  alanine  transaminase;  AST,  aspartate  transaminase;  GGT,  gamma-glutamyl 
+transpeptidase; ALP, alkaline phosphatase; TC, total cholesterol; TG, triglyceride; HDL-C, high-density lipoprotein 
+cholesterol; LDL-C, low-density lipoprotein cholesterol; Apo AI, apolipoprotein AI; Apo B, apolipoprotein B; Lp 
+(a), a-lipoprotein; CREA, creatinine; WBC, white blood cell; LYM, lymphocytes; NEUT, Neutrophil; PLT, Platelets, 
+INR, International normalized ratio of prothrombin time.
+
+(491.654–1572.093);  p <  0.001;  NLPR:0.047 (0.026–0.069)  VS 0.018  (0.008–0.028);  p  <  0.001) (Figure  2).  However, 
+there was no significant difference between the two groups in the value of PLR.
+
+Comparison for Assessing the Discriminative Ability of Each Inflammation Indexes to 
+Distinguishing AAC from CCC Patients
+Receiver  operating  characteristic  (ROC)  curve  analysis  was  conducted  to  assess  the  discriminative  ability  of  various 
+inflammation indices in differentiating between AAC and CCC patients. The NLR demonstrated a sensitivity of 72.73%, 
+a specificity of 80.95%, and an AUC of 0.801 at a cut-off of 3.89 (P < 0.001). The PLR showed a sensitivity of 68.18%, 
+a specificity of 61.9%, and an AUC of 0.662 at a cut-off of 144.7. Additionally, the SII exhibited a sensitivity of 69.32%, 
+a  specificity  of  76.19%,  and  an  AUC  of  0.777  at  a  cut-off  of  896.8  (P  <  0.001),  while  the  NLPR  had  a  sensitivity  of 
+63.64%, a specificity of 86.67%, and an AUC of 0.776 at a cut-off of 0.031 (P < 0.001). Overall, the NLR displayed the 
+highest AUC and sensitivity among the indexes assessed (Table 3).
+
+Comparison for Assessing the Discriminative Ability of Each Inflammation Indexes to 
+Predict the Severity of ACC
+In addition, ROC Curve Analysis demonstrated that NLR, SII, and NLPR might be acceptable in the differentiation of 
+M-ACC and MS-ACC patients. The areas under the curve (AUC) for NLR, SII, and NLPR were 0.760, 0.723, and 0.778, 
+respectively. The optimal cut-off values were identified as 6.399, 1261, and 0.044 for NLR, SII, and NLPR. Sensitivities 
+
+Journal of Inflammation Research 2024:17                                                                                          
+
+https://doi.org/10.2147/JIR.S453146                                                                                                                                                                                                                       
+
+2055
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Chen and Chen                                                                                                                                                      
+
+Dovepress
+
+Figure 1  Comparison  of  Systemic  Inflammatory  Indexes between ACC  and CCC  patients.  (A)  neutrophil-to-lymphocyte  ratio  (NLR). (B)  platelet-to-lymphocyte  ratio 
+(PLR). (C) systemic immune inflammatory (SII). (D) neutrophil to lymphocyte × platelet ratio (NLPR). ***p < 0.001. 
+Abbreviations: ACC, acute calculous cholecystitis; CCC, chronic calculous cholecystitis.
+
+for NLR, SII, and NLPR were found to be 71.15%, 72.22%, and 61.54%, while specificities were 80.56%, 73.08%, and 
+91.67%.  Nonetheless,  the  diagnostic  potential  of  PLR  was  not  supported  by  the  ROC  analysis,  as  it  did  not  reach 
+a significant level (P = 0.309) (Table 4).
+
+Univariate and Multivariate Logistic Regression Analysis
+Univariate  and  multivariable  binary  logistic  analyses  were  conducted  to  evaluate  the  clinical  significance  of 
+Inflammation  Indices  as  biomarkers  in  distinguishing  between  ACC  and  CCC  patients.  Variables  that  demonstrated 
+a P-value of <0.1 in the univariate analysis were subsequently included in the multivariable binary logistic analysis, 
+encompassing  TC,  TG,  LDL-C,  Apo  AI,  Apo  B,  sex,  NLR,  PLR,  SII,  and  NLPR.  Notably,  in  the  mutivariate 
+analysis, several variables were found to be significant in discriminating between ACC and CCC, including Apo AI/ 
+nmol/L  (<1.13)  (OR:  2.284,  P  =  0.031),  Sex  (%)  (OR:  2.369,  P  =  0.025),  NLR  >3.89  (OR:  4.169,  P  =  0.004),  and 
+NLPR  >0.031  (OR:  4.304,  P  =  0.005)  (Table  5).
+
+Furthermore,  the  univariate  analysis  identified  NLR,  SII,  NLPR,  and  age  as  risk  factors  for  MS-ACC.  Multiple 
+logistic regression models further confirmed that age and NLR were significant independent predictive factors of severity 
+in ACC patients. It was shown that when the NLR was more than the cutoff value, there was an increased risk of (10.308 
+times higher) moderate to severe degree inflammation compared to the lower NLR (Table 6).
+
+2056
+
+https://doi.org/10.2147/JIR.S453146                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2024:17 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                      
+
+Chen and Chen
+
+Figure 2 Comparison of Systemic Inflammatory Indexes between M-ACC and MS-ACC patients. (A) neutrophil-to-lymphocyte ratio (NLR). (B) platelet-to-lymphocyte 
+ratio (PLR). (C) systemic immune inflammatory (SII). (D) neutrophil to lymphocyte × platelet ratio (NLPR). ***p < 0.001. 
+Abbreviations: M-ACC, mild acute calculous cholecystitis; MS-ACC, moderate to severe acute calculous cholecystitis.
+
+Discussion
+In  this  study,  we  aimed  to  assess  the  diagnostic  role  of  various  systemic  inflammatory  indices  derived  from  Complete 
+Blood Count in acute and chronic cholecystitis, as well as in differentiating between M-ACC and MS-ACC patients. Our 
+research  revealed  that  elevated  levels  of  NLR,  PLR,  SII,  and  NLPR  were  associated  with  ACC  compared  to  CCC 
+patients. Additionally, among ACC patients, there was a significant increase in NLR, SII, and NLPR in those with MS- 
+ACC compared to M-ACC patients. We indicated that the cut-off values for NLR, PLR, SII, and NLPR in differentiating 
+between  ACC  and  CCC  patients  were  3.89,  144.7,  896.8,  and  0.031  (respectively),  while  in  distinguishing  between 
+M-ACC  and  MS-ACC  patients,  the  cut-off  value  for  NLR,  SII,  and  NLPR  was  much  higher  (6.39,  1261  and  0.044, 
+
+Table 3 ROC Curve Analysis for Different Inflammation Indices for Determining the Cut-off 
+Between CCC and AAC Patients
+
+Parameter AUC P value
+
+95% CI
+
+Cutoff value
+
+Sensitivity
+
+Specificity
+
+NLR
+
+PLR
+SII
+
+NLPR
+
+0.801
+
+0.662
+0.777
+
+0.776
+
+<0.001
+
+<0.001
+<0.001
+
+<0.001
+
+0.736–0.865
+
+0.601–0.747
+0.719–0.844
+0.708 −0.844
+
+3.890
+
+144.7
+896.8
+
+0.031
+
+72.73%
+
+68.18%
+69.32%
+
+63.64%
+
+80.95%
+
+61.90%
+76.19%
+
+86.67%
+
+Note: The P value is significant if <0.05. 
+Abbreviations:  ROC,  Receiver  operating  characteristic;  AUC,  Area  under  curve;  NLR,  the  neutrophil  to 
+lymphocyte  ratio;  PLR,  platelet  to  lymphocyte  ratio;  SII,  systemic  inflammation  index;  NLPR,  neutrophil  to 
+lymphocyte × platelet ratio; 95% CI, 95% Confidence Interval.
+
+Journal of Inflammation Research 2024:17                                                                                          
+
+https://doi.org/10.2147/JIR.S453146                                                                                                                                                                                                                       
+
+2057
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Chen and Chen                                                                                                                                                      
+
+Dovepress
+
+Table  4  Comparison  of  ROC  Curve  Analysis  of  Different  Inflammation  Indices  in 
+Predicting the Severity of Cholecystitis
+
+Parameter AUC
+
+P
+
+95% CI
+
+Cutoff value
+
+Sensitivity
+
+Specificity
+
+NLR
+
+PLR
+
+SII
+NLPR
+
+0.760
+
+<0.001
+
+0.666–0.854
+
+0.5641
+
+0.309
+
+0.436–0.692
+
+0.723
+0.778
+
+<0.001
+<0.001
+
+0.624–0.822
+0.680–0.876
+
+6.399
+
+150.7
+
+1261
+0.044
+
+71.15%
+
+52.78%
+
+72.22%
+61.54%
+
+80.56%
+
+71.15%
+
+73.08%
+91.67%
+
+Abbreviations: ROC, Receiver operating characteristic; AUC,  Area under  the curve,  NLR, the neutrophil to 
+lymphocyte  ratio;  PLR,  platelet  to  lymphocyte  ratio;  SII,  systemic  inflammation  index;  NLPR,  neutrophil  to 
+lymphocyte × platelet ratio; 95% CI, 95% Confidence Interval; The P value is significant if <0.05.
+
+Table 5 Univariate and Multivariate Logistic Regression Analysis for the Factors Distinguishing ACC from CCC Patients
+
+Univariate Regression
+
+Multivariate Regression (forward LR)
+
+Odds Ratio (OR)
+
+95% CI
+
+P value Odds Ratio (OR)
+
+95% CI
+
+P value
+
+Lower Upper
+
+Lower Upper
+
+TC(<4.39)
+
+TG(<1.06)
+
+0.478
+
+0.542
+
+0.267
+
+0.855
+
+0.013*
+
+0.304
+
+0.965
+
+0.038*
+
+LDL-C(<2.28)
+
+0.478
+
+0.267
+
+0.855
+
+0.013*
+
+Apo AI (<1.13)
+
+0.318
+
+0.175
+
+0.579
+
+0.000*
+
+2.284
+
+1.064
+
+4.900
+
+0.031
+
+Apo B(<0.7)
+
+0.520
+
+0.291
+
+0.928
+
+0.027*
+
+NLR(>3.89)
+
+11.333
+
+5.763
+
+22.287
+
+0.000*
+
+4.169
+
+1.583
+
+10.976
+
+0.004
+
+PLR(>144.7)
+
+3.482
+
+1.917
+
+6.326
+
+0.000*
+
+SII(>896.8)
+
+7.230
+
+3.820
+
+13.682
+
+0.000*
+
+NLPR(>0.031)
+
+11.375
+
+5.588
+
+23.155
+
+0.000*
+
+4.304
+
+1.556
+
+11.908
+
+0.005
+
+Age (>57)
+
+Sex (%)
+
+1.476
+
+2.642
+
+0.830
+
+2.627
+
+0.18
+
+1.473
+
+4.739
+
+0.001*
+
+2.369
+
+1.115
+
+5.035
+
+0.025
+
+Notes: *Parameters with P value <0.10 were included in multivariate analysis. The level of significance was accepted at P < 0.05. 
+Abbreviations: TC, total cholesterol; TG, triglyceride; LDL-C, low-density lipoprotein cholesterol; Apo AI, apolipoprotein AI; Apo B, apolipoprotein B; 
+NLR, the neutrophil to lymphocyte ratio; PLR, platelet to lymphocyte ratio; SII, systemic inflammation index; NLPR, neutrophil to lymphocyte × platelet 
+ratio; CI, confidence interval.
+
+respectively).  These  findings  may  contribute  to  the  preoperative  identification  and  prediction  of  ACC  and  its  severity, 
+thereby potentially assisting in averting complications and fatalities.
+
+Considering the four inflammatory parameters associated with CC, NLR has been extensively studied and is considered 
+a reliable marker for prognosticating diseases involving inflammatory and infective processes.20,21  Previous literature has 
+shown that NLR is significantly higher in acute cholecystitis compared to healthy controls, ranging from 5.29–12.16 compared 
+to 1.73–2.98.14,22–25 However, there have been limited studies focusing on the predictive value of NLR in differentiating acute 
+and chronic cholecystitis. Our study supports previous findings that NLR levels were significantly higher in acute cholecystitis 
+compared to chronic cholecystitis.23 We found that an NLR value above 3.89 was significant in the ACC group compared to 
+the CCC group, and above 6.399 was significant in the MS-ACC patients. The binary logistic regression analysis revealed that 
+an  NLR  exceeding  the  cutoff  value  independently  predicts  ACC  and  its  severity.  The  increase  in  NLR  cutoff  values 
+corresponds  to  higher  estimates  of  inflammatory  severity,  which  can  be  attributed  to  an  imbalance  in  the  inflammatory 
+response with elevated neutrophil levels. This imbalance may result in the exhaustion of the immune system and a decrease in 
+lymphocyte counts, subsequently triggering an aggressive inflammatory reaction through the activation of the innate immune 
+
+2058
+
+https://doi.org/10.2147/JIR.S453146                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2024:17 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                      
+
+Chen and Chen
+
+Table 6 Univariate and Multivariate Logistic Regression Analysis of Variables Potentially Associated with Severity of 
+Calculous Cholecystitis
+
+Univariate Regression
+
+Multivariate Regression (forward LR)
+
+Odds Ratio (OR)
+
+95% CI
+
+P value Odds Ratio (OR)
+
+95% CI
+
+P value
+
+Lower Upper
+
+Lower Upper
+
+Apo AI (<1.07)
+
+0.610
+
+0.256
+
+1.458
+
+0.267
+
+NLR (>6.399)
+
+10.219
+
+3.684
+
+28.350
+
+0.000*
+
+10.308
+
+3.515
+
+30.231
+
+0.000
+
+SII (>1261)
+
+7.057
+
+2.722
+
+18.295
+
+0.000*
+
+NLPR (>0.044)
+
+4.694
+
+1.814
+
+12.146
+
+0.001*
+
+Age (>59)
+
+Sex (%)
+
+4.091
+
+1.432
+
+1.608
+
+10.407
+
+0.003*
+
+4.147
+
+1.415
+
+12.156
+
+0.01
+
+0.606
+
+3.384
+
+0.414
+
+Notes: *Parameters with P value <0.10 were included in multivariate analysis. The level of significance was accepted at P < 0.05. 
+Abbreviations: Apo AI, apolipoprotein AI; NLR, the neutrophil to lymphocyte ratio; SII, systemic inflammation index; NLPR, neutrophil to lymphocyte × platelet 
+ratio; CI, confidence interval.
+
+system.26 Consistent with our findings, a study by Sang Kuon Lee et al observed a significant association between NLR and 
+gangrenous cholecystitis (GC), where each standard deviation increase in NLR corresponded to a 48% heightened probability 
+of GC.24 Nevertheless, a recent meta-analysis has suggested that while NLR can predict acute cholecystitis, it may not have the 
+ability to predict disease severity.25 The ability of NLR to accurately differentiate the severity of ACC is a topic of ongoing 
+debate, potentially influenced by variations in severity grade definitions across different studies. Further research is needed to 
+clarify this matter.
+
+PLR, another inflammatory marker based on complete blood count values, has shown potential as a prognostic marker 
+in inflammatory diseases and malignancies. In our research, we observed that a PLR of 144.7 effectively distinguished 
+between  ACC  and  CCC,  with  a  sensitivity  of  68.18%,  specificity  of  61.9%,  and  ROC  AUC  of  66.20%.  A  recently 
+published  study  has  also  indicated  that  a  PLR  of  148.13  could  be  considered  a  valuable  inflammatory  biomarker  for 
+ACC, demonstrating a sensitivity of 77.9%, specificity of 76.2%, and ROC AUC of 74.14%.27 Gökçe F et al highlighted 
+the potential of NLR and PLR in guiding CRP and leukocyte values in acute cholecystitis.23  while Turhan et al’s study 
+identified  a  PLR  value  over  146.90  as  a  predictive  marker  of  complicated  cholecystitis.28  Furthermore,  another  study 
+showcased that a PLR equal to or greater than 154.73 indicates severe cholecystitis.29 However, our investigation did not 
+yield significant evidence for using PLR to assess the severity of ACC. Similarly, in a recent study evaluating PLR, it was 
+found that it can identify gangrenous acute cholecystitis with a cutoff value greater than 175, but PLR was not found to 
+be an independent factor for gangrene.18  PLR holds promise as a prognostic and diagnostic tool in various inflammatory 
+conditions, although further research is needed to fully understand its potential in assessing disease severity.
+
+SII, as determined by peripheral lymphocyte, neutrophil, and platelet counts, has proven to be a valuable indicator for 
+evaluating the immune and inflammatory status of patients. Previous studies have shown its potential for diagnosing and 
+predicting  various  diseases,  such  as  esophageal  and  pancreatic  cancers.30,31  In  the  context  of  cholecystitis,  previous 
+studies  have  revealed  that  SII  levels  exhibit  a  significant  elevation  in  patients  with  acute  cholecystitis  compared  to 
+healthy individuals.32  Furthermore, SII can serve as a positive predictor for the severity of acute cholecystitis.33  It has 
+also  demonstrated  associations  with  short-term  outcomes  and  advanced  forms  of  acute  cholecystitis.13,34  Within  our 
+study, we observed that the cutoff value of SII for differentiating between ACC and CCC was 896.8, and for predicting 
+MS-ACC it was >1261. These findings indicated the potential clinical utility value of SII in assessing the severity and 
+prognosis of acute cholecystitis.
+
+NLPR,  also  describing  the  interaction  of  acute  processes  of  the  immune  system  and  immunobiotics  involving 
+neutrophils,  lymphocytes, and platelets,35  has  not yet been  extensively studied in  patients with cholecystitis.  However, 
+NLPR has been investigated as a routine CBC inflammation index in other diseases, such as COVID-19 and acute kidney 
+
+Journal of Inflammation Research 2024:17                                                                                          
+
+https://doi.org/10.2147/JIR.S453146                                                                                                                                                                                                                       
+
+2059
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Chen and Chen                                                                                                                                                      
+
+Dovepress
+
+injury, showing potential as a risk factor or marker of disease severity.36,37 In our study, we have observed that the NLPR 
+value  is  the  most  reliable  parameter  indicating  the  severity  of  ACC,  with  the  highest  AUC  of  0.778  and  specificity  of 
+91.67%.  Moreover,  based  on  multivariate  analysis,  NLPR  was  also  identified  as  an  independent  risk  factor,  its  cut-off 
+value for the predictive of ACC was 0.031. Further research is needed to explore the utility of NLPR in cholecystitis and 
+other inflammatory conditions.
+
+Our research encountered several limitations. Initially, the patient pool was confined to a single hospital, which may 
+have restricted the broader applicability of the results. Additionally, the sample size of 193 cases, with just three severe 
+ACC instances, was deemed inadequate. Subsequent studies ought to incorporate larger cohorts to affirm the efficacy of 
+inflammation  indexes  for  severe  ACC  cases.  Lastly,  our  investigation  did  not  delve  into  the  correlation  between 
+Inflammation Indexes and the development of postoperative complications.
+
+Conclusion
+Our research shows that indicators such as NLR, PLR, SII, and NPLR have the potential to differentiate between ACC 
+and CCC patients. NLR demonstrates the highest sensitivity and accuracy in this differentiation. Additionally, an increase 
+in NLR, SII, and NPLR, from specific cut-off values, but not PLR, can predict the severity of ACC in patients. Notably, 
+NPLR exhibits the highest specificity among the studied indicators. Importantly, our analysis identified NLR as the only 
+factor independently and precisely associated with the severity of ACC. These findings highlight the potential of CBC as 
+a  readily  available,  and  inexpensive  test  for  predicting  the  severity  of  cholecystitis  early  on,  thus  facilitating  more 
+accurate  clinical  decision-making.  This  approach  may  be  particularly  beneficial  for  medical  professionals  in  countries 
+with limited resources.
+
+Ethics Approval and Consent to Participate
+The  study  was  in  accordance  with  the  Declaration  of  Helsinki  and  was  approved  by  the  Ethics  Committee  of  the 
+Wenzhou Central Hospital (approval number: L2022-02-052). All participants provided written informed consent.
+
+Acknowledgments
+No  funding  was  received  for  this  study.  The  authors  thank  hepatobiliary  surgery  of  Wenzhou  Central  Hospital  for  the 
+valuable support of this work.
+
+Author Contributions
+All  authors  made  a  significant  contribution  to  the  work  reported,  whether  it  was  in  the  conception,  study  design, 
+execution, data acquisition, analysis, and interpretation, or all these areas. All authors took part in drafting, revising or 
+critically  reviewing  the  article;  gave  final  approval  of  the  version  to  be  published;  agreed  on  the  journal  to  which  the 
+article has been submitted; and agreed to be accountable for all aspects of the work.
+
+Disclosure
+The authors report no conflicts of interest in this work.
+
+References
+
+1. Wadhwa V, Jobanputra Y, Garg SK, et al. Nationwide trends of hospital admissions for acute cholecystitis in the United States. Gastroenterol Rep. 
+
+2017;5(1):36–42. doi:10.1093/gastro/gow015
+
+2. Editorial Board of Chinese Journal of Digestion. Chinese consensus on the internal medical treatment of chronic cholecystitis and gallstone (2014, 
+
+Shanghai). Chin J Gastroenterol. 2015;20:292–296.
+
+3. Branch of Biliary Surgery, Chinese Society of Surgery, Chinese Medical Association. Guidelines for diagnosis and treatment of acute biliary tract 
+
+infections (2021). Zhonghua Wai Ke Za Zhi. 2021;59(6):422–429. doi:10.3760/cma.j.cn112139-20210421-00180
+
+4. Yokoe M, Hata J, Takada T, et al. Tokyo Guidelines 2018: diagnostic criteria and severity grading of acute cholecystitis (with videos). J Hepato- 
+
+Biliary-Pancreatic Sci. 2018;25(1):41–54. doi:10.1002/jhbp.515
+
+5. Altun  E,  Semelka  RC,  Elias  J,  et  al.  Acute  cholecystitis:  MR  findings  and  differentiation  from  chronic  cholecystitis.  Radiology.  2007;244 
+
+(1):174–183. doi:10.1148/radiol.2441060920
+
+2060
+
+https://doi.org/10.2147/JIR.S453146                                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2024:17 
+
+DovePress                                                                                                                                                 
+
+Powered by TCPDF (www.tcpdf.org)Dovepress                                                                                                                                                      
+
+Chen and Chen
+
+6. Menu  Y,  Vuillerme  MP.  Non-traumatic  abdominal  emergencies:  imaging  and  intervention  in  acute  biliary  conditions.  Eur  Radiol.  2002;12 
+
+(10):2397–2406. doi:10.1007/s00330-002-1613-x
+
+7. Hwang H, Marsh I, Doyle J. Does ultrasonography accurately diagnose acute cholecystitis? Improving diagnostic accuracy based on a review at 
+
+a regional hospital. Can J Surg J Canadien de Chirurgie. 2014;57(3):162–168. doi:10.1503/cjs.027312
+
+8. Smith  EA,  Dillman  JR,  Elsayes  KM,  et  al.  Cross-sectional  imaging  of  acute  and  chronic  gallbladder  inflammatory  disease.  AJR.  2009;192 
+
+(1):188–196. doi:10.2214/AJR.07.3803
+
+9. Wang A, Shanbhogue AK, Dunst D, et al. Utility of diffusion-weighted MRI for differentiating acute from chronic cholecystitis. J Magnet Reson 
+
+Imag. 2016;44(1):89–97. doi:10.1002/jmri.25128
+
+10. Yokoe  M,  Takada  T,  Hwang  TL,  et  al.  Validation  of  TG13  severity  grading  in  acute  cholecystitis:  Japan-Taiwan  collaborative  study  for  acute 
+
+cholecystitis. J Hepatobiliary Pancreat Sci. 2017;24(6):338–345. doi:10.1002/jhbp.457
+
+11. Miura F, Strasberg SM, Solomkin JS, et al. TG13 flowchart for the management of acute cholangitis and cholecystitis. J Hepato-Biliary-Pancreatic 
+
+Sci. 2013;20(1):47–54. doi:10.1007/s00534-012-0563-1
+
+12. Shou-Wu L,  Sheng-Shun  Y,  Chi-Sen C,  et al.  Impact  of  the  Tokyo  guidelines on  the  management of  patients with acute  calculous cholecystitis. 
+
+J Gastroenterol Hepatol. 2010;24(12):1857–1861.
+
+13. Serban D, Stoica PL, Dascalu AM, et al. The Significance of Preoperative Neutrophil-to-Lymphocyte Ratio (NLR), Platelet-to-Lymphocyte Ratio 
+(PLR), and Systemic Inflammatory Index (SII) in predicting severity and adverse outcomes in acute calculous cholecystitis. J Clin Med. 2023;12 
+(21):6946. doi:10.3390/jcm12216946
+
+14. Micić D, Stanković S, Lalić N, et al. Prognostic value of preoperative neutrophil-to-lymphocyte ratio for prediction of severe cholecystitis. J Med 
+
+Biochem. 2018;37(2):121–127. doi:10.1515/jomb-2017-0063
+
+15. Chen J, Gao Q, Huang X, et al. Prognostic clinical indexes for prediction of acute gangrenous cholecystitis and acute purulent cholecystitis. BMC 
+
+Gastroenterol. 2022;22(1):491. doi:10.1186/s12876-022-02582-6
+
+16. Sato  N,  Kinoshita  A,  Imai  N,  et  al.  Inflammation-based  prognostic  scores  predict  disease  severity  in  patients  with  acute  cholecystitis.  Eur 
+
+J Gastroenterol Hepatol. 2018;30(4):484–489. doi:10.1097/MEG.0000000000001063
+
+17. Er S, Ozden S, Celik C, et al. Can we predict severity of acute cholecystitis at admission? Pakist J Med Sci. 2018;34(5):1293–1296. doi:10.12669/ 
+
+pjms.345.14502
+
+18. Ares JAD, Garcia RM, Vidagany NE, et al. Can inflammatory biomarkers help in the diagnosis and prognosis of gangrenous acute cholecystitis? 
+
+A prospective study. Revista Espanola De Enfermad Digest. 2021;113:41–45.
+
+19. Nording HM, Seizer P, Langer HF. Platelets in inflammation and atherogenesis. Front Immunol. 2015;6:98. doi:10.3389/fimmu.2015.00098
+20. Buonacera A, Stancanelli B, Colaci M, et al. Neutrophil to lymphocyte ratio: an emerging marker of the relationships between the immune system 
+
+and diseases. Int J Mol Sci. 2022;23(7):3636. doi:10.3390/ijms23073636
+
+21. Zahorec  R.  Neutrophil-to-lymphocyte  ratio,  past,  present  and  future  perspectives.  Bratisl  Lek  Listy.  2021;122(7):474–488.  doi:10.4149/ 
+
+BLL_2021_078
+
+22. Prakash  G,  Hasan  M.  The  accuracy  of  neutrophil-to-lymphocyte  ratio  and  abdominal  computed  tomography  to  predict  the  severity  of  acute 
+
+cholecystitis. Cureus. 2022;14(12):e32243. doi:10.7759/cureus.32243
+
+23. Gökçe  F,  Gökçe  A.  Is  c-reactive  protein  a  superior  marker  of  inflammation  over  the  neutrophil/lymphocyte  ratio  or  platelet/lymphocyte  ratio  in 
+
+acute cholecystitis. Dicle Med J. 2019;46(4):839–845. doi:10.5798/dicletip.661406
+
+24. Lee  SK, Lee  SC, Park JW, et al. The utility of the preoperative neutrophil-to-lymphocyte ratio  in predicting severe cholecystitis: a retrospective 
+
+cohort study. BMC Surg. 2014;14:100. doi:10.1186/1471-2482-14-100
+
+25. Kler  A,  Taib  A,  Hajibandeh  S,  et  al.  The  predictive  significance  of  neutrophil-to-lymphocyte  ratio  in  cholecystitis:  a  systematic  review  and 
+
+meta-analysis. Langenbecks Arch Surg. 2022;407(3):927–935. doi:10.1007/s00423-021-02350-2
+
+26. Peng  J,  Qi  D,  Yuan  G,  et  al.  Diagnostic  value  of  peripheral  hematologic  markers  for  coronavirus  disease  2019  (COVID-19):  a  multicenter, 
+
+cross-sectional study. J Clin Lab Analysis. 2020;34(10):e23475. doi:10.1002/jcla.23475
+
+27. Bedel  C.  Can  we  use  neutrophil  lymphocyte  ratio  and  platelet  lymphocyte  ratio  as  a  potential  biomarker  for  acute  cholecystitis?  Ortadogu  Tip 
+
+Dergisi. 2019;11(4):404–408. doi:10.21601/ortadogutipdergisi.505193
+
+28. Turhan  VB,  Gök  HF,  Ünsal  A,  et  al.  Pre-operative  neutrophil/lymphocyte  and  platelet/lymphocyte  ratios  are  effective  in  predicting  complicated 
+
+acute cholecystitis. Ulus Travma Acil Cerrahi Derg. 2022;28(4):471–476. doi:10.14744/tjtes.2021.49956
+
+29. Santharaj  DS,  K  NDP.  Neutrophil-Lymphocyte  Ratio  (NLR),  Platelet-Lymphocyte  Ratio  (PLR)  and  sonological  findings  in  predicting  severe 
+
+cholecystitis. SAS J Surg. 2022;8(3):107–117. doi:10.36347/sasjs.2022.v08i03.008
+
+30. Zeng  X,  Ye  L,  Luo  M,  et  al.  Prognostic  value  of  pretreatment  systemic  immune-inflammation  index  in  Chinese  esophageal  squamous  cell 
+
+carcinoma patients receiving radical radiotherapy: a meta-analysis. Medicine. 2023;102(25):e34117. doi:10.1097/MD.0000000000034117
+
+31. Murthy P, Zenati MS, Al Abbas AI, et al. Prognostic value of the systemic immune-inflammation index (SII) after neoadjuvant therapy for patients 
+
+with resected pancreatic cancer. Ann Surg Oncol. 2020;27(3):898–906. doi:10.1245/s10434-019-08094-0
+
+32. Yildiz G, Selvi F, Bedel C, et al. Systemic inflammation response index and systemic immune inflammation index for predicting acute cholecystitis. 
+
+Indian J Med Specialities. 2023;14(2):88–92. doi:10.4103/injms.injms_5_23
+
+33. Cakcak İE, Kula O. Predictive evaluation of SIRI, SII, PNI, and GPS in cholecystostomy application in patients with acute cholecystitis. Turkish 
+
+J Trauma Emerg Surg. 2022;28:7.
+
+34. Özdemir  S,  Altunok  İ,  Abuzer  Ö,  et  al.  The  role  of  the  hematological  inflammatory  index  and  systemic  immuno-inflammation  index  in  acute 
+
+cholecystitis; 2022.
+
+35. Lu Y, Tang Y, Wang B, et al. Predicting immunoglobulin resistance in Kawasaki disease: an assessment of neutrophil to lymphocyte platelet ratio. 
+
+Italian J Pediat. 2022;48(1):208. doi:10.1186/s13052-022-01400-9
+
+36. de  Hond  TAP,  Khairoun  M,  Haitjema  S,  et  al.  MO313:  haematological  ratios  as  risk  factor  for  acute  kidney  injury  in  patients  suspected  of  an 
+
+infection at the emergency department. Nephrol Dial Transplant. 2022;37. doi:10.1093/ndt/gfac068.023
+
+37. Ghobadi H, Mohammadshahi J, Javaheri N, et al. Role of leukocytes and systemic inflammation indexes (NLR, PLR, MLP, dNLR, NLPR, AISI, 
+SIR-I, and SII) on admission predicts in-hospital mortality in non-elderly and elderly COVID-19 patients. Front Med. 2022;9:916453. doi:10.3389/ 
+fmed.2022.916453
+
+Journal of Inflammation Research 2024:17                                                                                          
+
+https://doi.org/10.2147/JIR.S453146                                                                                                                                                                                                                       
+
+2061
+
+DovePress                                                                                                                       
+
+Powered by TCPDF (www.tcpdf.org)Chen and Chen                                                                                                                                                      
+
+Dovepress
+
+Journal of Inflammation Research                                                                                                     
+
+Dovepress 
+
+Publish your work in this journal 
+
+The Journal of Inflammation Research is an international, peer-reviewed open-access journal that welcomes laboratory and clinical findings on 
+the  molecular  basis,  cell  biology  and  pharmacology  of  inflammation  including  original  research,  reviews,  symposium  reports,  hypothesis 
+formation and commentaries on: acute/chronic inflammation; mediators of inflammation; cellular processes; molecular mechanisms; pharmacology 
+and  novel  anti-inflammatory  drugs;  clinical  conditions  involving  inflammation.  The  manuscript  management  system  is  completely  online  and 
+includes a very quick and fair peer-review system. Visit http://www.dovepress.com/testimonials.php to read real quotes from published authors.  
+
+Submit your manuscript here: https://www.dovepress.com/journal-of-inflammation-research-journal
+
+2062
+
+DovePress                                                                                                               
+
+Journal of Inflammation Research 2024:17 
+
+Powered by TCPDF (www.tcpdf.org)

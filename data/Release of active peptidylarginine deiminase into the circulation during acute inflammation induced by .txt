@@ -1,0 +1,1587 @@
+Journal of Inflammation Research
+
+ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/djir20
+
+Release of active peptidylarginine deiminase into
+the circulation during acute inflammation induced
+by coronary artery bypass surgery
+
+Anne Vejlstrup, Ann Merete Møller, Claus Henrik Nielsen & Dres Damgaard
+
+To cite this article: Anne Vejlstrup, Ann Merete Møller, Claus Henrik Nielsen & Dres Damgaard
+(2019) Release of active peptidylarginine deiminase into the circulation during acute
+inflammation induced by coronary artery bypass surgery, Journal of Inflammation Research, ,
+137-144, DOI: 10.2147/JIR.S198611
+
+To link to this article:  https://doi.org/10.2147/JIR.S198611
+
+© 2019 Vejlstrup et al.
+
+Published online: 29 May 2019.
+
+Submit your article to this journal 
+
+Article views: 60
+
+View related articles 
+
+View Crossmark data
+
+Citing articles: 3 View citing articles 
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=djir20
+
+Journal of Inﬂammation Research
+
+Open Access Full Text Article
+
+Dovepress
+
+open access to scientiﬁc and medical research
+
+O R I G I N A L R E S E A R C H
+
+Release of active peptidylarginine deiminase into
+the circulation during acute inﬂammation induced
+by coronary artery bypass surgery
+
+This article was published in the following Dove Press journal:
+Journal of Inﬂammation Research
+
+Anne Vejlstrup1
+Ann Merete Møller2
+Claus Henrik Nielsen1,3,*
+Dres Damgaard1,3,*
+1Institute for Inﬂammation Research,
+Center for Rheumatology and Spine
+Diseases, Copenhagen University
+Hospital, Rigshospitalet, Copenhagen,
+Denmark; 2Department of
+Anaesthesiology, Herlev Hospital, Herlev,
+Denmark; 3Section for Periodontology,
+Microbiology and Community Dentistry,
+Department of Odontology, Faculty of
+Health and Medical Sciences, University
+of Copenhagen, Copenhagen, Denmark
+
+*These authors contributed equally to
+this work
+
+Purpose: Peptidylarginine deiminase (PAD) catalyzes citrullination, a post-translational
+modiﬁcation that can alter structure, function and antigenicity of proteins. Citrullination in
+the lungs due to smoking is believed to initiate an anti-citrulline immune response in
+rheumatoid arthritis. Citrullination in other inﬂamed organs has also been demonstrated,
+but it is not known whether smoking or inﬂammatory processes in general result in release of
+relevant amounts of PAD into the circulation with potential to cause citrullination of proteins
+at various anatomical sites. Coronary artery bypass grafting (CABG) using cardiopulmonary
+bypass (CPB) induces an acute systemic inﬂammation response. In the present study, we
+investigate whether smoking or acute systemic inﬂammation causes release of PAD into the
+circulation.
+Patients and methods: This study included 36 patients with coronary heart disease (16
+smokers and 20 non-smokers) undergoing CABG surgery with CPB. Circulating levels of
+PAD2 and PAD4, PAD activity,
+the neutrophil activation markers MPO, MMP-9 and
+lipocalin-2, the cytokines IL-6 and IL-10, and the chemokine CXCL8 were measured 2 hrs
+preoperatively and 2 hrs postoperatively.
+Results: At baseline, serum PAD2 and PAD4 concentration did not differ between smokers
+and non-smokers. However, serum from non-smokers contained higher PAD activity than
+serum from smokers. Circulating PAD2 levels and PAD activity increased markedly in both
+groups after surgery, as did all neutrophil activation markers, cytokines and chemokine.
+PAD2 levels correlated with neutrophil activation markers, but not with cytokine and
+chemokine levels.
+Conclusion: Blood levels of PAD2 did not differ signiﬁcantly between smokers and non-
+smokers, but smokers had decreased PAD activity in the circulation. PAD2 levels and
+PAD activity increased in blood during inﬂammation induced by CABG with CPB. This
+suggests that acute inﬂammation, ischemia or reperfusion, or a combination of these,
+leads to systemic spreading of enzymatically active PAD, which may affect protein
+function and induce generation of citrullinated self-antigens.
+Keywords: citrullination, peptidylarginine deiminase, PAD, inﬂammation, coronary artery
+bypass grafting, CABG, cardiopulmonary bypass, CPB
+
+Correspondence: Dres Damgaard
+Institute for Inﬂammation Research,
+Center for Rheumatology and Spine
+Diseases, Copenhagen University
+Hospital, Rigshospitalet, Section 7541,
+Blegdamsvej 9, DK-2100 Copenhagen,
+Denmark
+Tel +453 545 7188
+Email dres.damgaard@regionh.dk
+
+submit your manuscript | www.dovepress.com
+
+DovePress
+
+http://doi.org/10.2147/JIR.S198611
+
+Introduction
+Peptidylarginine deiminase (PAD) catalyzes the post-translational protein modiﬁcation
+known as citrullination, which refers to the conversion of arginine residues into citrulline
+residues. Citrullination can alter the function of several proteins, including cytokines and
+chemokines,1,2 ﬁbrinogen,3 nicotinamide-N-methyl transferase4 and transforming growth
+
+Journal of Inﬂammation Research 2019:12 137–144
+
+137
+© 2019 Vejlstrup et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms.
+php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing the
+work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For
+permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+
+Vejlstrup et al
+
+Dovepress
+
+factor-β,5 and induce structural changes in proteins that gen-
+erate autoantigenic neoepitopes, as observed in rheumatoid
+arthritis (RA) and type I diabetes.6,7 The human PAD enzyme
+family has ﬁve members (PADs 1–4 and 6), of which PAD2
+and PAD4 are expressed by cells of hematopoietic origin, eg,
+monocytes, lymphocytes and granulocytes.8 Neutrophils are
+considered a major source of PAD2 and PAD4,9–11 and PAD
+released from neutrophils is capable of citrullinating extracel-
+lular proteins.10,12 Prerequisites for PAD activation are a high
+calcium concentration, which is found in the extracellular
+space,13 and a redox potential that maintains the catalytic site
+in a reduced state.10,14 PAD and citrullinated proteins are
+abundant in the lungs of smokers and are suspected to be the
+initial source of citrullinated proteins that cause the anti-
+citrulline immune response involved in RA.15–17 Chronic
+obstructive pulmonary disease18 and periodontitis19 are other
+inﬂammatory conditions associated with
+examples of
+increased local levels of citrullinated proteins. Indeed, protein
+citrullination appears to occur in inﬂammation in general.20
+However, it is not known whether inﬂammation leads to
+release of PAD into the bloodstream, which may potentially
+cause citrullination of proteins in the circulation or at distant
+anatomical sites, thereby generating antigens that ignite auto-
+immune reactions.
+
+is
+
+Coronary artery bypass graft (CABG) surgery with
+cardiopulmonary bypass
+an example of
+(CPB)
+a circumstance where acute systemic inﬂammation occurs,
+partly due to ischemia-reperfusion injury after aortic
+unclamping leading to activation of endothelial cells and
+neutrophils, and partly because neutrophils are activated
+after contact with artiﬁcial surfaces of the cannula and
+tubing connecting the patient to the CPB system.21–24
+
+We investigate here whether smoking is associated
+with increased levels of circulating PAD2 and PAD4, or
+with increased PAD activity. Moreover, we examine
+whether acute inﬂammation such as that
+induced by
+CABG surgery can lead to the release of enzymatically
+active PAD into the systemic circulation.
+
+Material and methods
+Patient selection
+The study included 36 patients with coronary heart disease
+who underwent conventional elective CABG at
+the
+Department of Thoracic Surgery, Copenhagen University
+Hospital Rigshospitalet. Patients below 18 years of age,
+pregnant women, and patients with cancer, autoimmune dis-
+orders or chronic inﬂammatory disorders were excluded.
+
+Patient characteristics are shown in Table 1. The smokers
+included (n=16) had all smoked a minimum of 10 cigarettes
+per day for at least 5 years and had smoked in the 48 hrs
+before surgery. The non-smokers (n=20) had all smoked
+<100 cigarettes ever. The study was approved by the
+Regional Ethics Committee H-3-2014-164 and was per-
+formed in compliance with the Declaration of Helsinki, and
+all patients gave written informed consent.
+
+antihypertensives
+
+Preoperative medication
+All patients had their aspirin and antiplatelet drugs paused
+before the surgery. All patients were receiving treatment
+antihypercholesterolemic
+and
+with
+agents before the surgery. Patients with type 2 diabetes
+were receiving treatment with either insulin or oral anti-
+diabetics. One patient was receiving treatment with the
+anti-inﬂammatory prednisolone (2.5 mg) before surgery.
+
+Anesthesia
+Anesthetic management was standardized. No premedica-
+tion was given. Anesthesia was induced with fentanyl and
+propofol infusion. Propofol, sevoﬂuran and remifentanil
+were titrated thereafter. Cisatracurium was administered
+before tracheal
+intubation. Some patients were given
+bolus CaCl and noradrenaline when coming off the CPB.
+Corticosteroids were not used in any of the patients during
+perioperative management. Cefuroxime (1.5 g) and genta-
+micin (240 mg) were given perioperatively.
+
+Surgical procedure
+All CABG procedures were performed via a median ster-
+notomy, and on-pump with CPB and extracorporeal circu-
+lation (ECC). Patients were fully heparinized to maintain
+an acquired coagulation time above 480 s. This effect was
+reversed with protamine sulfate (1:1) after ﬁnalization of
+ECC. Cardiac arrest was achieved with cold blood cardi-
+oplegia, and ECC was performed under normothermia.
+Standard anesthetic techniques were used, and intra-
+operative monitoring was in accordance with guidelines.
+Standard guidelines for anti-coagulation therapy were
+followed.
+
+Serum sampling
+Blood samples were drawn 2 hrs before surgery and 2 hrs
+after surgery (from the closure of the skin) in 6 mL dry
+tubes (VACUETTE, Greiner Bio-One, Frickenhausen,
+Germany), from which serum was isolated.
+
+138
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+Journal of Inﬂammation Research 2019:12
+
+Dovepress
+
+Table 1 Patient characteristics
+
+Preoperative characteristics
+
+Male/female
+
+Age, years
+BMI, kg/m2
+
+Medical and surgical history
+
+Hypertension
+Hypercholesterolemia
+
+Myocardial infarct
+
+Previous PCI
+T2DM
+
+COPD
+
+LVEF
+
+<40%
+40–55%
+>55%
+SpO2, %
+
+Vejlstrup et al
+
+Non-smokers n=20
+
+Smokers n=16
+
+n
+
+Mean (range)
+Mean±SD
+
+19/1
+67.6 (47–82)
+28.4±3.2
+
+n (%)
+n (%)
+
+n (%)
+
+n (%)
+n (%)
+
+n (%)
+
+n (%)
+
+n (%)
+
+n (%)
+Mean±SD
+
+15 (75)
+15 (75)
+
+7 (35)
+
+5 (25)
+8 (40)
+
+1 (5)
+
+2 (10)
+
+8 (40)
+
+10 (50)
+98.2±1.3
+
+77.8±17.8
+
+46±13.3
+2 (1–2)
+
+13/3
+66.3 (37–80)
+26.6±4.8
+
+11 (52.4)
+11 (52.4)
+
+5 (23.8)
+
+3 (14.3)
+5 (23.8)
+
+3 (14.3)
+
+1 (6.25)
+
+11 (68.8)
+
+4 (25.0)
+98.3±1.3
+
+818±25.8
+
+46.9±15.3
+2 (1–3)
+
+Perioperative characteristics
+
+CPB time, min
+
+Aortic cross-clamp time, min
+No. of grafts
+
+Mean±SD
+
+Mean±SD
+Median (range)
+
+Abbreviations: BMI, body mass index; PCI, percutaneous coronary intervention; LVEF, left ventricular ejection fraction; SpO2, peripheral capillary oxygen saturation; CPB,
+cardiopulmonary bypass.
+
+Measurements of serum cytokines,
+markers of neutrophil activation and PAD
+Serum IL-6, IL-10 and CXCL-8 were measured using the
+Cytometric Bead Array Human Inﬂammatory Cytokine Kit
+II (Cat. no. 551811) from BD Biosciences (Franklin Lakes,
+NJ, USA) after dilution of 5 µL serum in 20 µL PBS
+according to the manufacturer’s instructions. A FACS
+Canto II ﬂow cytometer (BD Biosciences) was used for
+data acquisition, and the FCAPArray Software (SoftFlow,
+Burnsville, MN, USA) was used for analysis. Neutrophil
+activation markers were measured in serum diluted 1:50 in
+sample diluent following the manufacturer’s instructions
+using the Luminex Bio-Plex® 200 system (Bio-Rad
+Laboratories, Hercules, CA, USA) by means of the one-
+plex myeloperodidase (MPO) assay (R&D, Abingdon,
+UK), and the two-plex MMP-9 and lipocalin-2/NGAL
+(R&D) assay. PAD2 was measured using an in-house PAD2-
+speciﬁc assay on a Luminex platform.25 In brief, the murine
+monoclonal anti-PAD2 antibody DN2 was coupled to beads,
+and patient serum diluted 1:3 in sample buffer was added.
+After washing, biotinylated anti-PAD2 antibody DN625 and
+
+PE-labelled streptavidin were used for detection. CV% of
+spiked controls were <15%. PAD4 was measured in undi-
+luted serum using a commercially available ELISA kit
+according to the manufacturer’s instructions (SEF709Hu
+[N-terminal version], Cloud-Clone, TX, USA). Ability to
+detect PAD4 speciﬁcally was conﬁrmed by spiking of
+rhPAD2 or rhPAD4 into serum, but low recovery (<10%)
+was observed.
+
+for
+
+assay
+
+citrullination
+
+Determination of PAD activity
+PAD activity in serum was determined using a previously
+of matrix-bound
+described
+ﬁbrinogen.13 In brief, Nunc ELISA plates (Roskilde,
+Denmark) were coated with ﬁbrinogen (1.0 μg/mL). After
+three washes, wells were blocked with Tris-buffered saline
+containing 0.05% Tween 20 for 20 mins at room temperature.
+Serum was added (50 μL/well) and incubated for 4 hrs at RT,
+with or without 1 mM DTT and/or 25 mM EDTA. After three
+washes in PBS containing 0.05% Tween 20, the wells were
+incubated for 90 mins with 100 μL of murine anti-
+citrullinated ﬁbrinogen antibody (clone 20B2, Modiquest,
+
+Journal of Inﬂammation Research 2019:12
+
+submit your manuscript | www.dovepress.com
+
+DovePress
+
+139
+
+Vejlstrup et al
+
+Dovepress
+
+immunoglobulin
+
+Oss, Netherlands) 0.5 μg/mL in PBS containing 0.05%
+Tween. After three further washes, the wells were incubated
+with 100 μL of HRP-conjugated polyclonal rabbit anti-
+mouse
+(Dako, Glostrup,
+Denmark) diluted 1:1,000 in PBS, 0.05% Tween. Finally,
+the plates were washed three times and developed with
+3,3ʹ,5,5ʹ-tetramethylbenzidine. The reaction was stopped
+after 15 mins with H2SO4 at a ﬁnal concentration of 0.5 M.
+
+antibodies
+
+Statistical analyses
+The Mann–Whitney test was used to compare differences
+between groups using GraphPad Prism 7.02 (GraphPad
+Software, La Jolla, CA, USA). The Wilcoxon matched-
+pairs signed-rank test was used to determine differences
+before and after surgery. Spearman’s correlation (Rs)
+
+coefﬁcients and levels of signiﬁcance were determined
+using GraphPad Prism. Two-tailed probability values
+<0.05 were considered signiﬁcant.
+
+Results
+Determination of circulating PAD2 and
+PAD4 levels
+We observed no signiﬁcant difference in PAD2 or PAD4 levels
+between smokers and non-smokers before or after surgery
+(Figure 1A, B, D, and E). The circulating PAD2 levels of
+nearly all participants increased during surgery; the median
+level before surgery was 0.3 ng/mL (10–90 percentile range:
+0.1–1 ng/mL) compared to 1.15 ng/mL (0.3–5.12 ng/mL) after
+surgery (p<0.0001) (Figure 1C). We found no signiﬁcant
+
+After surgery
+
+ns
+
+C
+
+100
+
+Before surgery
+
+ns
+
+S m oker
+
+N on-s m oker
+
+Before surgery
+
+ns
+
+A
+
+)
+l
+
+m
+/
+g
+n
+(
+2
+D
+A
+P
+
+D
+
+)
+l
+
+/
+
+m
+g
+n
+(
+4
+D
+A
+P
+
+10
+
+1
+
+0.1
+
+0.01
+
+10
+
+1
+
+0.1
+
+B
+
+)
+l
+
+m
+/
+g
+n
+(
+2
+D
+A
+P
+
+E
+
+)
+l
+
+/
+
+m
+g
+n
+(
+4
+D
+A
+P
+
+100
+
+10
+
+1
+
+0.1
+
+0.01
+
+10
+
+1
+
+0.1
+
+S m oker
+
+N on-s m oker
+
+After surgery
+
+ns
+
+)
+l
+
+m
+/
+g
+n
+(
+2
+D
+A
+P
+
+10
+
+1
+
+0.1
+
+F
+
+)
+l
+
+/
+
+m
+g
+n
+(
+4
+D
+A
+P
+
+10
+
+1
+
+0.1
+
+B efore
+
+After
+
+ns
+
+S m oker
+
+N on-s m oker
+
+S m oker
+
+N on-s m oker
+
+B efore surgery
+
+After surgery
+
+Figure 1 Circulating PAD2 and PAD4 levels before and after CABG surgery. Circulating levels of PAD2 and PAD4 were assessed in 16 smokers and 20 non-smokers before
+and after CABG surgery. (A) Serum PAD2 concentration before surgery. (B) Serum PAD2 concentration after surgery. (C) Serum PAD2 concentration of all patients before
+and after CABG. (D) Serum PAD4 concentration before surgery. (E) Serum PAD4 concentration after surgery. (F) Serum PAD4 concentration of all patients before and
+after CABG. Levels below the lower limit of detection of the two tests (100 pg/mL) were set to 100 pg/mL. ****p<0.0001.
+Abbreviations: ns, not signiﬁcant; PAD, peptidylarginine deiminase; CABG, coronary artery bypass grafting.
+
+140
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+Journal of Inﬂammation Research 2019:12
+
+ 
+ 
+ 
+ 
+ 
+ 
+Dovepress
+
+Vejlstrup et al
+
+difference between PAD4 levels in the blood before and after
+surgery (Figure 1F).
+
+Catalytic activity of circulating PAD
+We next tested whether the circulating PAD was enzy-
+matically active and observed higher PAD activity in
+serum from non-smokers than in serum from smokers
+before surgery (Figure 2A), which we did not expect.
+This difference was also present after surgery (Figure
+2B). Since smoking has been reported to cause oxida-
+tion of GSH and cysteine in the blood,26 we examined
+
+After surgery
+
+S m oker
+
+N on-s m oker
+
+Before surgery
+
+A
+
+)
+
+D
+O
+
+(
+
+y
+t
+i
+v
+i
+t
+c
+a
+D
+A
+P
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+-0.2
+
+S m oker
+
+N on-s m oker
+
+Before surgery + DTT
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+-0.2
+
+C
+
+)
+
+D
+O
+
+(
+
+y
+t
+i
+v
+i
+t
+c
+a
+D
+A
+P
+
+B
+
+)
+
+D
+O
+
+(
+
+y
+t
+i
+v
+i
+t
+c
+a
+D
+A
+P
+
+D
+
+)
+
+D
+O
+
+(
+
+y
+t
+i
+v
+i
+t
+c
+a
+D
+A
+P
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+-0.2
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+-0.2
+
+S m oker
+
+N on-s m oker
+
+B efore surgery
+
+After surgery
+
+whether PAD activity could be restored by addition of
+DTT, an exogenous
+reducing agent. PAD activity
+increased in both groups after addition of DTT, but the
+activity remained lower in smokers than in non-smokers
+(Figure 2C). As illustrated in Figure 2D, CABG surgery
+caused a marked increase in catalytic activity of circu-
+lating PAD in nearly all patients tested, both for smo-
+kers and non-smokers (p<0.001).
+
+Effect of CABG surgery on inﬂammatory
+mediators and neutrophil degranulation
+To determine whether the increase in PAD2 levels and PAD
+activity observed during CABG surgery reﬂected the state
+of inﬂammation, we quantiﬁed circulating levels of the pro-
+inﬂammatory cytokine IL-6, the anti-inﬂammatory cyto-
+kine IL-10, and the chemokine CXCL-8 (Figure 3A–C).
+The levels of all three molecules increased after surgery
+(Figure 3A–C). To address the degree of neutrophil activa-
+tion, we quantiﬁed MPO, MMP-9 and lipocalin-2, as mar-
+kers of degranulation of the primary, secondary and tertiary
+granules, respectively. The levels of all three markers were
+elevated after surgery (Figure 3D–F).
+
+Before surgery, the levels of PAD2 did not correlate
+with any of the biomarkers, whereas a signiﬁcant corre-
+lation was found between circulating PAD2 and MPO
+levels after surgery (p=0.03; Table 2). After surgery, we
+observed a trend toward correlation between PAD2 and
+the two other markers of neutrophil activation, whereas
+no association was observed with IL-6, IL-10 or CXCL-
+8. When the basal levels of all six biomarkers before
+surgery were subtracted from those observed after sur-
+gery (shown as “ΔSurgery” in Table 2), the change in
+circulating PAD2 levels correlated with the changes in
+both MPO and lipocalin-2 levels, but not with the
+change in IL-6,
+IL-10 or CXCL-8. No associations
+were observed between PAD4 and the six biomarkers
+before or after surgery (data not shown).
+
+Figure 2 PAD activity in serum after CABG surgery. ELISA microtiter plates coated
+with human ﬁbrinogen were incubated for 4 hrs with sera from 36 patients who had
+undergone CABG surgery, either with 1 mM DTT (+DTT) or without additives (no
+DTT). As negative control, each serum was tested in the presence of 25 mM EDTA. (A)
+PAD activity in serum among smokers and non-smokers before surgery. (B) PAD activity
+in serum of smokers and non-smokers after surgery. (C) PAD activity at baseline in serum
+containing 1 mM DTT. (D) PAD activity of all untreated serum samples before and after
+surgery. Citrullination was measured using anti-citrullinated ﬁbrinogen mAb (20B2)
+recognizing a citrullinated epitope in ﬁbrinogen. Data are expressed as average OD of
+duplicate measurements after subtraction of the negative controls, and median and
+interquartile ranges of the dataset are shown. ***p<0.001, ****p<0.0001.
+Abbreviations: PAD, peptidylarginine deiminase; CABG, coronary artery bypass
+grafting; DTT, dithiothreitol.
+
+Discussion
+Citrullination alters the function and antigenicity of
+many proteins2,4,27 and is thought
+to play a critical
+role in the pathogenesis of certain autoimmune diseases,
+especially RA.7 Citrullination in this respect is thought
+to occur at the very sites of PAD release, eg, in the
+lungs, periodontal tissue or gut.15,19,28 In this study, we
+put forward the hypothesis that PAD is released into the
+circulation following smoking or acute inﬂammation.
+
+Journal of Inﬂammation Research 2019:12
+
+submit your manuscript | www.dovepress.com
+
+DovePress
+
+141
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vejlstrup et al
+
+Dovepress
+
+IL-6
+
+B efore
+
+After
+
+MPO
+
+A
+
+)
+L
+m
+/
+g
+p
+(
+
+l
+
+e
+v
+e
+
+l
+
+m
+u
+r
+e
+S
+
+D
+
+)
+L
+m
+/
+g
+p
+(
+
+l
+
+e
+v
+e
+
+l
+
+m
+u
+r
+e
+S
+
+1400
+1200
+1000
+800
+
+800
+
+400
+
+200
+
+0
+
+1500
+1000
+500
+400
+
+300
+
+200
+
+100
+
+0
+
+CXCL-8
+
+B efore
+
+After
+
+MMP-9
+
+IL-10
+
+B efore
+
+After
+
+Lipocalin-2
+
+B
+
+)
+L
+m
+/
+g
+p
+(
+
+l
+
+e
+v
+e
+
+l
+
+m
+u
+r
+e
+S
+
+E
+
+)
+L
+m
+/
+g
+p
+(
+
+l
+
+e
+v
+e
+
+l
+
+m
+u
+r
+e
+S
+
+100
+80
+60
+
+40
+
+20
+
+0
+
+800
+600
+400
+200
+
+150
+
+100
+
+50
+
+0
+
+C
+
+)
+L
+m
+/
+g
+p
+(
+
+l
+
+e
+v
+e
+
+l
+
+m
+u
+r
+e
+S
+
+F
+
+)
+L
+m
+/
+g
+p
+(
+
+l
+
+e
+v
+e
+
+l
+
+m
+u
+r
+e
+S
+
+1200
+800
+400
+
+200
+
+0
+
+4000
+
+3000
+
+2000
+
+1000
+
+0
+
+B efore
+
+After
+
+B efore
+
+After
+
+B efore
+
+After
+
+Figure 3 Circulating levels of cytokines and markers of neutrophil degranulation before and after CABG. Serum levels of (A) IL-6, (B) IL-10, (C) CXCL-8, (D) MPO, (E)
+lipocalin-2, and (F) MMP-9 before and after surgery. ****p<0.0001.
+Abbreviations: CABG, coronary artery bypass grafting; MPO, myeloperoxidase; MMP, matrix metallopeptidase.
+
+Table 2 Association between PAD2 levels and inﬂammatory markers in serum
+
+IL-6
+
+IL-10
+
+CXCL-8
+
+MPO
+
+MMP-9
+
+Lipocalin-2
+
+Before
+After
+ΔSurgery*
+
+rs=−0.12 p=0.49
+rs=0.09 p=0.56
+rs=0.15 p=0.39
+
+rs=−0.04 p=0.84
+rs=−0.014 p=0.93
+rs=0.10 p=0.54
+
+rs=−0.08 p=0.64
+rs=0.19 p=0.25
+rs=0.12 p=0.50
+
+rs=0.024 p=0.88
+rs=0.36, p=0.03
+rs=0.35 p=0.039
+
+rs=−0.01 p=0.97
+rs=0.32 p=0.056
+rs=0.32 p=0.055
+
+rs=0.014 p=0.93
+rs=0.33 p=0.052
+rs=0.51 p=0.001
+
+Note: *ΔSurgery describes the increase from pre- to post-surgery blood levels. Statistically signiﬁcant p-values are marked in bold.
+Abbreviations: CABG, coronary artery bypass grafting; MPO, myeloperoxidase; MMP, matrix metallopeptidase.
+
+PAD2 was present in detectable concentrations in the
+blood from most patients before surgery, and was found to
+be markedly increased after surgery. This was not the case
+for PAD4 levels. We have previously found detectable
+blood levels of PAD2 in less than a third of normal
+blood donors,25 but to our knowledge, no other studies
+have examined circulating PAD2 in relation to disease or
+inﬂammation. Although smokers tended to have slightly
+
+higher blood levels of PAD2 than non-smokers, there was
+a great overlap between our groups. Increased amounts of
+PAD2 along with increased numbers of macrophages have
+previously been shown in the lungs of smokers.16,17 Our
+data indicate that this PAD2 enters the bloodstream to only
+a limited extent. This may be because it does not cross the
+alveolar epithelium or is rapidly degraded locally. It is also
+alveolar macrophages had not been
+possible
+
+that
+
+142
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+Journal of Inﬂammation Research 2019:12
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dovepress
+
+Vejlstrup et al
+
+sufﬁciently stimulated for PAD release before blood sam-
+pling in this study.
+
+Importantly, the PAD contained in the serum samples
+was enzymatically active in many cases. Thus, PAD
+inﬂammation
+released into the circulation during local
+may citrullinate extracellular proteins, which potentially
+modify their functional properties or render proteins anti-
+genic. Surprisingly, we found that the PAD contained in
+the blood of smokers was less active than that of non-
+smokers. The PAD activity of serum from smokers could
+be restored by addition of the reducing agent DTT, which
+suggests that PAD is inactivated by oxidation in the blood
+of smokers, presumably by reactive oxygen species
+released as a consequence of smoking.26 It is possible
+that circulating inactive PAD can be reactivated at anato-
+mical sites with a reducing environment. Thus, PAD activ-
+ity can be restored in synovial ﬂuid from RA patients after
+addition of a reducing agent,10 but to our knowledge, this
+is the ﬁrst time that catalytic activity has been observed in
+serum without addition of reducing agents.
+
+The fact that only PAD2 levels increased during surgery
+in this study suggests that PAD2 is predominantly responsi-
+ble for the observed PAD activity in the blood. Neutrophils
+are a predominant source of PAD2 and PAD4,9,10,12 and our
+ﬁnding that the increase in PAD2 levels during surgery
+correlated with the increase in neutrophil activation markers –
+but not with changes in proinﬂammatory cytokines – is in
+keeping with this. This agrees with previous ﬁndings that
+extracellular activity of PAD released from neutrophils
+in vitro is primarily mediated by PAD2.29 PAD2 is rapidly
+released from neutrophils on stimulation,12 and with blood
+sampling 2 hrs after surgery, it is likely that the PAD2
+released during the surgical procedure was pre-formed rather
+than synthesized de novo. The measurements of PAD4 in this
+study should be interpreted with caution, however, since low
+recovery was observed in the PAD4 ELISA after spiking of
+PAD4 into serum.
+
+CABG surgery is based on the use of the CPB, which is
+known to induce ischemia, neutrophil activation, and
+a systemic inﬂammatory response which exceeds that
+observed after other major surgical procedures.21,23 We cannot
+rule out that the neutrophil activation observed in this study and
+any consequent PAD release were caused by sheer mechanical
+stress or hypoxia. However, extracellular PAD activity is
+observed as a consequence of inﬂammatory stimuli,30 so we
+propose that PAD2 release and an increase in circulating PAD
+activity are features of acute inﬂammation in a broader sense.
+This remains to be tested in other inﬂammatory conditions.
+
+Conclusion
+PAD2 is released into circulation during CABG surgery
+with CPB, and the PAD released is enzymatically active.
+The increase in PAD2 levels correlated with an increase in
+neutrophil activation markers, indicating that neutrophils
+were the predominant source of PAD2. Smoking had no
+statistically signiﬁcant
+inﬂuence on circulating PAD2
+levels, and the catalytic activity of circulating PAD was
+unexpectedly decreased among smokers. The implications
+of this remain to be investigated.
+
+Acknowledgments
+The study was supported by the Research Foundation at
+Rigshospitalet, the Brødrene Hartmanns Foundation, and
+the Danish Council for Independent Research. The authors
+wish to thank Alistair Reeves for editing the manuscript.
+DD and CHN share the senior authorship.
+
+Disclosure
+The authors report no conﬂicts of interest with this work.
+
+References
+
+1. Proost P, Loos T, Mortier A, et al. Citrullination of CXCL8 by
+peptidylarginine deiminase alters receptor usage, prevents proteoly-
+inﬂammation.
+sis,
+Exp Med.
+2008;205:2085–2097. doi:10.1084/jem.20080305
+
+dampens
+
+tissue
+
+and
+
+J
+
+2. Moelants EA, Mortier A, Grauwen K, Ronsse I, Van DJ, Proost P.
+Citrullination of TNF-alpha by peptidylarginine deiminases reduces
+its capacity to stimulate the production of inﬂammatory chemokines.
+Cytokine. 2013;61:161–167. doi:10.1016/j.cyto.2012.09.011
+
+3. Nakayama-Hamada M, Suzuki A, Furukawa H, Yamada R,
+Yamamoto K. Citrullinated ﬁbrinogen inhibits thrombin-catalysed
+ﬁbrin polymerization. J Biochem. 2008;144:393–398. doi:10.1093/
+jb/mvn079
+
+4. Nemmara VV, Tilvawala R, Salinger AJ, et al. Citrullination inacti-
+Biol.
+
+vates
+nicotinamide-N-methyltransferase.
+2018;13:2663–2672. doi:10.1021/acschembio.8b00578
+
+Chem
+
+ACS
+
+5. Sipila KH, Ranga V, Rappu P, et al. Extracellular citrullination
+inhibits the function of matrix associated TGF-beta. Matrix Biol.
+2016. doi:10.1016/j.matbio.2016.02.008
+
+6. Rondas D, Crevecoeur
+
+al. Citrullinated
+glucose-regulated protein 78 is an autoantigen in type 1 diabetes.
+Diabetes. 2015;64:573–586. doi:10.2337/db14-0621
+
+I, D’Hertog W,
+
+et
+
+7. Schellekens GA, de Jong BA, van den Hoogen FH, van de Putte LB, van
+Venrooij WJ. Citrulline is an essential constituent of antigenic determi-
+nants recognized by rheumatoid arthritis-speciﬁc autoantibodies. J Clin
+Invest. 1998;101:273–281. doi:10.1172/JCI1316
+
+8. Vossenaar ER, Zendman AJ, van Venrooij WJ, Pruijn GJ. PAD, a growing
+family of citrullinating enzymes: genes, features and involvement in
+disease. Bioessays. 2003;25:1106–1118. doi:10.1002/bies.10357
+
+9. Asaga H, Nakashima K, Senshu T,
+
+Ishigami A, Yamada M.
+Immunocytochemical localization of peptidylarginine deiminase in
+human eosinophils and neutrophils. J Leukoc Biol. 2001;70:46–51.
+10. Damgaard D, Bjorn ME, Steffensen MA, Pruijn GJ, Nielsen CH.
+Reduced glutathione as a physiological co-activator in the activation
+of peptidylarginine deiminase. Arthritis Res Ther. 2016;18:102.
+doi:10.1186/s13075-016-1000-7
+
+Journal of Inﬂammation Research 2019:12
+
+submit your manuscript | www.dovepress.com
+
+DovePress
+
+143
+
+Vejlstrup et al
+
+Dovepress
+
+11. Zhou Y, Di PT, Sims GP, Mittereder N, Mustelin T. Characterization of the
+hypercitrullination reaction in human neutrophils and other leukocytes.
+Mediators Inﬂamm. 2015;2015:236451. doi:10.1155/2015/125380
+12. Spengler J, Lugonja B, Jimmy YA, et al. Release of active peptidyl
+arginine deiminases by neutrophils can explain production of extracel-
+lular citrullinated autoantigens in rheumatoid arthritis synovial ﬂuid.
+Arthritis Rheumatol. 2015;67:3135–3145. doi:10.1002/art.39313
+13. Damgaard D, Senolt L, Nielsen M, Pruijn G, Nielsen CH.
+Demonstration of extracellular peptidylarginine deiminase (PAD)
+activity in synovial ﬂuid of patients with rheumatoid arthritis using
+a novel assay for citrullination of ﬁbrinogen. Arthritis Res Ther.
+2014;16:498. doi:10.1186/s13075-014-0498-9
+
+14. Damgaard D, Bjorn ME, Jensen PO, Nielsen CH. Reactive oxygen
+species inhibit catalytic activity of peptidylarginine deiminase.
+J Enzyme Inhib Med Chem. 2017;32:1203–1208. doi:10.1080/
+14756366.2017.1368505
+
+15. Klareskog L, Padyukov L, Alfredsson L. Smoking as a trigger for
+Rheumatol.
+
+inﬂammatory
+diseases. Curr Opin
+2007;19:49–54. doi:10.1097/BOR.0b013e32801127c8
+
+rheumatic
+
+16. Makrygiannakis D, Hermansson M, Ulfgren AK, et al. Smoking
+increases peptidylarginine deiminase 2 enzyme expression in human
+lungs and increases citrullination in BAL cells. Ann Rheum Dis.
+2008;67:1488–1492. doi:10.1136/ard.2007.075192
+
+17. Damgaard D, Friberg Bruun NM, Quisgaard GM, Palarasah Y,
+Svane-Knudsen V, Nielsen CH. Smoking is associated with increased
+levels of extracellular peptidylarginine deiminase 2 (PAD2) in the
+lungs. Clin Exp Rheumatol. 2015;33:405–408.
+
+18. Lugli EB, Correia RE, Fischer R, et al. Expression of citrulline and
+homocitrulline residues in the lungs of non-smokers and smokers:
+implications for autoimmunity in rheumatoid arthritis. Arthritis Res
+Ther. 2015;17:9. doi:10.1186/s13075-015-0520-x
+
+21. Jongman RM, Zijlstra JG, Kok WF, et al. Off-pump CABG surgery
+reduces systemic inﬂammation compared with on-pump surgery but
+does not change systemic endothelial responses: a prospective rando-
+mized study. Shock. 2014;42:121–128. doi:10.1097/SHK.000000
+0000000190
+
+22. Andresen TK, Svennevig JL, Videm V. Soluble VCAM-1 is a very
+early marker of endothelial cell activation in cardiopulmonary bypass.
+Perfusion. 2002;17:15–21. doi:10.1191/0267659102pf531oa
+
+23. Toft P, Nielsen CH, Tonnesen E, Hansen TG, Hokland M. Changes in
+adhesion molecule expression and oxidative burst activity of granu-
+locytes and monocytes during open-heart surgery with cardiopulmon-
+ary bypass compared with abdominal surgery. Eur J Anaesthesiol.
+1998;15:345–353.
+
+24. Denizot Y, Leguyader A, Cornu E, et al. Release of soluble vascular
+endothelial growth factor receptor-1 (sFlt-1) during coronary artery
+bypass surgery. J Cardiothorac Surg. 2007;2:38. doi:10.1186/1749-
+8090-2-38
+
+25. Damgaard D, Palarasah Y, Skjodt K, et al. Generation of monoclo-
+nal antibodies against peptidylarginine deiminase 2 (PAD2) and
+development of a PAD2-speciﬁc enzyme-linked immunosorbent
+assay.
+doi:10.1016/j.
+J
+jim.2013.12.008
+
+2014;405:15–22.
+
+Immunol Methods.
+
+26. Moriarty SE, Shah JH, Lynn M, et al. Oxidation of glutathione and
+cysteine in human plasma associated with smoking. Free Radic Biol
+Med. 2003;35:1582–1588.
+
+27. Mortier A, Van DJ, Proost P. Regulation of chemokine activity by
+posttranslational modiﬁcation. Pharmacol Ther. 2008;120:197–217.
+doi:10.1016/j.pharmthera.2008.08.006
+
+28. Bennike TB, Ellingsen T, Glerup H, et al. Proteome analysis of
+rheumatoid arthritis gut mucosa. J Proteome Res. 2017;16:346–354.
+doi:10.1021/acs.jproteome.6b00598
+
+of
+
+19. Engstrom M, Eriksson K, Lee L, et al. Increased citrullination and
+of
+expression
+P. gingivalis and A. actinomycetemcomitans in gingival
+tissue of
+patients with periodontitis. J Transl Med. 2018;16:214. doi:10.1186/
+s12967-018-1588-2
+
+peptidylarginine
+
+independently
+
+deiminases
+
+20. Makrygiannakis D, af Klin E, Lundberg IE, et al. Citrullination is an
+inﬂammation-dependent process. Ann Rheum Dis. 2006;65:1219–
+1222. doi:10.1136/ard.2005.049403
+
+Journal of Inﬂammation Research
+
+Publish your work in this journal
+
+The Journal of Inﬂammation Research is an international, peer-
+reviewed open-access journal that welcomes laboratory and clinical
+ﬁndings on the molecular basis, cell biology and pharmacology of
+inﬂammation including original
+symposium
+reports, hypothesis formation and commentaries on: acute/chronic
+inﬂammation; mediators of inﬂammation; cellular processes; molecular
+
+research,
+
+reviews,
+
+29. Zhou Y, Chen B, Mittereder N, et al. Spontaneous secretion of
+the citrullination enzyme PAD2 and cell surface exposure of
+PAD4
+2017;8:1200.
+Front
+doi:10.3389/ﬁmmu.2017.01200
+
+neutrophils.
+
+Immunol.
+
+by
+
+30. Blachere NE, Parveen S, Fak J, Frank MO, Orange DE.
+Inﬂammatory but not apoptotic death of granulocytes citrullinates
+ﬁbrinogen. Arthritis Res Ther. 2015;17:369. doi:10.1186/s13075-
+015-0890-0
+
+Dovepress
+
+mechanisms; pharmacology and novel anti-inﬂammatory drugs; clin-
+ical conditions involving inﬂammation. The manuscript management
+system is completely online and includes a very quick and fair peer-
+review system. Visit http://www.dovepress.com/testimonials.php to
+read real quotes from published authors.
+
+Submit your manuscript here: https://www.dovepress.com/journal-of-inﬂammation-research-journal
+
+144
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+Journal of Inﬂammation Research 2019:12
+
+

@@ -1,0 +1,1956 @@
+Journal of Inflammation Research
+
+ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/djir20
+
+Encephalitozoon cuniculi Genotype II Concentrates
+in Inflammation Foci
+
+Klára Brdíčková, Bohumil Sak, Nikola Holubová, Dana Květoňová, Lenka
+Hlásková, Marta Kicia, Żaneta Kopacz & Martin Kváč
+
+To cite this article: Klára Brdíčková, Bohumil Sak, Nikola Holubová, Dana Květoňová, Lenka
+Hlásková, Marta Kicia, Żaneta Kopacz & Martin Kváč (2020) Encephalitozoon cuniculi Genotype II
+Concentrates in Inflammation Foci, Journal of Inflammation Research, , 583-593, DOI: 10.2147/
+JIR.S271628
+
+To link to this article:  https://doi.org/10.2147/JIR.S271628
+
+© 2020 Brdíčková et al.
+
+Published online: 25 Sep 2020.
+
+Submit your article to this journal 
+
+Article views: 117
+
+View related articles 
+
+View Crossmark data
+
+Citing articles: 3 View citing articles 
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=djir20
+
+Journal of Inflammation Research                                                         
+
+Dovepress
+open access to scientific and medical research
+
+Open Access Full Text Article
+
+O R I G I N A L  R E S E A R C H
+
+Encephalitozoon cuniculi Genotype II Concentrates 
+in Inflammation Foci
+
+This article was published in the following Dove Press journal: 
+Journal of Inflammation Research
+
+3,4 
+
+Klára Brdíčková1,2 
+Bohumil Sak3 
+Nikola Holubová
+Dana Květoňová3 
+Lenka Hlásková3 
+Marta Kicia5 
+Żaneta Kopacz5 
+Martin Kváč3,4
+
+1Department of Clinical Microbiology, 
+Bulovka Hospital, Prague, Czech 
+Republic; 2Faculty of Science, University 
+of South Bohemia in České Budějovice, 
+České Budějovice, Czech Republic; 
+3Institute of Parasitology, Biology Centre, 
+Czech Academy of Science, České 
+Budějovice, Czech Republic; 4Faculty of 
+Agriculture, University of South Bohemia 
+in České Budějovice, České Budějovice, 
+Czech Republic; 5Department of Biology 
+and Medical Parasitology, Wroclaw 
+Medical University, Wroclaw, Poland 
+
+Background:  Microsporidia  of  the  genus  Encephalitozoon  are  generally  connected  with 
+severe infections with lethal outcome in immunodeficient hosts. In immunocompetent hosts, 
+microsporidiosis  typically  establishes  a  balanced  host–parasite  relationship  that  produces 
+minimal  clinically  overt  disease.  Although  the  alimentary  tract  represents  one  of  the  main 
+primary target tissues, the mechanisms of reaching other tissues during systemic microspor-
+idian infections remain unclear.
+Methods:  In  the  present  study,  we  tested  the  relation  between  inflammation  induction  in 
+immunocompetent  and  immunodeficient  mice  and  the  presence  of  spores  of  E.  cuniculi 
+genotype  II  in  selected  organs  and  in  fecal  specimens  by  using  molecular  and  histology 
+methods.
+Results:  We  reported  the  positive  connection  between  inflammation  induction  and  the 
+significant  increase  of  E.  cuniculi  genotype  II  occurrence  in  inflammation  foci  in  both 
+immunodeficient 
+immunocompetent  BALB/c  and 
+(SCID)  mice  in  the  acute  phase  of  infection  and  the  re-activation  of  latent  microsporidial 
+infection following inflammation induction in immunocompetent mice.
+Conclusion:  The  results  imply  possible  involvement  of  immune  cells  serving  as  vehicles 
+transporting  E.  cuniculi  genotype  II  purposefully  across  the  whole  host  body  towards 
+inflammation. With increasing number of records of infections, it is necessary to reconsider 
+microsporidia  as  agents  responsible  for  various  pathologies.  The  elucidation  of  possible 
+connection  with  pro-inflammatory  immune  responses  represents  an  important  challenge 
+with consequences for human health and development of therapeutic strategies.
+Keywords: Encephalitozoon cuniculi, inflammation, targeted migration
+
+immunodeficient  severe  combined 
+
+Introduction
+Microsporidia are obligatory intracellular eukaryotic parasites belonging to the phy-
+lum  Microsporidia  within  the  kingdom  Opisthokonta  infecting  a  broad  range  of 
+animals  including  protists,  invertebrates,  and  vertebrates.  They  have  been  studied 
+for  more  than  150  years  mainly  for  their  ability  to  cause  extensive  damage  to  the 
+host  organism,  mainly  in  husbandly  important  farmed  animals  such  as  silkworms, 
+bees, and fish.1,2  In mammals, infections typically establish a balanced host–parasite 
+relationship  that produce minimal  clinically overt disease  in  immunocompetent nat-
+ural  hosts.3–8  A  shift  in  the  balance  toward  immune  deficiency  or  hyperimmune 
+responses,  however,  produces  overt  clinical  signs  of  disease.  In  the  past,  human 
+microsporidial  infections  were  most  commonly  associated  with  immunodeficiency, 
+so they were often diagnosed in AIDS patients, organ recipients, and children.3 Of the 
+~1500  described  microsporidia  species,  17  species  are  known  to  infect  humans,  of 
+
+Correspondence: Bohumil Sak  
+Institute of Parasitology, Branišovská 31, 
+České Budějovice 37005, Czech Republic  
+Tel +420387775421  
+Fax +420385310388  
+Email casio@paru.cas.cz
+
+submit your manuscript | www.dovepress.com
+
+DovePress
+
+http://doi.org/10.2147/JIR.S271628 
+
+Journal of Inflammation Research 2020:13 583–593                                                          
+
+583
+© 2020 Brdíč ková et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/ 
+terms.php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing 
+the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. 
+For permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+
+Brdíčková et al                                                                                                                                                       
+
+Dovepress
+
+(I=“rabbit”, 
+
+genotypes/strains 
+
+which  Encephalitozoon  spp.  and  Enterocytozoon  bieneusi 
+are reported from most of the symptomatic patients.8,9  The 
+first microsporidian successfully isolated for long-term cul-
+ture,  Encephalitozoon  cuniculi,  belongs  to  the  best-studied 
+microsporidian species with four different, not strictly host- 
+II=“mouse”, 
+specific 
+III=“dog”, IV=“human”) determined according to the num-
+ber  of  short  repeats  in  the  ribosomal  internal  transcribed 
+spacer (ITS) region.10,11 Encephalitozoon species infect sev-
+eral cell types in mammalian hosts, including epithelial and 
+endothelial cells, fibroblasts, macrophages, and astrocytes.12 
+In  addition  to  gastrointestinal  tract  involvement,  patients 
+with  encephalitis,  ocular  infection,  sinusitis,  myositis,  and 
+disseminated infection are described in the literature.13–17
+
+With the establishment of modern diagnostic methods, 
+microsporidia  have  been  detected  in  immunocompetent 
+individuals,  such  as  travelers,  diabetics,  pregnant  women, 
+and  the  elderly.9,–18–24  Immune  suppression  caused  by 
+chemotherapy,  immunomodulating  drugs,  and  solid  organ 
+or bone marrow transplantation, has been demonstrated to 
+be  an  important  risk  factor  for  the  development  of 
+microsporidiosis.25  Microsporidiosis  is  not  limited,  how-
+ever,  to  immunocompromised  states,  and  infections  with 
+these organisms occur in immunocompetent individuals as 
+well.26,27  Furthermore, asymptomatic microsporidia infec-
+tions have been recognized in the case of diseases with an 
+ambiguous etiology, such as encephalitis or periprosthetic 
+osteolysis.8,28,29 Microsporidia are often overlooked due to 
+the  problematic  diagnosis,  resulting  in  the  increased  pos-
+sibility  of  hidden  infections  causing  huge  damage  and 
+various non-specific pathologies, often without application 
+of effective treatment.30
+
+The present study was designed to answer the question 
+raised  based  on  literary  data29  and  factual  lack  of  active 
+motility of microsporidia, if the microsporidian E. cuniculi 
+could be secondarily  transferred to  the site of  experimen-
+tally induced inflammation in cellular vehicles attracted to 
+the inflammation focus.
+
+Materials and Methods
+Ethics Statement
+All  experimental  procedures  were  performed  in  accor-
+dance with  the  law  of  Czech  Republic  (Act  No 246/1992 
+Coll.,  on  the  protection  of  animals  against  cruelty).  The 
+study  design  was  approved  by  ethical  committees  at  the 
+Biology  Centre  of  the  Czech  Academy  of  Sciences,  the 
+the  Central 
+State  Veterinary  Administration,  and 
+
+Commission  for  Animal  Welfare  under  protocols  no. 
+100/2016 and 35/2020, respectively.
+
+Mice
+Eight-week-old severe combined immunodeficient (SCID) 
+and immunocompetent (BALB/c) mice originally obtained 
+from  Charles  River  (Sulzfeld,  Germany)  were  bred  under 
+sterile  condition  and  supplied  with  a  sterilized  diet  and 
+sterilized water ad libitum.
+
+Parasites
+The  spores  of  E.  cuniculi  genotype  II  originally  isolated 
+from  a  dexamethasone-treated  laboratory  mouse31  were 
+cultivated  in  vitro  for  the  purpose  of  the  experiment 
+according to Kotková et al.32
+
+Experimental Protocol
+All mice were per orally infected with the dose of 107  E. 
+cuniculi  genotype  II  spores  in  0.2  mL  of  deionized  water 
+using intragastric gavage. The inflammation in experimen-
+tal SCID and BALB/c was induced by the usage of 50 μL 
+of  Freund’s  Incomplete  Adjuvant  (Sigma-Aldrich,  St. 
+Louis,  MO,  USA)  inoculated  in  either  acute  (7  or  28 
+days  post-infection  (DPI)  in  BALB/c  mice,  respectively; 
+seven DPI in SCID mice) or chronic phase (56 or 77 DPI 
+in  BALB/c  mice,  respectively)  of  infection32  to  the  hind 
+limb  muscles  (Table  1).  Mice  of  both  strains  injected 
+intramuscularly  with  50  μL  of  sterile  phosphate  buffered 
+solution (PBS) at the same intervals were used as negative 
+controls.  Three  mice  from  each  strain  were  separately 
+examined  for  microsporidia  shedding  in  feces  on  a  daily 
+basis  and  fecal  samples  were  stored  at  −20°C  for  further 
+molecular  analyses.  The  animal’s  health,  mortality,  and 
+morbidity were recorded at 12-hour intervals.
+
+Three  mice  from  each  group  were  euthanized  by  cer-
+vical dislocation every seventh DPI and sterile samples for 
+molecular  detection  and  histology  were  prepared  from 
+limb muscles and liver by the usage of a different pair of 
+sterile dissection tools (Table 1).
+
+DNA Isolation
+Total  DNA  from  samples  was  extracted  as  described  by 
+Sak  et  al33  following  bead  homogenization.  Extracted 
+DNA was stored at −20°C.
+
+PCR Amplification
+Nested PCR protocols34,35 were used for amplification of a 
+partial  sequence  of  16S  rRNA.  Encephalitozoon  cuniculi 
+
+584
+
+submit your manuscript | www.dovepress.com                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2020:13 
+
+DovePress                                                                                                                                                
+
+Dovepress                                                                                                                                                       
+
+Brdíčková et al
+
+8
+9
+
+1
+9
+
+4
+8
+
+7
+7
+
+0
+7
+
+3
+6
+
+6
+5
+
+9
+4
+
+2
+4
+
+5
+3
+
+8
+2
+
+1
+2
+
+4
+1
+
+7
+
+s
+l
+a
+m
+n
+A
+
+i
+
+)
+I
+P
+D
+r
+a
+l
+u
+c
+i
+t
+r
+a
+P
+
+t
+a
+
+e
+c
+i
+M
+d
+e
+t
+c
+e
+s
+s
+i
+D
+
+f
+o
+
+r
+e
+b
+m
+u
+N
+
+(
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+0
+3
+
+1
+2
+
+2
+1
+
+0
+3
+
+1
+2
+
+2
+1
+
+e
+t
+u
+c
+a
+
+c
+/
+B
+L
+A
+B
+
+e
+s
+a
+h
+p
+
+c
+i
+n
+o
+r
+h
+c
+
+c
+/
+B
+L
+A
+B
+
+e
+s
+a
+h
+p
+
+e
+s
+a
+h
+p
+
+e
+t
+u
+c
+a
+D
+C
+S
+
+I
+
+a
+l
+o
+r
+t
+n
+o
+C
+
+c
+i
+n
+o
+r
+h
+c
+
+c
+/
+B
+L
+A
+B
+
+e
+s
+a
+h
+p
+
+e
+s
+a
+h
+p
+
+e
+s
+a
+h
+p
+
+e
+t
+u
+c
+a
+D
+C
+S
+
+I
+
+b
+p
+u
+o
+r
+G
+
+e
+t
+u
+c
+a
+
+c
+/
+B
+L
+A
+B
+
+l
+a
+t
+n
+e
+m
+
+i
+r
+e
+p
+x
+E
+
+l
+
+e
+t
+e
+p
+m
+o
+c
+n
+I
+
+s
+’
+d
+n
+u
+e
+r
+F
+
+f
+
+o
+n
+o
+i
+t
+c
+e
+n
+
+j
+
+i
+
+r
+a
+l
+u
+c
+s
+u
+m
+a
+r
+t
+n
+
+i
+
+d
+n
+a
+O
+2
+H
+d
+
+L
+µ
+0
+0
+2
+
+n
+
+i
+
+I
+I
+
+e
+p
+y
+t
+o
+n
+e
+g
+
+i
+l
+
+i
+
+u
+c
+n
+u
+c
+
+.
+
+E
+
+f
+
+o
+s
+e
+r
+o
+p
+s
+
+7
+0
+1
+
+n
+o
+i
+t
+c
+e
+f
+n
+
+i
+
+l
+a
+r
+o
+r
+e
+P
+b
+
+;
+S
+B
+P
+
+f
+
+o
+n
+o
+i
+t
+c
+e
+n
+
+j
+
+i
+
+r
+a
+l
+u
+c
+s
+u
+m
+a
+r
+t
+n
+
+i
+
+d
+n
+a
+O
+2
+H
+d
+
+L
+µ
+0
+0
+2
+
+n
+
+i
+
+I
+I
+
+e
+p
+y
+t
+o
+n
+e
+g
+
+i
+l
+
+i
+
+u
+c
+n
+u
+c
+
+.
+
+E
+
+f
+
+o
+s
+e
+r
+o
+p
+s
+
+7
+0
+1
+
+n
+o
+i
+t
+c
+e
+f
+n
+
+i
+
+l
+a
+r
+o
+r
+e
+P
+a
+
+:
+s
+e
+t
+o
+N
+
+.
+
+e
+l
+c
+s
+u
+m
+b
+m
+
+i
+l
+
+d
+n
+h
+
+i
+
+t
+f
+e
+
+l
+
+o
+t
+
+n
+o
+i
+t
+c
+e
+n
+
+j
+
+i
+
+r
+a
+l
+u
+c
+s
+u
+m
+a
+r
+t
+n
+
+i
+
+,
+
+l
+
+d
+e
+fi
+
+k
+c
+a
+l
+b
+
+;
+
+e
+l
+c
+s
+u
+m
+b
+m
+
+i
+l
+
+d
+n
+h
+
+i
+
+t
+h
+g
+i
+r
+
+o
+t
+
+n
+o
+i
+t
+c
+e
+n
+
+j
+
+i
+
+r
+a
+l
+u
+c
+s
+u
+m
+a
+r
+t
+n
+
+i
+
+,
+
+l
+
+d
+e
+fi
+
+y
+e
+r
+g
+
+;
+t
+n
+a
+v
+u
+d
+A
+
+j
+
+n
+o
+i
+t
+c
+e
+f
+n
+I
+-
+t
+s
+o
+P
+s
+y
+a
+D
+
+f
+o
+
+r
+e
+b
+m
+u
+N
+
+l
+a
+t
+o
+T
+
+p
+u
+o
+r
+G
+
+s
+t
+n
+e
+m
+i
+r
+e
+p
+x
+E
+
+f
+
+o
+
+n
+g
+i
+s
+e
+D
+1
+
+l
+
+e
+b
+a
+T
+
+genotype I DNA and ultrapure water were used as positive 
+and negative controls, respectively.
+
+qRT-PCR
+The protocols described by Wolk et al36 and Dai et al37 were 
+used for amplification of 16S rRNA gene of E. cuniculi and 
+β-actin  as  a  housekeeping  gene,  respectively.  Each  run 
+included unspiked specimens and diluent blanks as negative 
+controls. Positive results were determined based on mathe-
+matical  algorithms  included  with  the  LightCycler  system 
+(Roche,  Praha,  the  Czech  Republic).  Results  were  deter-
+mined  to  be  positive  when  the  fluorescence  signal  crossed 
+the baseline at ≤43 cycles. The total amount of spores in 1 g 
+of individual fecal or tissue samples was calculated based on 
+the standard curve derived from serial dilutions of spores in 
+water  and  fecal  samples  of  known  weight  or  recalculated 
+based on the number of β-actin copies in the tissue sample, 
+respectively.38,39
+
+Histology
+Tissues  samples  were  processed  by  the  usual  paraffin 
+method  following  fixation  in  10%  buffered  formalin.  The 
+sections were stained with Brown and Brenn Gram stain.40
+
+Statistical Analysis
+Differences  in  microsporidia  presence  in  inflammatory 
+foci  compared  to  noninduced  site  were  analyzed  by  stu-
+dent  T-tests  and  the  conformity  of  the  variances  of  the 
+tested  groups  was  verified  by  an  F-test  at  a  confidence 
+level  of  α=0.05  and  lower.  The  differences  in  the  spore 
+shedding  frequencies  within  individual  groups  were  ana-
+lyzed by non-parametric Mann–Whitney U-tests. All com-
+putations were made using Statistica 6.0 software (StatSoft 
+CR, Praha, Czech Republic).
+
+Results
+The application of Freund’s Incomplete Adjuvant induced 
+localized  inflammatory  immune  response  in  all  animals 
+(Figure  1A).  There  was  no  difference  observed  in  the 
+induction  of  lesions  between  infected  and  non-infected 
+groups. On the other hand, neither macroscopic nor micro-
+scopic changes were observed in PBS inoculated mice.
+
+Induction of Inflammation in BALB/c Mice 
+in Acute Phase of Infection
+In immunocompetent BALB/c mice, E. cuniculi genotype 
+II was detected already prior to induction of inflammation 
+
+Journal of Inflammation Research 2020:13                                                                                 
+
+submit your manuscript | www.dovepress.com                                                                                                                                                                                                                       
+
+DovePress                                                                                                                         
+
+585
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brdíčková et al                                                                                                                                                       
+
+Dovepress
+
+in  all  screened  tissue  samples  at  least  in  one  animal  per 
+group  (Figure  2A).  An  induction  of  inflammation  in  the 
+acute  phase  of  infection  7.  DPI  in  immunocompetent 
+BALB/c  mice  led  to  the  disappearance  of  microsporidia 
+from  non-induced  leg  and  increase  of  their  concentration 
+towards  induced  leg  in  all  experimental  mice  (P<0.05) 
+from  14  day  post-infection  (DPI)  to  35  DPI  reaching  up 
+to 7.8×102  spores per 1  g of tissue reported 1  week post- 
+inflammation induction (Figure 2A). On the other hand, no 
+difference  was  observed  between  the  occurrence  frequen-
+cies  and  spore  burden  of  microsporidia  in  legs  in  the 
+control group (Figure 2A).
+
+After  secondary  induction  of  inflammation,  28  DPI  in 
+the left leg E. cuniculi genotype II shifted to the new site 
+of  inflammation,  especially  42  DPI  reaching  4.8×104 
+spores  per  gram  of  tissue  compared  to  the  right  leg, 
+where 3.0×102 were detected. Also the frequency of occur-
+rence  of  E.  cuniculi  genotype  II  in  a  particular  leg  was 
+higher in induced legs, as the microsporidia were detected 
+at  least  in  two  of  three  examined  animals  per  interval, 
+compared  to  non-induced  ones  showing  the  presence  of 
+E. cuniculi genotype II mostly in one animal per interval. 
+The  occurrence  of  E.  cuniculi  genotype  II  was  also  con-
+firmed  histologically  at  42  DPI  in  the  left  induced  leg 
+(Figure  1B).  Surprisingly,  induction  of  inflammation  led 
+to a prolonged occurrence of E. cuniculi genotype II in all 
+screened tissues of the experimental group (P<0.05) com-
+pared to the control group, where gradual disappearance of 
+E.  cuniculi  genotype  II  from  tested  tissues  was  observed 
+starting  from  35  DPI,  indicating  a  positive  correlation 
+between the presence of inflammation and the persistence 
+of detectable infection (Figure 2A).
+
+Encephalitozoon  cuniculi  genotype  II  was  detected  in 
+feces in both groups of BALB/c mice in the acute phase of 
+infection from the 2 DPI (Figure 3A). Induction of inflam-
+mation by Freund’s adjuvant led to discontinued excretion 
+of spores in the feces for 15 days after primary induction 
+and irregular spores secretion after secondary induction of 
+inflammation,  whereas  in  the  control  group  specific  E. 
+cuniculi  DNA  in  the  feces  was  observed  significantly 
+more  frequently  during  whole  experiment  without  any 
+relevant interruption.
+
+Induction of Inflammation in BALB/c Mice 
+in Chronic Phase of Infection
+In the control immunocompetent BALB/c mice inoculated 
+with PBS in the chronic phase of infection, microsporidia 
+
+Figure 1 The presence of inflammation focus in right hind limb of BALB/c mouse 
+(A) and microsporidia detection in histological section of left hind limb muscle of 
+BALB/c mouse 42 days post-infection (B) and right hind limb muscle SCID mouse 
+21 days post-infection (C) stained with Brown and Brenn Gram stain.
+
+were  not  detected  in  selected  organs  and  tissues  through-
+out the whole experimental period (Figure 2B). However, 
+after  the  inflammation  induction  in  the  chronic  phase  of 
+infection  of  56  DPI  in  BALB/c  mice  (Figure  2B),  the 
+infection  was  reactivated  in  all  experimental  mice  and 
+microsporidia  were  detected  in  both  legs  regardless  of 
+the site of inflammation induction. In addition, E. cuniculi 
+genotype  II  reappeared  also  in  the  liver,  even  though  the 
+maximum  spore  burden  was  10-times  lower  than  in  the 
+
+586
+
+submit your manuscript | www.dovepress.com                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2020:13 
+
+DovePress                                                                                                                                                
+
+Dovepress                                                                                                                                                       
+
+Brdíčková et al
+
+case  of  induction  of  inflammation  in  the  acute  phase  of 
+infection (Figure 2B).
+
+A  similar  effect  was  observed  after  secondary  induc-
+tion  of  inflammation  in  the  chronic  phase  of  infection  of 
+77 DPI with no specific migration of E. cuniculi genotype 
+II to the inflammatory focus, but activation of latent infec-
+tion  in  experimental  BALB/c  mice,  showing  a  significant 
+increase  in  the  spore  burden  in  the  induced  group  com-
+pared to control mice (P<0.05) (Figure 2B).
+
+Similar to the experiment performed in the acute phase 
+of the infection, a significant decrease in fecal spore excre-
+tion was observed in the group with induced inflammation 
+(Figure 3B). Although the presence of specific E. cuniculi 
+genotype II DNA in feces was demonstrated irregularly in 
+both  groups  of  immunocompetent  mice  until  the  55  DPI, 
+E.  cuniculi  genotype  II  was  no  longer  excreted  in  feces 
+after induction of inflammation in the experimental group.
+
+Induction of Inflammation in SCID Mice
+In  immunodeficient  SCID  mice,  E.  cuniculi  genotype  II 
+was detected in all screened tissue already prior to induc-
+tion  of  inflammation  (Figure  2C).  After  induction  of 
+inflammation  of  7  DPI,  in  the  experimental  group  a  sig-
+nificant  (P<0.05)  increase  in  the  number  of  spores  in  the 
+induced right hind leg of 21 DPI reaching 7.8×105  spores 
+per gram  of  tissue  was  observed  compared  to  the  left  leg 
+containing 3.5×105  spores per gram of tissue. In addition, 
+there  was  an  overall  increase  in  the  number  of  spores  in 
+both  limbs  and  liver  of  induced  animals  compared  to  the 
+control mice, especially 21 DPI. At the end of the experi-
+ment, 28 DPI, however, the number of spores in both legs 
+was similar and comparable to control animals, where the 
+spore  burden  was  approximately  the  same  for  both  limbs 
+throughout  the whole  experiment. The presence of spores 
+of microsporidia in the site of inflammation in the right leg 
+was also observed histologically (Figure 1C).
+
+In most SCID mice, E. cuniculi specific DNA in feces 
+were  recorded  starting  from  2  DPI  (Figure  3C).  Spores 
+were  excreted  in  the  feces  throughout  the  infection  until 
+the  end  of  the  experiment,  regardless  of  the  induction  of 
+inflammation.
+
+In  contrast  to  BALB/c  mice,  clinical  signs  of  micro-
+sporidiosis,  including  bristly  hair,  hunched  back,  and 
+cachexia,  were  observed  in  SCID  mice,  especially  at  the 
+end  of  the  study  period.  However,  diarrhea  as  one  of  the 
+main symptoms of microsporidiosis caused by E. cuniculi 
+was not observed in SCID mice either.
+
+Discussion
+Microsporidia  of  the  genus  Encephalitozoon  are  typically 
+described as chronic, slow acting pathogens and, thus, less 
+
+virulent than other pathogen groups. However, they are able 
+
+to  multiply  successfully  in  an  appropriate  host  to  an  enor-
+
+mous  amount  without  any  obvious  signs  of  infection  in 
+
+immunocompetent  hosts,  revealing  that  high  infectivity, 
+
+high  pathogenicity,  or  both  do  not  necessarily  predict  the 
+
+level  at  which  a  microsporidian  pathogen  impacts  the  host 
+population.33,39,41  The problematics are complicated by the 
+fact that microsporidia are often overlooked and underdiag-
+
+nosed, resulting in the increased possibility of hidden infec-
+
+tions  causing  huge  damage  and  various  non-specific 
+pathologies prior getting detected and successfully treated.28
+Environmentally resistant life cycle stages of microspor-
+idia, spores, are excreted in feces, urine, or sputum causing 
+infection by ingesting contaminated food or water and less 
+often by  inhaling  infectious  spores.42,43  Horizontally trans-
+mitted  microsporidia  of  the  genus  Encephalitozoon  access 
+host tissues by germinating in the gut lumen where infections 
+are typically initiated in gut epithelial cells, and sometimes 
+muscle  cells.  However,  the  target  tissues  –  those  in  which 
+microsporidia  develop  to  the  infectious  stage,  represent  a 
+species-specific  interaction  with  its  host.  The  alimentary 
+tract is a common target tissue for the production of infective 
+spores, and infection can be restricted to one portion of the 
+gut or include several tissue types. The intensity of infection, 
+including  the  amount  and  frequency  of  E.  cuniculi  spores 
+secreted, depends on the age and health status of the infected 
+individual as well as depends on the species and genotype of 
+the infectious agent.42 The results of this work correspond to 
+the data published by Sak et al38,39  and Kotková et al,32  ie, 
+immunocompetent BALB/c mice shed E. cuniculi spores at a 
+significantly  lower  frequency  than  immunodeficient  SCID 
+mice.  The  sporadic  presence  of  E.  cuniculi  spores  in  the 
+feces  of an  infected  individual  has  also  been  demonstrated 
+in  other  studies.26,27,29,32,41  A  positive  correlation  between 
+the frequency of excretion and the intensity of infection was 
+observed in  BALB/c  and  SCID  mice;  while  BALB/c  mice 
+excreted intermittently with an infection intensity of 3.2×106, 
+SCID mice excreted almost daily with an intensity of 1.2×108 
+spores  per  gram  of  feces.32,38,39  Similarly,  a  child  without 
+clinical  signs  of  the  disease  has  been  shown  to  excrete 
+1.2×105 spores per gram of stool,44 whereas an immunodefi-
+cient  individual  can  excrete  up  to  4.4×108  per  gram  of 
+diarrhea.45
+
+Journal of Inflammation Research 2020:13                                                                                 
+
+submit your manuscript | www.dovepress.com                                                                                                                                                                                                                       
+
+DovePress                                                                                                                         
+
+587
+
+Brdíčková et al                                                                                                                                                       
+
+Dovepress
+
+Figure 2 Maximum value of E. cuniculi spores per 1 gram of tissue (number in white fields) and frequency and spore burden of E. cuniculi spores per gram of tissue (colored 
+squares; each square represents one mouse) in the BALB/c mice induced in acute (A) or chronic (B) phase of infection and SCID mice (C). aPeroral infection 107 spores of 
+E. cuniculi genotype II in 200 µL dH2O and intramuscular injection of PBS; bPeroral infection 107 spores of E. cuniculi genotype II in 200 µL dH2O and intramuscular injection 
+of Freund’s Incomplete Adjuvant; grey column – intramuscular injection of all animals in the group into the right thigh muscle; black column – intramuscular injection of all 
+animals in the group into the left thigh muscle; * Significant difference between right and left leg; #  Significant difference between control and experimental group; colored 
+fields, positive capture of microsporidia in the sample according to the quantity scale.
+
+588
+
+submit your manuscript | www.dovepress.com                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2020:13 
+
+DovePress                                                                                                                                                
+
+Dovepress                                                                                                                                                       
+
+Brdíčková et al
+
+Figure 3 Encephalitozoon cuniculi DNA detection in feces of BALB/c mice induced in acute (A) or chronic (B) phase of infection and SCID mice (C). aPeroral infection 107 
+spores of E. cuniculi genotype II in 200 µL dH2O and intramuscular injection of PBS; bPeroral infection 107 spores of E. cuniculi genotype II in 200 µL dH2O and intramuscular 
+injection of Freund’s Incomplete Adjuvant; grey column, intramuscular injection of all animals in the group into the right thigh muscle; black column, intramuscular injection 
+of all animals in the group into the left thigh muscle; black square, positive capture of microsporidial DNA in the sample.
+
+Systemic  E.  cuniculi  infections  acquired  by  ingesting 
+spores are also initiated in the gut epithelial cells followed by 
+the  invasion  of  other  tissues.  The  rapid  spreading  of 
+Encephalitozoon has been reported in murine models, where 
+
+systemic  infection  was  reported  within  several  days.32,39,41 
+However, spores of E. cuniculi are not motile, short distance 
+dispersal  in  the  host  is  limited  to  a  unique  mechanism  of 
+invasion  of  host  cells  that  involves  a  highly  specialized 
+
+Journal of Inflammation Research 2020:13                                                                                 
+
+submit your manuscript | www.dovepress.com                                                                                                                                                                                                                       
+
+DovePress                                                                                                                         
+
+589
+
+Brdíčková et al                                                                                                                                                       
+
+Dovepress
+
+structure, the 10–50 μm long polar tube, which is responsible 
+for the delivery of this organism to the host cell. Nevertheless, 
+Encephalitozoon organisms may replicate to produce mature 
+spores  in  a  variety  of  immune  cells  including  resident  and 
+trafficking  macrophages  and  other  phagocytic  cells  such  as 
+neutrophils,  monocytes,  dendritic  cells,  and  eosinophils 
+which may contribute to the spread of E. cuniculi throughout 
+the  host  organism,46,47  suggesting  that  induction  of  chemo-
+kines  for  inducing  innate  immune  inflammation  may  also 
+promote recruitment of host cells for continued infection and 
+dissemination48–50 On the other hand, there may be a situation 
+in which microsporidia occurring in the area of induced inflam-
+mation are eliminated due to the increased occurrence of IFNγ- 
+,  LPS-,  and  TNFα-activated  macrophages10,–50–54  by  the 
+means of cytotoxic cytokines, cationic proteins, lipid media-
+tors,  metalloproteinases,  and  components  of  the  oxygen 
+burst.10,51,55
+
+Encephalitozoon  cuniculi  was  recognized  as  a  neglected 
+etiological agent for more common, sometimes life-threaten-
+ing diseases, such as encephalitis and meningitis, in otherwise 
+healthy  individuals28  or  contribute  to  aseptic  periprosthetic 
+osteolysis  after  primary  hip  arthroplasty,  leading  to  implant 
+loosening  and  urgent  arthroplasty  revision.29  However,  the 
+fact  that  microsporidia  occurred  in  the  affected  area  before 
+the onset of inflammatory processes, or whether they enter the 
+affected area secondarily, either through macrophages or other 
+cells involved in the development of inflammation serving as 
+vehicles  remained  unanswered.  Our  results  confirmed  the 
+targeted  migration  of  E.  cuniculi  genotype  II  to  the  site  of 
+inflammation. Although E. cuniculi may be common in mus-
+cle, as confirmed by Sak et al56 in a recent study demonstrating 
+the occurrence of E. cuniculi genotype II in pig muscle, reach-
+ing 60 to 250 spores per gram of meat tissue, in this work we 
+showed that the induction of inflammation led to a significant 
+increase  of  E.  cuniculi  genotype  II  at  the  induced  site  in 
+immunocompetent  BALB/c  mice.  Compared  to  the  control 
+group injected with sterile PBS, the occurrence of microspor-
+idia in the limbs was random and, from 42 DPI, microsporidia 
+in selected organs and tissues were not detected at all, suggest-
+ing that during our experiment they may have been eliminated 
+by  the  host  immune  system  or  microsporidia  remain  in  the 
+body in undetectable amounts. Also induction of inflammation 
+in the experimental group of SCID mice led to a significant 
+increase of spore burden at the site of inflammation, while in 
+the control group, the amount of spores per gram of tissue in 
+both limbs was approximately identical. The high concentra-
+tion of spores in muscle tissues at the end of the experiment 
+could be attributed to the systemic spread of E. cuniculi in the 
+
+terminal  phase  infection,  as  already  described  by  Kotková 
+et al.32
+
+So  far,  the  information  available  from  experimental  and 
+natural infections suggests that E. cuniculi is able to spread in a 
+host rapidly and survive in asymptomatic carriers for a long 
+time period, but in some cases the E. cuniculi could be acti-
+vated and trigger diseases with ambiguous etiology depending 
+on the location. The results obtained in Kicia et al43 pointed to 
+a significant association between the occurrence of E. cuniculi 
+and  respiratory  symptoms  in  patients  who  have  undergone 
+kidney transplantation. However, the question of if microspor-
+idia occurred in the respiratory tract in these individuals prior 
+to immunosuppressive treatment, as Kotková et al32 and Sak et 
+al39 described the common presence of Encephalitozoon spe-
+cies  in  the  lungs  of  immunocompetent  individuals,  remains 
+unanswered. Our experiments suggested that E. cuniculi gen-
+otype  II  could  be  activated  from  latent  phase  not  even  by 
+chemotherapy,  but  also  with  inflammation  occurrence.  As 
+induction  of  inflammation  in  the  chronic  phase  of  infection 
+in  immunocompetent  BALB/c  mice  did  not  directly  affect 
+targeted migration of E. cuniculi genotype II to the inflamma-
+tory focus, but it led to reactivation of latent infection and E. 
+cuniculi  spores  were  repeatedly  detected  in  both  limbs  and 
+liver. These results correspond to the results of the study by 
+Kotková  et  al,32  who  described  the  reactivation  of  latent  E. 
+cuniculi genotype II infection in immunocompetent mice after 
+immunosuppression, as well as the ability of this microspor-
+idian  to  spread  to  various  tissues  during  chronic  infection, 
+including muscles, and to persist at these sites. However, the 
+mechanism  of  reactivation  of  E.  cuniculi  by  inflammation 
+remains  unclear.  It  can  be  assumed  that  local  induction  of 
+chronic inflammation could lead to a reduction in the capacity 
+of the immune system, which previously kept the amount of 
+microsporidia below the detection limit of the methods used 
+(qRT PCR). Similarly, Bannoura et al57 described the reactiva-
+tion  of  a  latent  Toxoplasma  gondii  infection  in  a  4-year-old 
+child  after  application  of  steroid  hormones  against 
+encephalomyelitis.
+
+Unexpectedly, whereas the presence of E. cuniculi geno-
+type II in the feces of control groups of immunocompetent 
+BALB/c mice in both acute and chronic phase of infection 
+was detected intermittently thorough the whole experimental 
+period, in experimental groups the excretion of E. cuniculi in 
+feces was  reduced  for several  days  or disappeared, respec-
+tively,  after  inflammation  induction.  This  phenomenon  can 
+be  explained  by  concurrent  increase  of  occurrence  of  E. 
+cuniculi genotype II in foci of inflammation and disappear-
+ance  of  the  parasite  from  the  gastrointestinal  tract  towards 
+
+590
+
+submit your manuscript | www.dovepress.com                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2020:13 
+
+DovePress                                                                                                                                                
+
+Dovepress                                                                                                                                                       
+
+Brdíčková et al
+
+organs  outside  the  gastrointestinal  tract  as  previously 
+reported in albendazole treated mice.30,39,58
+
+Conclusions
+Based on our results we can conclude that the induction of 
+inflammation  had  caused  increased  migration  of  E.  cuni-
+culi  genotype  II  to  inflammatory  foci  as  the  frequency  of 
+spores  was  not  random  but  shifted  in  favor  of  the  site  of 
+induced  inflammation  compared  to  control  groups,  where 
+spores were accidental or spores or their specific DNA was 
+not  detected  at  all.  It  can  be  assumed  that  E.  cuniculi 
+genotype  II  could  be  secondarily  transported  to  the  site 
+of  inflammation  with  the  contribution  of  immune  cells 
+participating  in  its  formation.  E.  cuniculi  are  also  able  to 
+survive for a long time in immunocompetent hosts without 
+any  clinical  signs,  under  certain  circumstances  the  infec-
+tion  may  be  reactivated  after  inflammation  induction. 
+However,  the  mechanisms  of  such  migration  as  well  as 
+the  vehicle  cells  and  mechanism  of  infection  reactivation 
+remain speculative and need to be specified in detail.
+
+The  elucidation  of  possible  connection  with  pro- 
+inflammatory  immune  responses,  addressing  the  tissue 
+specificity and the mechanisms of transfer to target tissues 
+represent  an  important  challenge  with  potential  conse-
+quences  for  human  health  and  brings  novel  insight  into 
+microsporidia problematic and developing reliable preven-
+tive and therapeutic strategies.
+
+Funding
+The study was supported by grants from the Grant Agency 
+of the Czech Republic (17-12871S and 20-10706S).
+
+Disclosure
+The authors report no conflicts of interest in this work.
+
+References
+
+1. Balbiani G. Sur les microsporidies ou psorospermies des articules. C R 
+
+Acad Sci. 1882;95:1168–1171.
+
+2. Lom J, Dyková I. Microsporidia (phylum microspora spraque, 1977). 
+In:  Protozoan  Parasites  of  Fishes  Developments  in  Aquaculture  and 
+Fisheries Science. Vol. 26. Amsterdam: Elsevier; 1992.
+
+3. Didier ES, Didier PJ, Snowden KF, Shadduck JA. Microsporidiosis in 
+mammals.  Microbes  Infect.  2000;2(6):709–720.  doi:10.1016/S1286- 
+4579(00)00354-3
+
+4. Desoubeaux G, Pantin A, Peschke R, Joachim A, Cray C. Application 
+of western blot analysis for the diagnosis of Encephalitozoon cuniculi 
+infection  in  rabbits:  example  of  a  quantitative  approach..  Parasitol 
+Res. 2017;116(2):743–750. doi:10.1007/s00436-016-5343-4
+
+5. Desoubeaux  G,  Piqueras  MC,  Pantin  A,  et  al.  Application  of  mass 
+spectrometry  to  elucidate  the  pathophysiology  of  Encephalitozoon 
+cuniculi 
+in  rabbits.  PLoS  One.  2017;12(7):e0177961. 
+doi:10.1371/journal.pone.0177961
+
+infection 
+
+6. Desoubeaux  G,  Peschke  R,  Le-Bert  C,  et  al.  Seroprevalence  survey 
+for  microsporidia  in  common  bottlenose  dolphin  (Tursiops  trunca-
+tus): example of a quantitative approach based on immunoblotting. J 
+Wildl Dis. 2018;54(4):870–873. doi:10.7589/2017-11-287
+
+7. Shadduck  JA,  Orenstein  JM.  Comparative  pathology  of  microspor-
+
+idiosis. Arch Pathol Lab Med. 1993;117(12):1215–1219.
+
+8. Vávra J, Lukeš J. Microsporidia and ‘the art of living together’. Adv 
+
+Parasitol. 2013;82:253–319.
+
+9. Didier  ES,  Khan  IA.  The  immunology  of  microsporidiosis  in  mam-
+mals. In: Weiss LM, Becnel JJ, editors. Microsporidia Pathogens of 
+Opportunity. Chichester UK: John Wiley & Sons, Inc.; 2014.
+
+10. Didier  ES,  Vossbrinck  CR,  Baker  MD,  Rogers  LB,  Bertucci  DC, 
+three 
+Shadduck 
+Encephalitozoon  cuniculi  strains.  Parasitology.  1995;111(4):411– 
+421. doi:10.1017/S0031182000065914
+
+Identification  and  characterization  of 
+
+JA. 
+
+11. Talabani H, Sarfati C, Pillebout E, van Gool T, Derouin F, Menotti J. 
+Disseminated infection with a new genovar of Encephalitozoon cuni-
+culi  in  a  renal  transplant  recipient.  J  Clin  Microbiol.  2010;48 
+(7):2651–2653. doi:10.1128/JCM.02539-09
+
+12. Didier ES, Stovall ME, Green LC, Brindley PJ, Sestak K, Didier PJ. 
+Epidemiology  of  microsporidiosis:  sources  and  modes  of  transmis-
+sion.  Vet  Parasitol. 
+doi:10.1016/j. 
+vetpar.2004.09.006
+
+2004;126(1–2):145–166. 
+
+13. Weber  R,  Bryan  RT.  Microsporidial  infections  in  immunodeficient 
+and immunocompetent patients. Clin Infect Dis. 1994;19(3):517–521. 
+doi:10.1093/clinids/19.3.517
+
+14. Weber  R,  Bryan  RT,  Schwartz  DA,  Owen  RL.  Human  microsporidial 
+infections.  Clin  Microbiol  Rev.  1994;7(4):426–461.  doi:10.1128/ 
+CMR.7.4.426
+
+15. Weiss  LM.  And  now  microsporidiosis.  Ann  Intern  Med.  1995;123 
+(12):954–956. doi:10.7326/0003-4819-123-12-199512150-00012
+16. Weiss LM, Keohane EM. Microsporidia at the turn of the millenium: 
+raleigh 1999. J Eukaryot Microbiol. 1999;46(5):3S–5S. doi:10.1111/ 
+j.1550-7408.1999.tb06055.x
+
+17. Wittner  M,  Weiss  L.  The  Microsporidia  and  Microsporidiosis. 
+
+Washington DC: ASM Press; 1995.
+
+18. Del Aguila C, Rueda C, de la Camara C, Fenoy S. Seroprevalence of 
+anti-Encephalitozoon  antibodies  in  Spanish  immunocompetent  sub-
+ject. J Microbiol. 2001;48:75–78.
+
+19. Enriquez FJ, Taren D, Cruz-Lopez A, Muramoto M, Palting JD, Cruz 
+P.  Prevalence  of  intestinal  encephalitozoonnosis  in  Mexico.  Clin 
+Infect Dis. 1998;26(5):1227–1229. doi:10.1086/520278
+
+20. Lopez-Velez  R, Turrientes MC, Garron C,  et al. Microsporidiosis  in 
+travelers  with  diarrhea  from  the  tropics.  J  Travel  Med.  1999;6 
+(4):223–237. doi:10.1111/j.1708-8305.1999.tb00522.x
+
+21. Lores B, Lopez-Miragaya I,  Arias C,  Fenoy S, Torres J, Del Aguila 
+C.  Intestinal  microsporidiosis  due  to  Enterocytozoon  bieneusi  in 
+immunodeficiency  virus–negative  patients  from 
+elderly  human 
+Vigo, Spain. Clin Infect Dis. 2002;4(7):918–921. doi:10.1086/339205
+22. Müller  A,  Bialek  R,  Kamper  A,  Fatkenheuer  G,  Salzberger  B, 
+Franzen  C.  Detection  of  microsporidia  in  travelers  with  diarrhea.  J 
+Clin Microbiol. 2001;39(4):1630–1632. doi:10.1128/JCM.39.4.1630- 
+1632.2001
+
+23. van  Gool  T,  Vetter  JCM,  Weinmayr  B,  van  Dam  A,  Derouin  F, 
+Dankert J. High seroprevalence of Encephalitozoon species in immu-
+nocompetent  subjects.  J 
+Infect  Dis.  1997;175(4):1020–1024. 
+doi:10.1086/513963
+
+24. Morio  F,  Poirier  P,  Le  Govic  Y,  et  al.  Assessment  of  the  first 
+commercial  multiplex  PCR  kit  (ParaGENIE  crypto-micro  real-time 
+PCR)  for  the  detection  of  Cryptosporidium  spp.,  Enterocytozoon 
+bieneusi,  and  Encephalitozoon  intestinalis  from  fecal  samples. 
+Diagn  Microbiol  Infect  Dis.  2019;95(1):34–37.  doi:10.1016/j. 
+diagmicrobio.2019.04.004
+
+25. Desoubeaux  G,  Caumont  C,  Passot  C,  et  al.  Two  cases  of  opportu-
+nistic  parasite  infections  in  patients  receiving  alemtuzumab.  J  Clin 
+Pathol. 2012;65(1):92–95. doi:10.1136/jclinpath-2011-200403
+
+Journal of Inflammation Research 2020:13                                                                                 
+
+submit your manuscript | www.dovepress.com                                                                                                                                                                                                                       
+
+DovePress                                                                                                                         
+
+591
+
+Brdíčková et al                                                                                                                                                       
+
+Dovepress
+
+26. Sak  B,  Brady  D,  Pelikánová  M,  Květoňová  D,  Rost  M,  Kostka  M. 
+Unapparent  microsporidial 
+immunocompetent 
+humans  in  the  Czech  Republic.  J  Clin  Microbiol.  2011;49(3):1064– 
+1070. doi:10.1128/JCM.01147-10
+
+infection  among 
+
+27. Sak  B,  Kváč  M,  Kučerová  Z,  Květoňová  D,  Saková  K.  Latent 
+microsporidial  infection  in  immunocompetent  individuals  –  a  long-
+itudinal  study.  PLoS  Negl  Trop  Dis.  2011;5(5):e1162.  doi:10.1371/ 
+journal.pntd.0001162
+
+28. Ditrich O, Chrdle A, Sak B, et al. Encephalitozoon cuniculi genotype 
+I  as  a  causative  agent  of  brain  abscess  in  an  immunocompetent 
+patient.  J  Clin  Microbiol.  2011;49(7):2769–2771.  doi:10.1128/ 
+JCM.00620-11
+
+29. Kicia M, Weselowska M, Kopacz Z, et al. Disseminated infection of 
+Encephalitozoon  cuniculi  associated  with  osteolysis  of  hip  peripros-
+thetic tissue. Clin Infect Dis. 2018;67(8):1228–1234. doi:10.1093/cid/ 
+ciy256
+
+30. Lallo MA, da Costa LF, de Castro JM. Effect of three drugs against 
+Encephalitozoon  cuniculi  infection  in  immunosuppressed  mice. 
+Antimicrob  Agents  Chemother.  2013;57(7):3067–3071.  doi:10.1128/ 
+AAC.00157-13
+
+31. Koudela B, Lom J, Vítovec J, Kučerová Z, Ditrich O, Trávníček J. In 
+vivo  efficacy  of  albendazole  against  Encephalitozoon  cuniculi  in 
+SCID mice. J Eukaryot Microbiol. 1994;41:49–50.
+
+32. Kotková M,  Sak B,  Květoňová  D,  Kváč M.  Latent  microsporidiosis 
+caused  by  Encephalitozoon  cuniculi  in  immunocompetent  hosts:  a 
+murine model demonstrating the  ineffectiveness  of  the  immune sys-
+tem  and  treatment  with  albendazole.  PLoS  One.  2013;8(4):e60941. 
+doi:10.1371/journal.pone.0060941
+
+33. Sak B, Brdíčková K, Holubová N, Květoňová D, Hlásková L, Kváč 
+M.  Encephalitozoon  cuniculi  genotype  III  evinces  a  resistance  to 
+albendazole  treatment  in  both  immunodeficient  and  immunocompe-
+tent  mice.  Antimicrob  Agents  Chemother.  2020;64(5):e00058–20. 
+doi:10.1128/AAC.00058-20
+
+34. De  Bosscuere  H,  Wang  Z,  Orlandi  PA.  First  diagnosis  of 
+Encephalitozoon intestinalis  and  E.  hellem in a  European  brown  hare 
+(Lepus  europaeus)  with  kidney  lesions.  Zoonoses  Public  Health. 
+2007;54(3–4):131–134. doi:10.1111/j.1863-2378.2007.01034.x
+
+35. Katzwinkel-Wladarsch  S,  Lieb  M,  Helse  W,  Löscher  T,  Rinder  H. 
+Direct  amplification  and  species  determination  of  microsporidian 
+DNA  from  stool  specimens.  Trop  Med  Int  Health.  1996;1(3):373– 
+378. doi:10.1046/j.1365-3156.1996.d01-51.x
+
+36. Wolk DM, Schneider SK, Wengenack NL, Sloan LM, Rosenblatt JE. 
+Real-time PCR method for detection of Encephalitozoon intestinalis 
+from  stool  specimens.  J  Clin  Microbiol.  2002;40(11):3922–3928. 
+doi:10.1128/JCM.40.11.3922-3928.2002
+
+37. Dai J, Wang P, Adusumilli S, et al. Antibodies against a tick protein, 
+Salp15,  protect  mice  from  the  Lyme  disease  agent.  Cell  Host 
+Microbe. 2009;6(5):482–492. doi:10.1016/j.chom.2009.10.006
+
+38. Sak  B,  Jandová  A,  Doležal  K,  et  al.  Effects  of  selected  Indonesian 
+plant  extracts  on  E.  cuniculi  infection  in  vivo.  Exp  Parasitol. 
+2017;181:94–101. doi:10.1016/j.exppara.2017.07.014
+
+39. Sak B, Kotková M, Hlásková L, Kváč M. Limited effect of adaptive 
+immune response to control encephalitozoonosis. Parasite Immunol. 
+2017;39(12):e12496. doi:10.1111/pim.12496
+
+40. Brown JH, Brenn L. A method for the differential gram-positive and 
+gram-negative  bacteria in  tissue  sections.  Bull  Johns  Hopkins  Hosp. 
+1931;48:69.
+
+41. Kotková M, Sak B, Kváč M. Differences in the intensity of infection 
+caused by Encephalitozoon cuniculi genotype II and III – comparison 
+using  quantitative  real-time  PCR.  Exp  Parasitol.  2018;192:93–97. 
+doi:10.1016/j.exppara.2018.07.019
+
+43. Kicia M,  Szydłowict M,  Cebulski K,  et  al. Symptomatic  respiratory 
+Encephalitozoon cuniculi infection in renal transplant recipients. Int J 
+Infect Dis. 2019;79:21–25. doi:10.1016/j.ijid.2018.10.016
+
+44. Mungthin  M,  Subrungruang  I,  Naaglor  T,  Aimpun  P,  Areekul  W, 
+Leelayoova  S.  Spore  shedding  pattern  of  Enterocytozoon  bieneusi 
+in  asymptomatic  children.  J  Med  Microbiol.  2005;54(5):473–476. 
+doi:10.1099/jmm.0.45832-0
+
+45. Goodgame  R,  Stager  C,  Marcantel  B,  Alcocer  E,  Segura  AM. 
+Intensity  of  infection  in  AIDS-related  intestinal  microsporidiosis.  J 
+Infect Dis. 1999;180(3):929–932. doi:10.1086/314914
+
+46. Couzinet  S,  Cejas  E,  Schittny  J,  Deplazes  P,  Weber  R,  Zimmerli  S. 
+Phagocytic  uptake  of  Encephalitozoon  cuniculi  by  nonprofessional 
+phagocytes.  Infect  Immun.  2000;68(12):6939–6945.  doi:10.1128/ 
+IAI.68.12.6939-6945.2000
+
+47. Nassonova  E,  Tokarev  YS,  Trammer  T,  Entzeroth  R,  Sokolova  J. 
+Phagocytosis  of  Nosema  grylli  (microsporidia,  nosematidae)  spores 
+in  vivo  and  in  vitro.  J  Eukaryot  Microbiol.  2001;48:83–84. 
+doi:10.1111/j.1550-7408.2001.tb00462.x
+
+48. Fischer  J,  Tran  D,  Juneau  R,  Hale-Donze  H.  Kinetics  of 
+Encephalitozoon  spp.  infection  of  human  macrophages.  J  Parasitol. 
+2008;94(1):169–175. doi:10.1645/GE-1303.1
+
+49. Niederkorn  JY,  Shadduck  JA.  Role  of  antibody  and  complement  in 
+the  control  of  Encephalitozoon  cuniculi  infections  by  rabbit  macro-
+phages.  Infect  Immun.  1980;27(3):995–1002.  doi:10.1128/IAI.27. 
+3.995-1002.1980
+
+50. Weidner E. Interactions between Encephalitozoon cuniculi and macro-
+phages. Parasitophorous vacuole growth and the absence of lysosomal 
+fusion. Z Parasitenkd. 1975;47(1):1–9. doi:10.1007/BF00418060
+51. Didier ES, Bowers LC, Martin AD, Kuroda MJ, Khan IA, Didier PJ. 
+Reactive  nitrogen  and  oxygen  species,  and  iron  sequestration  con-
+tribute  to  macrophage-mediated control  of  Encephalitozoon  cuniculi 
+(phylum  microsporidia)  infection  in  vitro  and  in  vivo.  Microbes 
+Infect. 2010;12(14–15):1244–1251. doi:10.1016/j.micinf.2010.09.010
+52. Didier ES, Shadduck JA. IFN-gamma and LPS induce murine macro-
+phages  to  kill  Encephalitozoon  cuniculi  in  vitro.  J  Eukaryot 
+Microbiol. 1994;41:34S.
+
+53. Schmidt EC, Shadduck JA. Mechanisms of resistance to the intracel-
+lular  protozoan  Encephalitozoon  cuniculi  in  mice.  J  Immunol. 
+1984;133(5):2712–2719.
+
+54. Jelínek J, Salát J, Sak B, Kopecký J. Effect of interferon gamma and 
+specific  polyclonal  antibody  on  the  infection  of  murine  peritoneal 
+macrophages  and  murine  macrophage  cell  line  PMJ2-R  with 
+Encephalitozoon  cuniculi.  Folia  Parasitol.  2007;54(3):172–176. 
+doi:10.14411/fp.2007.024
+
+55. Didier ES, Varner PW, Didier PJ, et al. Experimental microsporidio-
+sis  in  immunocompetent  and  immunodeficient  mice  and  monkeys. 
+Folia Parasitol. 1994;41(1):1–11.
+
+56. Sak B, Vecková T, Brdíčková K, et al. Experimental Encephalitozoon 
+fermented  meat  products. 
+doi:10.1089/ 
+
+from 
+2019;16(6):394–398. 
+
+infection  acquired 
+
+cuniculi 
+Foodborne  Pathog  Dis. 
+fpd.2018.2569
+
+57. Bannoura  S,  El  Hajj  R,  Khalifeh  I,  El  Hajj  H.  Acute  disseminated 
+encephalomyelitis  and  reactivation  of  cerebral  toxoplasmosis  in  a 
+child:  case 
+IDCases.  2018;13:e00434.  doi:10.1016/j. 
+idcr.2018.e00434
+
+report. 
+
+58. Kotková  M,  Sak  B,  Hlásková  L,  Kváč  M.  The  course  of  infection 
+caused  by  Encephalitozoon  cuniculi  genotype  III  in  immunocompe-
+tent  and  immunodeficient  mice.  Exp  Parasitol.  2017;182:16–21. 
+doi:10.1016/j.exppara.2017.09.022
+
+42. Didier  ES,  Weiss  LM.  Microsporidiosis:  not  just  in  AIDS  patients. 
+doi:10.1097/ 
+
+2011;24(5):490–495. 
+
+Infect  Dis. 
+
+Curr  Opin 
+QCO.0b013e32834aa152
+
+592
+
+submit your manuscript | www.dovepress.com                                                                                                                                                                                                                    
+
+Journal of Inflammation Research 2020:13 
+
+DovePress                                                                                                                                                
+
+Dovepress                                                                                                                                                       
+
+Brdíčková et al
+
+Journal of Inflammation Research                                                                                                     
+
+Dovepress 
+
+Publish your work in this journal 
+
+The  Journal  of  Inflammation  Research  is  an  international,  peer- 
+reviewed open-access journal that welcomes laboratory and clinical 
+findings  on  the  molecular  basis,  cell  biology  and  pharmacology  of 
+inflammation  including  original  research,  reviews,  symposium 
+reports,  hypothesis  formation  and  commentaries  on:  acute/chronic 
+inflammation; mediators of inflammation; cellular processes; molecular 
+
+mechanisms; pharmacology and novel anti-inflammatory drugs; clin-
+ical conditions involving inflammation. The manuscript management 
+system is completely online and includes a very quick and fair peer- 
+review  system.  Visit  http://www.dovepress.com/testimonials.php  to 
+read real quotes from published authors.   
+
+Submit your manuscript here: https://www.dovepress.com/journal-of-inflammation-research-journal
+
+Journal of Inflammation Research 2020:13                                                                                 
+
+submit your manuscript | www.dovepress.com                                                                                                                                                                                                                       
+
+DovePress                                                                                                                         
+
+593
+
+

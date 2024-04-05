@@ -1,0 +1,2817 @@
+Journal of Inflammation Research
+
+ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/djir20
+
+Insulin resistance and inflammation markers in
+myocardial infarction
+
+Olga Gruzdeva, Evgenya Uchasova, Yulia Dyleva, Ekaterina Belik, Ekaterina
+Shurygina & Olga Barbarash
+
+To cite this article: Olga Gruzdeva, Evgenya Uchasova, Yulia Dyleva, Ekaterina Belik, Ekaterina
+Shurygina & Olga Barbarash (2013) Insulin resistance and inflammation markers in myocardial
+infarction, Journal of Inflammation Research, , 83-90, DOI: 10.2147/JIR.S43081
+
+To link to this article:  https://doi.org/10.2147/JIR.S43081
+
+© 2013 Gruzdeva et al, publisher and
+licensee Dove Medical Press Ltd
+
+Published online: 17 Jun 2013.
+
+Submit your article to this journal 
+
+Article views: 60
+
+View related articles 
+
+Citing articles: 2 View citing articles 
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=djir20
+
+Journal of Inflammation Research
+
+Open access Full Text article
+
+Dovepress
+open access to scientific and medical research
+
+O R Ig In a l   RE S EaR Ch
+
+Insulin resistance and inflammation markers  
+in myocardial infarction
+
+Olga Gruzdeva
+Evgenya Uchasova
+Yulia Dyleva
+Ekaterina Belik
+Ekaterina Shurygina
+Olga Barbarash
+
+Research Institute for Complex 
+Issues of Cardiovascular Diseases, 
+Kemerovo, Russia
+
+Correspondence: Evgenya Uchasova 
+Research Institute for Complex Issues  
+of Cardiovascular Diseases, 6 Sosnovy  
+Blvd, Kemerovo 650002, Russia 
+Tel +7 3842 640 553 
+Email evg.uchasova@yandex.ru
+
+Background: Insulin resistance (IR) is known to be characteristic of type 2 diabetes mellitus, 
+and is regarded as an important mechanism in disease pathogenesis. One of the key pathogenetic 
+mechanisms  of  IR  progression  is  impaired  free  fatty  acid  (FFA)  metabolism.  Plasminogen-
+activator inhibitor 1 (PAI-1) and key inflammation markers, ie, interleukin 6 (IL-6) and C-reactive 
+protein (CRP), also play a role.
+Purpose: To assess the changing levels of the metabolic proinflammation IR markers IL-6, 
+CRP and PAI-1 and their association with the presence or absence of type 2 diabetes mellitus 
+in myocardial infarction (MI) patients during their hospital stay.
+Methods: The patients were divided into two groups: group 1 included 95 nondiabetic MI 
+patients, and group 2 enrolled 40 diabetic MI patients. The control group consisted of 30 sex- 
+and age-matched volunteers. Serum IL-6 and CRP levels as well as FFA, glucose, C-peptide, 
+insulin, and plasma PAI-1 concentrations were measured at days 1 and 12 from MI onset.
+Results: At day 1, there was an increase in glucose concentrations, which remained high in both 
+groups by day 12 but was much higher in the diabetic patients. Basal insulin and C-peptide levels 
+did not differ significantly from those in the control group. The quantitative insulin sensitivity-
+check index in both groups was significantly different from that in controls. FFA concentrations 
+at day 1 in both diabetic and nondiabetic patients increased; by day 12, they had decreased but 
+were still higher than the controls. CRP and IL-6 levels at day 1 were higher in all the patients, 
+but diabetic patients had the highest levels; by day 12, the levels were lower but still 2.4-fold 
+(IL-6) and 12.5-fold (CRP) higher than those in the control group.
+Conclusion: This  study  showed  that  MI  is  accompanied  both  by  activated  inflammatory 
+response and IR. Strong correlations between IL-6 and FFA concentrations demonstrate that 
+nonspecific inflammation factors are involved in IR development in MI patients. Consequently, 
+these inflammatory cytokines might cause the development of IR.
+Keywords: insulin resistance, myocardial infarction, inflammation, type 2 diabetes mellitus
+
+Introduction
+Insulin resistance (IR) is known to be a characteristic feature of type 2 diabetes mel-
+litus (T2DM), and is traditionally regarded as an important stage of its pathogenesis: 
+IR in general and diabetic populations is associated with cardiovascular risk factors 
+including hyperglycemia, dyslipoproteinemia, arterial hypertension, obesity, throm-
+bosis, and smoking.1,2
+
+Large clinical trials showed that IR was a predictor of such cardiovascular events 
+as ischemic heart disease and myocardial infarction (MI).3,4 Additionally, it was estab-
+lished that the course of MI as a separate disease is accompanied by IR development 
+
+submit your manuscript | www.dovepress.com
+
+Dovepress 
+
+http://dx.doi.org./10.2147/JIR.S43081
+
+Journal of Inflammation Research 2013:6 83–90
+83
+© 2013 Gruzdeva et al, publisher and licensee Dove Medical Press Ltd. This is an Open Access article  
+which permits unrestricted noncommercial use, provided the original work is properly cited.
+
+Gruzdeva et al
+
+Dovepress
+
+and that the pathogenetic mechanisms are unclear. Medical 
+literature has, among others, the following possible reasons 
+for IR development: activation of local inflammation in the 
+area of atherosclerotic lesion and infarct site with enhanced 
+expression of proinflammatory cytokines (IL-6) and acute-
+phase proteins, including C-reactive protein (CRP), as their 
+key  representative.5 An  important  role  of  increased  CRP 
+levels not only as an MI predictor and a marker of adverse 
+outcome  but  also  as  a  precursor  of  IR  development  was 
+established earlier.6 High CRP levels are thought to result 
+in a change in insulin-action regulation at the cellular level, 
+which could lead to IR.7
+
+Among  proinflammatory  cytokines  contributing  to 
+IR  development,  the  role  of  interleukin  (IL)-6,  which  has 
+autocrine and paracrine properties and is involved in insulin 
+reception and free fatty acid (FFA) metabolism regulation, 
+has been extensively studied. The increase in FFA concen-
+trations in myocardial ischemia could also lead to a reduced 
+sensitivity to insulin in the peripheral tissues.8,9 Moreover, 
+previous experimental studies demonstrated that IL-6 could 
+induce plasminogen-activator inhibitor (PAI)-1 production. 
+Its  activity  increase  is  regarded  both  as  a  risk  factor  for 
+coronary atherothrombosis and MI and as a trigger for IR 
+ development.10 PAI-1 is known to modulate insulin signal-
+ing  in  fibroblasts,  preventing  vitronectin  binding  to  αvβ3-
+receptors, which in turn decreases insulin-induced protein 
+kinase B phosphorylation.11
+
+According  to  Juhan-Vague  et  al,  obese  patients  with 
+hyperinsulinemia  and  a  genotype  associated  with  the 
+increased PAI-1 transcription had a high risk of MI.12 Thus, 
+an analysis of the medical literature allows the suggestion that 
+proinflammatory factors could be involved in IR development 
+in acute coronary events. The detection of a possible associa-
+tion between metabolic changes, indicators, and nonspecific 
+inflammation markers in MI patients, including those with 
+T2DM, can play a role in the choice of treatment strategy in 
+terms of risk stratification in this category of patients.
+
+This study was aimed at assessing the changing levels of 
+the metabolic proinflammation IR markers IL-6, CRP and 
+PAI-1,  and  their  association  with  presence  or  absence  of 
+T2DM in MI patients during their hospital stay.
+
+Materials and methods
+Study subjects and design
+A total of 155 MI patients (95 males and 60 females), mean 
+age 65 ± 4.5 years, and 30 sex- and age-matched volunteers 
+(the control group) with no cardiovascular or endocrine dis-
+eases were enrolled in the study. The patients were divided 
+
+into  two  groups:  group  I  comprised  95  nondiabetic  MI 
+patients, and group 2 enrolled 60 diabetic MI patients. The 
+mean T2DM duration was, on average, 6.4 ± 1.5 years. The 
+groups were sex- and age-matched and had similar risk fac-
+tors for ischemic heart disease, concurrent conditions, and 
+MI complication rate.
+
+The main demographic characteristics of the study patients 
+are summarized in Table 1. The patient groups were similar in 
+age, sex, main risk factors of ischemic heart disease, comor-
+bidities, and coronary event incidence (Table 1). The study 
+excluded patients older than 75 years and/or with clinically 
+significant concurrent conditions (autoimmune diseases, thy-
+roid gland, or adrenal gland diseases). However, there were 
+more obese patients among those with T2DM compared to 
+nondiabetic patients, according to body mass index (BMI) lev-
+els: 29.65 (26.85–34.55) kg/m2 vs 25.5 (23.2–30.1) kg/m2.
+
+Acute MI was diagnosed according to the 2007 Russian 
+National  Cardiology  Society  guidelines  based  on  clinical, 
+electrocardiographic,  echocardiographic,  and  biochemical 
+signs of the disease. The inclusion criteria were chest pain 
+refractory to nitroglycerin, myocardial ischemia, and necro-
+sis  signs  (ST-segment  elevation  and/or  new  pathologic  Q 
+waves on the electrocardiogram, elevated cardiac enzymes: 
+MB fraction of creatine kinase [CK MB] and troponin T). 
+
+Table 1 Initial clinical and anamnestic characteristics of patients
+
+Variable
+
+Men, n (%)
+Age, years, mean (range)
+Body mass index,  
+mean (range)
+Body weight kg, n (%)
+Arterial hypertension,  
+n (%)
+hypercholesterolemia,  
+n (%)
+Current smoking, n (%)
+Family history of IhD,  
+n (%)
+Previous myocardial  
+infarction, n (%)
+Chronic bronchitis, n (%)
+Ulcerous disease, n (%)
+Chronic kidney disease,  
+n (%)
+Anterior wall myocardial  
+infarction, n (%)
+Killip class I, n (%)
+Killip class II–IV, n (%)
+Death, n (%)
+
+Patients with MI  
+without type 2  
+diabetes (n = 95)
+
+Patients with 
+MI and type 2 
+diabetes (n = 60)
+
+69 (73)
+61 (53–70)
+25.5 (23.2–30.1)
+
+18 (30)
+66.5 (61–73.5)
+29.65 (26.85–34.55)
+
+53 (56)
+72 (76)
+
+40 (37.4)
+
+72 (76)
+23 (24)
+
+51 (85)
+51 (85)
+
+27 (45)
+
+37 (61.6)
+30 (50)
+
+15 (15.7)
+
+15 (25)
+
+5 (5.2)
+10 (9.3)
+2 (2.1)
+
+45 (42)
+
+87 (81.4)
+21 (35)
+1 (0.9)
+
+0
+5 (8.3)
+1 (1.6)
+
+9 (15)
+
+26 (43.3)
+32 (53.3)
+1 (1.6)
+
+Abbreviations: MI, myocardial infarction; IhD, ischemic heart disease.
+
+84
+
+submit your manuscript | www.dovepress.com
+
+Dovepress 
+
+Journal of Inflammation Research 2013:6
+
+Dovepress
+
+Insulin resistance and inflammation markers in MI
+
+Peak CK MB and troponin T levels did not differ between 
+the groups. Peak CK MB levels were 94.03 ± 17.9 U/L and 
+137.64 ± 41.1 U/L in the diabetic and nondiabetic patients, 
+respectively  (P  =  0.916);  troponin T  concentrations  were 
+1.09 ± 0.92 ng/mL and 0.71 ± 0.41 ng/mL in the diabetic 
+and nondiabetic patients, respectively (P = 0.564).
+
+The  exclusion  criteria  were  age  .75  years,  clinically 
+significant comorbidities (autoimmune diseases, thyroid or 
+adrenal gland diseases), acute coronary syndrome as a com-
+plication of percutaneous coronary intervention, or coronary 
+artery bypass surgery.
+
+The patient groups had a similar incidence of major hos-
+pital coronary events (Table 1). Eighty percent of patients 
+in both groups did not have any signs of acute heart failure, 
+according to the Killip classification (1967) upon admission 
+and during the hospital stay (Table 1); however, more than 
+50% of patients had arrhythmias and impaired conduction 
+diagnosed according to the established criteria.13 The struc-
+ture and function of the left ventricle did not differ between 
+the  groups.  Mean  left  ventricular  ejection  fraction  was 
+51.25% ± 1.85% in the diabetic patients and 50.42% ± 1.62% 
+in those without T2DM (P = 0.598); mean left ventricular 
+end-diastolic volume was 164.35 ± 10.47 mL in the diabetic 
+patients and 156.43 ± 7.18 mL in the nondiabetic patients 
+(P = 0.649); mean left ventricular end-systolic volume was 
+79.71 ± 8.32 mL in the diabetic patients and 75.22 ± 5.56 in 
+the nondiabetic patients (P = 0.702).
+
+The groups were similar in the presence/type of coronary 
+artery  disease:  coronary  angiography  showed  multivessel 
+(more  than  three  vessels)  hemodynamically  significant 
+coronary artery lesions in both groups (76.5% in the diabetic 
+patients and 62.5% in the nondiabetic patients [P = 0.857]). 
+T2DM  compensation  was  evaluated  based  on  glycated 
+hemoglobin  levels  (T2DM  was  considered  to  be  compen-
+sated in glycated hemoglobin .7.5%, according to the 2000 
+European Diabetes Policy Group criteria). Decompensated 
+T2DM was diagnosed in eight (40%) patients.
+
+The  study  design  was  approved  by  the  Institutional 
+Review Board of the Research Institute for Complex Issues 
+of  Cardiovascular  Diseases;  all  the  individuals  signed  the 
+informed consent before being enrolled in the study. Thera-
+peutic interventions during the follow-up period are listed 
+in Table 2.
+
+Assays
+Serum IL-6 concentrations were measured by enzyme-linked 
+immunosorbent assay at days 1 and 12 from the MI onset 
+using Life Technologies (Carlsbad, CA, USA) test-systems. 
+
+Table 2 Revascularization and drug therapy during follow-up
+
+Therapy, n (%)
+
+Patients with MI 
+without type 2  
+diabetes (n = 95)
+
+Patients with 
+MI and type 2 
+diabetes (n = 60)
+
+β-blockers
+angiotensin-converting 
+enzyme
+Calcium channel blocker
+Diuretics
+nitrates
+Aspirin
+heparin
+Clopidogrel
+Statins
+
+85 (89.5)
+78 (82.1)
+
+66 (69.5)
+40 (42)
+83 (87.4)
+94 (87.8)
+95 (100)
+84 (78.5)
+95 (100)
+
+Abbreviation: MI, myocardial infarction. 
+
+51 (85)
+51 (85)
+
+39 (65)
+39 (60)
+31 (51.6)
+55 (91.6)
+60 (100)
+44 (73.3)
+60 (100)
+
+CRP,  serum  FFA,  and  glucose  concentrations  were  mea-
+sured at the same study time points using standard Thermo 
+Fisher Scientific (Vantaa, Finland) test systems on a Konelab 
+30i  biochemistry  analyzer  (Thermo  Fisher  Scientific  Oy, 
+Vantaa, Finland). C-peptide and insulin concentrations were 
+measured  by  enzyme-linked  immunosorbent  assay  with 
+BioMedica (Waterloo, NSW, Australia) and Diagnostic Sys-
+tems Laboratories (Webster, TX, USA) lab kits, respectively. 
+Plasma  PAI-1  concentrations  were  assessed  with  standard 
+Technoclone  (Vienna, Austria)  test  systems. Additionally, 
+all the patients had their postprandial glycemia, insulin, and 
+C-peptide concentrations measured 2 hours after a standard 
+carbohydrate breakfast (75 g anhydrous glucose dissolved 
+in 250–300 mL water to drink for 3–5 minutes on an empty 
+stomach).
+
+The IR level was estimated using a structural mathemati-
+cal model incorporating fasting serum insulin and glucose 
+measurement with the quantitative insulin sensitivity-check 
+index (QUICKI) calculation. QUICKI  = 1/(log [I0] + log 
+[G0]),  where  I0  –  basal  insulinemia  (mg/dL),  G0  –  basal 
+glycemia  (mME/mL). According  to  Katz  et  al,  a  mean 
+QUICKI  value  of  0.382  ±  0.007  correlates  with  normal 
+tissue  sensitivity  to  insulin,  while  QUICKI  values  of 
+0.331 ± 0.010 and 0.304 ± 0.007 correlate with moderate 
+and severe IR.14
+
+Statistical analysis
+Statistical analysis was done using the nonparametric Mann–
+Whitney  test  for  unpaired  samples  and  the Wilcoxon  test 
+for  paired  samples. The  results  were  presented  as  median 
+and quartiles. P-values , 0.05 were considered statistically 
+significant. Spearman’s correlation coefficient was calculated 
+to analyze the correlations between the variables. The statis-
+tical analysis was performed using Statistica 6.0 (StatSoft, 
+Tulsa, OK, USA).
+
+Journal of Inflammation Research 2013:6
+
+submit your manuscript | www.dovepress.com
+
+Dovepress 
+
+85
+
+Gruzdeva et al
+
+Dovepress
+
+l
+
+e
+v
+e
+
+l
+
+l
+a
+i
+d
+n
+a
+r
+p
+t
+s
+o
+P
+
+l
+
+e
+v
+e
+
+l
+
+l
+a
+s
+a
+B
+
+y
+a
+d
+h
+t
+2
+1
+
+y
+a
+d
+t
+s
+1
+
+l
+
+e
+v
+e
+
+l
+
+l
+a
+i
+d
+n
+a
+r
+p
+t
+s
+o
+P
+
+l
+
+e
+v
+e
+
+l
+
+l
+a
+s
+a
+B
+
+y
+a
+d
+h
+t
+2
+1
+
+y
+a
+d
+t
+s
+1
+
+l
+a
+i
+d
+n
+a
+r
+p
+t
+s
+o
+P
+
+l
+
+e
+v
+e
+
+l
+
+l
+a
+s
+a
+B
+
+l
+
+e
+v
+e
+
+l
+
+)
+0
+6
+
+=
+n
+(
+
+s
+u
+t
+i
+l
+l
+
+e
+m
+
+s
+e
+t
+e
+b
+a
+i
+d
+2
+
+e
+p
+y
+t
+d
+n
+a
+
+I
+
+M
+h
+t
+i
+w
+s
+t
+n
+e
+i
+t
+a
+P
+
+)
+5
+9
+
+=
+n
+(
+
+I
+
+M
+h
+t
+i
+w
+s
+t
+n
+e
+i
+t
+a
+P
+
+)
+0
+3
+
+=
+n
+(
+
+l
+
+o
+r
+t
+n
+o
+C
+
+l
+
+s
+e
+b
+a
+i
+r
+a
+V
+
+t
+n
+e
+m
+p
+o
+e
+v
+e
+d
+
+l
+
+I
+
+M
+e
+h
+t
+
+f
+
+o
+
+s
+y
+a
+d
+
+2
+1
+
+d
+n
+a
+
+1
+
+t
+a
+
+e
+d
+i
+t
+p
+e
+p
+-
+C
+d
+n
+a
+
+,
+
+n
+
+i
+l
+
+u
+s
+n
+
+i
+
+,
+
+e
+s
+o
+c
+u
+l
+g
+
+f
+
+o
+
+s
+l
+e
+v
+e
+
+l
+
+l
+a
+i
+d
+n
+a
+r
+p
+t
+s
+o
+p
+
+d
+n
+a
+
+l
+a
+s
+a
+B
+3
+
+l
+
+e
+b
+a
+T
+
+,
+
+.
+
+&
+*
+)
+5
+9
+1
+1
+5
+8
+7
+(
+
+;
+
+.
+
+,
+
+.
+
+&
+*
+)
+2
+1
+4
+4
+9
+1
+3
+(
+
+;
+
+.
+
+5
+0
+1
+1
+
+.
+
+1
+2
+7
+3
+
+.
+
+.
+
+)
+5
+3
+1
+1
+0
+2
+7
+(
+
+;
+
+.
+
+0
+2
+9
+
+.
+
+.
+
+*
+)
+0
+5
+2
+1
+0
+6
+7
+(
+
+;
+
+.
+
+0
+0
+9
+
+.
+
+,
+
+.
+
+#
+*
+)
+0
+8
+6
+0
+9
+4
+(
+
+;
+
+.
+
+0
+0
+6
+
+.
+
+.
+
+#
+)
+0
+4
+7
+0
+5
+5
+(
+
+;
+
+.
+
+0
+3
+6
+
+.
+
+,
+
+.
+
+#
+*
+)
+5
+3
+8
+0
+5
+5
+(
+
+;
+
+.
+
+0
+5
+6
+
+.
+
+.
+
+;
+
+)
+1
+5
+7
+8
+3
+(
+
+.
+
+.
+
+;
+
+)
+3
+0
+2
+6
+0
+1
+(
+
+.
+
+0
+2
+5
+1
+
+.
+
+.
+
+)
+8
+6
+9
+1
+6
+2
+6
+(
+
+;
+
+.
+
+7
+7
+4
+1
+
+.
+
+,
+
+.
+
+&
+*
+)
+9
+8
+3
+7
+1
+3
+(
+
+;
+
+.
+
+0
+9
+5
+3
+
+.
+
+.
+
+)
+4
+9
+1
+4
+1
+1
+(
+
+;
+
+.
+
+6
+7
+5
+1
+
+.
+
+.
+
+)
+0
+2
+9
+1
+8
+4
+6
+(
+
+;
+
+.
+
+8
+1
+4
+1
+
+.
+
+.
+
+)
+4
+3
+2
+6
+8
+7
+(
+
+;
+
+.
+
+,
+
+.
+
+&
+*
+)
+4
+6
+2
+8
+1
+(
+
+;
+
+.
+
+7
+8
+3
+
+.
+
+.
+
+;
+
+)
+9
+2
+2
+6
+8
+0
+(
+
+.
+
+5
+7
+1
+
+.
+
+.
+
+;
+
+)
+5
+5
+1
+2
+8
+0
+(
+
+.
+
+1
+0
+1
+
+.
+
+,
+
+,
+
+.
+
+#
+&
+*
+)
+7
+8
+3
+4
+0
+1
+(
+
+;
+
+.
+
+3
+4
+2
+
+.
+
+.
+
+)
+6
+7
+1
+7
+5
+0
+(
+
+;
+
+.
+
+0
+0
+1
+
+.
+
+.
+
+)
+3
+7
+1
+7
+5
+0
+(
+
+;
+
+.
+
+3
+0
+1
+
+.
+
+.
+
+;
+
+)
+1
+2
+5
+7
+0
+(
+
+.
+
+0
+4
+4
+
+.
+
+.
+
+1
+1
+2
+
+8
+7
+1
+
+.
+
+.
+
+)
+5
+8
+1
+7
+8
+(
+
+;
+
+.
+
+.
+
+5
+2
+1
+
+/
+
+L
+m
+U
+m
+
+,
+
+n
+
+i
+l
+
+u
+s
+n
+I
+
+.
+
+)
+7
+8
+1
+3
+7
+0
+(
+
+;
+
+.
+
+2
+1
+
+.
+
+l
+m
+/
+g
+n
+
+,
+
+e
+d
+i
+t
+p
+e
+p
+-
+C
+
+.
+
+)
+5
+5
+8
+3
+(
+
+;
+
+.
+
+0
+5
+
+.
+
+L
+/
+l
+o
+m
+m
+
+,
+
+e
+s
+o
+c
+u
+G
+
+l
+
+d
+n
+a
+
+,
+
+n
+
+i
+l
+
+u
+s
+n
+
+i
+
+,
+
+e
+s
+o
+c
+u
+l
+g
+
+f
+
+o
+
+s
+l
+e
+v
+e
+
+l
+
+l
+a
+i
+d
+n
+a
+r
+p
+t
+s
+o
+p
+
+n
+
+i
+
+d
+n
+a
+
+l
+a
+s
+a
+b
+
+s
+e
+c
+n
+e
+r
+e
+f
+f
+i
+
+d
+
+l
+
+e
+b
+a
+i
+l
+
+e
+r
+&
+
+;
+
+.
+
+5
+0
+0
+,
+P
+
+,
+s
+u
+t
+i
+l
+l
+
+e
+m
+
+s
+e
+t
+e
+b
+a
+i
+d
+
+2
+
+e
+p
+y
+t
+
+t
+u
+o
+h
+t
+i
+
+w
+d
+n
+a
+
+s
+e
+t
+e
+b
+a
+i
+d
+
+2
+
+e
+p
+y
+t
+
+h
+t
+i
+
+w
+
+I
+
+M
+h
+t
+i
+
+w
+s
+t
+n
+e
+i
+t
+a
+p
+
+g
+n
+o
+m
+a
+
+s
+e
+c
+n
+e
+r
+e
+f
+f
+i
+
+d
+
+l
+
+e
+b
+a
+i
+l
+
+e
+r
+#
+
+;
+
+.
+
+5
+0
+0
+,
+P
+
+,
+l
+
+o
+r
+t
+n
+o
+c
+
+h
+t
+i
+
+w
+d
+e
+r
+a
+p
+m
+o
+C
+*
+
+:
+s
+e
+t
+o
+N
+
+.
+
+.
+
+5
+0
+0
+,
+P
+
+,
+
+e
+d
+i
+t
+p
+e
+p
+-
+C
+
+Results
+The  diabetic  and  nondiabetic  MI  patients  were  found  to 
+have a 1.5-fold and 1.9-fold increase (respectively) in blood 
+glucose  levels  at  day  1  compared  to  those  in  the  control 
+group  (Table  3). The  increase  in  basal  glucose  levels  was 
+still present at day 12 in both patient groups, but was more 
+pronounced  in  the  diabetic  patients.  Postprandial  glucose 
+concentrations were 2.6-fold increased in the individuals with 
+MI and T2DM at day 12, while in the nondiabetic patients 
+postprandial glucose levels decreased compared to the basal 
+levels but did not reach those in the controls.
+
+Unlike glucose concentrations, fasting serum insulin and 
+C-peptide levels had a tendency towards increasing in both 
+groups at days 1 and 12 after MI onset, but did not differ from 
+those in the controls (Table 3). The change in postprandial 
+levels of those parameters at day 12 was more significant. 
+Indeed,  postprandial  insulin  concentrations  both  in  the 
+diabetic and nondiabetic MI patients crept up in an almost 
+similar way compared to the control and basal levels.
+
+Despite the fact that the changes in glucose metabolism 
+were less pronounced in the nondiabetic MI patients, the inte-
+gral QUICKI of IR in both groups significantly differed from 
+that in the controls. In the controls, the QUICKI value was 
+0.38 ± 0.01 and corresponded to the normal tissue sensitiv-
+ity to insulin. In the group of nondiabetic patients, QUICKI 
+values were 0.316 ± 0.005 and 0.319 ± 0.005 at days 1 and 
+12, respectively, which were regarded as borderline values 
+between  severe  and  moderate  IR.  In  diabetic  MI  patients, 
+QUICKI values were 0.296 ± 0.009 and 0.300 ± 0.005, which 
+according to Katz et al corresponded to severe IR.14
+
+Analysis of FFA concentration changes in MI patients 
+showed significant differences compared to the controls both 
+at day 1 and at day 12 of the disease (Table 4). At day 1, FFA 
+concentrations in both diabetic and nondiabetic MI patients 
+were seven- and elevenfold higher than those in the controls, 
+respectively. By day 12, the levels had decreased, but were 
+still three- and 4.7-fold higher than those in the controls; thus, 
+in patients with such comorbidity, these changes were more 
+pronounced during the entire follow-up period.
+
+PAI-1 concentrations were found to be increased in both 
+groups, but at the same time at day 1 the diabetic MI patients 
+had  a  4.6-fold  increase  in  PAI-1  levels  compared  to  the 
+ controls (Table 4). These values were, on average, twofold 
+higher than those in the nondiabetic patients. At day 12 from 
+MI onset, PAI-1 concentrations significantly decreased in both 
+groups; however, they did not reach the control levels.
+
+Measurement of the key inflammation markers showed 
+that  at  day  1,  the  whole  study  population  had  3.6-  and 
+
+.
+
+n
+o
+i
+t
+c
+r
+a
+f
+n
+
+i
+
+l
+a
+i
+d
+r
+a
+c
+o
+m
+
+i
+
+,
+I
+
+M
+
+:
+
+n
+o
+i
+t
+a
+i
+v
+e
+r
+b
+b
+A
+
+86
+
+submit your manuscript | www.dovepress.com
+
+Dovepress 
+
+Journal of Inflammation Research 2013:6
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dovepress
+
+Insulin resistance and inflammation markers in MI
+
+Table 4 Basal level of free fatty acids and type 1 plasminogen activator inhibitor, respectively at 1 and 12 days of the MI development
+
+Variables
+
+Control (n = 30)
+
+Patients with MI (n = 95)
+
+Patients with MI and type 2 diabetes  
+mellitus (n = 60)
+
+1-st day
+
+12-th day
+
+1-st day
+
+12-th day
+
+FFA, mmol/L
+PAI, pg/mL
+
+0.20 (0.15;0.22)
+35.35 (34.1;37.1)
+
+1.38 (1.32;1.41)*#
+86.1 (84.3;89.1)*#
+
+0.61 (0.59;0.68)**#
+70.21 (65.8;76.3)**#
+
+2.20 (2.0;2.32)*
+160.6 (149.3;178.3)*
+
+0.90 (0.86;0.95)**
+103.3 (96.5;114.3)**
+
+Notes: *compared with control, (P , 0.05); **reliable differences in indicators 1-st and 12-th day, (P , 0.05); #reliable differences among patients with MI with type 2 diabetes 
+and without type 2 diabetes mellitus, (P , 0.05).
+Abbreviations: FFA, free fatty acids; PAI, plasminogen activator inhibitor 1; MI, miocardial infarction.
+
+19-fold increased IL-6 and CRP concentrations, respectively 
+(Table 5). At the same time, the diabetic patients had more 
+pronounced changes in the levels of inflammation markers: 
+IL-6  and  CRP  concentrations  were  5.3-fold  and  26-fold 
+higher,  respectively  (Table  3). At  day  12,  IL-6  and  CRP 
+concentrations had decreased in both groups, but were still 
+on average 2.4-fold (IL-6) and 12.5-fold (CRP) higher than 
+those in the controls, the diabetic MI patients having higher 
+IL-6 and CRP levels during the entire follow-up period.
+
+Correlation  analysis  demonstrated  the  correlations 
+between CRP and FFA concentrations (R = 0.53, P = 0.04 for 
+the  nondiabetic patients; R = 0.41, P = 0.03 for the diabetic 
+patients) (Figure 1); CRP levels and CK MB activity (R = 0.42, 
+P = 0.03 for the nondiabetic patients; R = 0.38, P = 0.027 for 
+the diabetic patients). The diabetic MI patients had a positive 
+correlation between CRP and PAI-1 concentrations (R = 0.5, 
+P = 0.0027) and a negative one with QUICKI (R = –0.33, 
+P  =  0.039). A  correlation  between  basal  glucose  and  IL-6 
+levels  (R  =  0.48,  P  =  0.031  for  the  nondiabetic  patients; 
+R = 0.51, P = 0.023 for the diabetic patients) (Figure 2) and 
+correlations  between  CRP  and  postprandial  glucose  levels 
+were found (R = 0.48, P = 0.045 for the nondiabetic patients; 
+R = 0.51, P = 0.041 for the diabetic patients) (Figure 3).
+
+In both groups, there were positive correlations between 
+IL-6 and FFA concentrations (R = 0.12, P = 0.01; R = 0.49, 
+P  =  0.005),  IL-6  and  PAI-1  concentrations  (R  =  0.47, 
+P = 0.04; R = 0.54, P = 0.03) (Figure 4), IL-6 levels and CK 
+MB activity (R = 0.38, P = 0.01; R = 0.56, P = 0.001) (Fig-
+ure 5), and CRP concentrations and IL-6 levels (R = 0.29, 
+P = 0.04; R = 0.38, P = 0.03) (Figure 6).
+
+Discussion
+According to the contemporary understanding, IR has been 
+traditionally regarded as the key stage of T2DM  pathogenesis 
+as  well  as  a  risk  factor  for  atherosclerosis  and  MI.15 The 
+ well-established  IR  markers  are  glucose,  insulin,  and 
+C- peptide  concentrations;  however,  according  to  medical 
+literature, postprandial insulin and C-peptide levels are more 
+informative than basal (fasting) ones, particularly when there 
+are no obvious IR signs.16 This study shows that IR develops 
+in MI patients, which is reflected by basal and postprandial 
+hyperglycemia both in the acute and early recovery phases irre-
+spective of T2DM presence. Indeed, the study demonstrated 
+that both diabetic and nondiabetic patients had significantly 
+increased glucose levels, while basal insulin concentrations 
+did not differ significantly; however, there was a significant 
+1.7-fold increase in postprandial insulin levels compared to 
+those in the control groups, and the medical literature confirms 
+that this parameter is a marker of IR. IR was also confirmed 
+by lower QUICKI values. Diabetic MI patients had severe IR, 
+and those without T2DM had moderate IR.
+
+Among  other  IR  factors  in  MI,  such  proinflammatory 
+cytokines and acute-phase proteins as IL-6 and CRP have been 
+extensively studied in the medical literature.3 Recent research 
+has shown that IL-6 has autocrine and paracrine properties 
+along with its proinflammatory and cardiodepressive effects, 
+and might be involved in IR development in MI patients.17 
+A large prospective trial in 7735 nondiabetic males with no 
+prediabetic conditions, conducted in the UK between 1978 and 
+2005, showed a strong association between higher IL-6 levels 
+and a risk of T2DM, irrespective of age and obesity.18
+
+Table 5 Contents of interleukin 6, C-reactive protein in patients with myocardial infarction on the 1st and 12th day of hospitalization
+
+Variables
+
+Control (n = 30)
+
+Patients with MI (n = 95)
+
+Patients with MI and type 2 diabetes 
+mellitus (n = 60)
+
+1-st day
+
+12-th day
+
+1-st day
+
+12-th day
+
+Interleukin-6, pg/ml
+C-reactive protein, mg/l
+
+3.7 (2.8;4.1)
+1.15 (0.86;2.1)
+
+16.25 (10.17;24.80)*
+20.47 (9.59;45.85)*
+
+9.60 (3.01;14.22)**
+12.99 (9.89;14.9)**
+
+19.43 (12.45;25.50)*#
+29.86 (27.3;31.9)*#
+
+9.94 (7.60;14.60)**#
+15.71 (12.3;17.3)**
+
+Notes: *compared with control, (P , 0.05); **reliable differences in indicators 1-st and 12-th day, (P , 0.05); #reliable differences among patients with MI with type 2 diabetes 
+and without type 2 diabetes mellitus, (P , 0.05).
+Abbreviation: MI, miocardial infarction.
+
+Journal of Inflammation Research 2013:6
+
+submit your manuscript | www.dovepress.com
+
+Dovepress 
+
+87
+
+Gruzdeva et al
+
+Dovepress
+
+FFA = 1.3336 + 0.083*x
+
+Postprandial glucose = 9.9248 + 0.0015*x
+
+L
+
+/
+l
+
+o
+m
+m
+
+,
+
+A
+F
+F
+
+4
+
+5
+.
+3
+
+3
+
+5
+.
+2
+
+2
+
+5
+.
+1
+
+1
+
+5
+.
+0
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+CRP, mg/L
+
+0
+.
+9
+
+0
+.
+8
+
+0
+.
+7
+
+0
+.
+6
+
+0
+.
+5
+
+0
+.
+4
+
+0
+.
+3
+
+0
+.
+2
+
+0
+.
+1
+
+r
+e
+t
+i
+l
+/
+l
+
+o
+m
+m
+
+,
+e
+s
+o
+c
+u
+g
+
+l
+
+l
+a
+i
+d
+n
+a
+r
+p
+t
+s
+o
+P
+
+Figure  1  Correlation  between  C-reactive  protein  (CRP)  levels  and  free  fatty 
+acids (FFA).
+
+CRP, mg/liter
+
+0
+
+2.5
+
+5
+
+7.5
+
+10
+
+12.5
+
+15
+
+17.5
+
+20
+
+22.5
+
+Some  authors  suggest  that  molecular  mechanisms 
+of  mediated  IL-6  resistance  to  insulin  might  include  the 
+ activation of proinflammatory serine/threonine stress kinases, 
+protein  suppressors  of  cytokine  signaling,  and  protein 
+tyrosine phosphatases acting as physiologic negative regula-
+tors of insulin.2
+
+IL-6 was also shown to increase FFA levels in the blood 
+of male volunteers, which could induce resistance to periph-
+eral tissue insulin. IL-6 is supposed to inhibit the activity of 
+lipoprotein lipase in adipocytes, and on the contrary activate 
+cyclic  adenosine  monophosphate-dependent  hormone-
+ sensitive lipase in hepatocytes, which contributes to impaired 
+circulating lipoprotein metabolism and FFA buildup inducing 
+insulin-receptor dysfunction and IR development.15,19
+
+The results of this study demonstrate higher IL-6 and FFA 
+levels in the acute phase of MI and their further decrease in 
+the early recovery period. Additionally, at day 1, the diabetic 
+MI patients had the highest IL-6 and FFA concentrations, 
+which could have been associated with profound metabolic 
+changes  due  to  more  pronounced  IR  in  this  category  of 
+
+Basal glucose = 9.2253 + 0.1165*x
+
+0
+.
+9
+
+0
+.
+8
+
+0
+.
+7
+
+0
+.
+6
+
+0
+.
+5
+
+0
+.
+4
+
+0
+.
+3
+
+0
+.
+2
+
+0
+.
+1
+
+r
+e
+t
+i
+l
+/
+l
+
+o
+m
+m
+
+,
+
+e
+s
+o
+c
+u
+g
+
+l
+
+l
+
+a
+s
+a
+B
+
+Figure  3  Correlation  between  C-reactive  protein  (CRP)  levels  and  postprandial 
+levels of glucose.
+
+patients. The increased production of inflammation mediators 
+seems to contribute to lipolysis activation accompanied by 
+excess FFA release into the blood flow. The observed  positive 
+correlation  between  IL-6  and  FFA  levels  confirms  this 
+ suggestion. Reaching the liver, FFA on one hand becomes a 
+substrate for triglyceride and atherogenic lipoprotein produc-
+tion, and on the other hand causes the buildup of other lipid 
+metabolites (ceramides, diacylglycerides), inducing impaired 
+insulin signaling and thereby contributing to IR development 
+to a much greater extent.16
+
+According to reports of other authors, IL-6 is produced 
+by different immune-system and adipose-tissue cells, as well 
+as  endothelial  and  epithelial  cells.18  Experimental  studies 
+showed that in MI, the main source of this cytokine is cardio-
+myocytes, activated macrophages, and T-lymphocytes being 
+attracted  to  the  ischemic  region  of  necrosis.20   Obviously, 
+the increase in IL-6 concentrations demonstrates not only 
+higher  cytokine  production  in  the  cells  involved  in  MI 
+
+PAI-1 = 110.0553 + 2.4113*x
+
+0
+2
+2
+
+0
+0
+2
+
+0
+8
+1
+
+0
+6
+1
+
+0
+4
+1
+
+0
+2
+1
+
+0
+0
+1
+
+0
+8
+
+0
+6
+
+0
+4
+
+/
+
+L
+m
+g
+p
+1
+-
+I
+
+,
+
+A
+P
+
+0
+
+2.5
+
+5
+
+7.5
+
+10
+
+12.5
+
+15
+
+17.5
+
+20
+
+22.5
+
+IL-6, pg/mL
+
+0
+
+5
+
+10
+
+15
+
+25
+20
+30
+IL-6, pg/mL
+
+35
+
+40
+
+45
+
+50
+
+Figure 2 Correlation between basal levels of glucose and interleukin (Il)-6.
+
+Figure  4  Correlation  between  plasminogen-activator  inhibitor  (PaI)-1  and 
+interleukin (Il)-6.
+
+88
+
+submit your manuscript | www.dovepress.com
+
+Dovepress 
+
+Journal of Inflammation Research 2013:6
+
+ 
+ 
+ 
+ 
+ 
+Dovepress
+
+Insulin resistance and inflammation markers in MI
+
+B
+M
+K
+C
+
+-
+
+0
+0
+9
+0
+0
+8
+
+0
+0
+7
+0
+0
+6
+
+0
+0
+5
+
+0
+0
+4
+0
+0
+3
+
+0
+0
+2
+0
+0
+1
+
+0
+
+0
+0
+1
+0−
+
+CK-MB = −25.723 + 12.3068
+
+5
+
+10
+
+15
+
+20
+IL-6, pg/mL
+
+25
+
+30
+
+35
+
+40
+
+Figure  5  Correlation  between  interleukin  (Il)-6  levels  and  creatine  kinase  (CK) 
+MB activity.
+
+pathogenesis but also reflects the activity of inflammation 
+in the affected myocardium. The results of the correlation 
+analysis, which showed positive correlations between IL-6 
+and cardiospecific markers of myocardial necrosis, support 
+this hypothesis.
+
+IL-6 has recently been established to be capable of stimu-
+lating PAI-1 in vitro generation in different cells; PAI-1 is not 
+only the key component of the fibrinolytic system but also an 
+IR marker.11 PAI-1 has recently been found to block insulin 
+signaling in adipocytes, and at the same time the exposition 
+of  high  insulin-content  adipocytes  was  accompanied  by 
+increased PAI-1 concentrations in these cells. In this study, 
+we found higher PAI-1 concentrations in both patient groups, 
+and T2DM presence determined higher concentrations of this 
+marker in the acute MI phase.
+
+Meanwhile,  in  the  early  recovery  phase,  both  patient 
+groups had lower PAI-1 concentrations, which demonstrated 
+fibrinolytic activity normalization due to the treatment. The 
+correlation analysis showed a positive correlation between 
+IL-6 and PAI-1 concentrations in MI patients, which con-
+firmed the IL-6-inducing impact on the production of this 
+
+CRP = 7.9360 + 0.1234*x
+
+0
+.
+5
+3
+
+0
+.
+0
+3
+
+0
+.
+5
+2
+
+0
+.
+0
+2
+
+0
+.
+5
+1
+
+0
+.
+0
+1
+
+0
+.
+5
+
+L
+m
+g
+m
+
+/
+
+,
+
+P
+R
+C
+
+0
+
+2.5
+
+5
+
+7.5
+
+10
+
+12.5
+
+15
+
+17.5
+
+20
+
+22.5
+
+IL-6, pg/mL
+
+Figure 6 Correlation between C-reactive protein (CRP) levels and interleukin (Il)-6.
+
+protein.  Obviously,  in  MI,  excess  PAI-1  not  only  leads  to 
+slower  fibrinolysis,  buildup  of  fibrin,  and  its  degradation 
+products and thereby to microvascular thromboses but is also 
+involved in IR development, which amplifies prothrombotic 
+status.3
+
+Along with activated cytokine production, cardiomyocyte 
+ischemia and necrosis are accompanied by the production 
+of acute-phase proteins, primarily CRP, which is involved 
+in the responses aimed at localizing the affected region and 
+myocardial remodeling initiation.16 CRP levels are known 
+to increase significantly already 6–8 hours after myocardial 
+tissue injury, reach their peak within 24–48 hours, and then 
+decrease with a circulation half-time of 6 hours.17 This study 
+shows higher CRP concentrations in both patient groups in 
+the acute and early recovery phases. The presence of T2DM 
+determined the highest protein concentrations in MI patients 
+during the entire follow-up period, which might be associ-
+ated with higher IL-6 concentrations in this patient category. 
+Previous research has established IL-6 to be the most signifi-
+cant inducer of CRP production. At the same time, experi-
+mental studies showed that CRP was capable of inducing 
+IR. According to Pravenec et al, transgenic rats expressing 
+human CRP in high concentrations had metabolic disorders 
+(hyperinsulinemia, hyperglycemia, and glycogen-production 
+impairment stimulated by insulin in the skeletal muscles), 
+which are intrinsic to IR syndrome.21 D’Alessandris et al 
+established that CRP induces serine phosphorylation in the 
+insulin-receptor  domain,  which  impairs  the  ability  of  the 
+latter to activate phosphatidylinositol 3-kinase and leads to 
+IR development in rat myocytes.22 Meanwhile, we discovered 
+positive correlations between CRP levels and the activity 
+of CK MB fraction. The observed correlative associations 
+between CRP and metabolic IR markers demonstrate that 
+IL-6  is  not  only  the  key  inflammation  mediator  but  also 
+plays an active role in FFA and glucose metabolism, and 
+fibrinolytic system protein production and secretion, which 
+can be involved in pathogenetic events associated with IR 
+in MI.
+
+Conclusion
+The results of this study demonstrate that MI as well as acti-
+vated inflammation is accompanied by IR development. The 
+most informative indicators of impaired sensitivity to insulin 
+in MI are increases in FFA and PAI-1 levels compared to 
+postprandial glycemia and insulinemia. The observed strong 
+associations  between  IL-6,  CRP,  basal  and  postprandial 
+glycemia, and insulinemia, as well as FFA and PAI-1 levels 
+evidence the involvement of nonspecific inflammation factors 
+
+Journal of Inflammation Research 2013:6
+
+submit your manuscript | www.dovepress.com
+
+Dovepress 
+
+89
+
+ 
+Gruzdeva et al
+
+Dovepress
+
+in IR development and the amplification of prothrombogenic 
+potential in MI patients.
+
+In turn, the presence of preexisting IR determines higher 
+thrombogenic status and increases the risk of not only pri-
+mary but also recurrent cardiovascular events. The observed 
+consistent patterns can lead to new treatment strategies to 
+prevent T2DM in MI patients and improve quality of life.
+
+Acknowledgment
+The authors wish to thank Anna Bashkireva for her assistance 
+in writing this article.
+
+Disclosure
+The authors report no conflicts of interest in this work.
+
+References
+1.  Pickup J. Inflammation and activated innate immunity in the  pathogenesis 
+
+of type 2 diabetes. Diabetes Care. 2004;27:813–823.
+
+2.  Yu  Q,  Gao  F,  Ma  XL.  Insulin  says  NO  to  cardiovascular  disease. 
+
+ Cardiovasc Res. 2011;89:516–524.
+
+3.  Fernández JM, Rilcart W. Insulin resistance and chronic cardiovascular 
+
+inflammatory syndrome. Endocr Rev. 2003;24:278–301.
+
+4.  Smit JW, Romijn JA. Acute insulin resistance in myocardial ischemia: 
+causes  and  consequences.  Semin  Cardiothorac Vasc Anesth.  2006;10: 
+215–219.
+
+5.  Antoinette M, Steffen L, Jacobs D,et al. Relation of C-reactive protein 
+to insulin resistance and cardiovascular risk factors in youth. Diabetes 
+Care. 2005;28:1763–1768.
+
+6.  Barrett TD, Hennan JK, Marks RM, Lucchesi BR. C-reactive-protein-
+associated increase in myocardial infarct size after ischemia/reperfusion. 
+J Pharmacol Exp Ther. 2002;303:1007–1013.
+
+7.  Fernandez-Real JM, Vayreda M, Richart C, et al. Circulating interleukin 
+6 levels, blood pressure, and insulin sensitivity in apparently healthy men 
+and women. J Clin Endocrinol Metab. 2001;86:1154–1159.
+
+8.  Geiger PC, Hancock C, Wright DC, Han DH, Holloszy JO. IL-6 increases 
+muscle insulin sensitivity only at superphysiological levels. Am J Physiol 
+Endocrinol Metab. 2007;292:1842–1846.
+
+  9.  Frangogiannis NG, Smith CW, Entman ML. The inflammatory response 
+
+in myocardial infarction. Cardiovasc Res. 2002;53:31–47.
+
+ 10.  Collet JP, Montalescot G, Vicaut E, et al. Acute release of plasminogen 
+activator  inhibitor-1  in  ST-segment  elevation  myocardial  infarction 
+predicts mortality. Circulation. 2003;108:391–394.
+
+ 11.  Alessi  MC,  Juhan-Vague  I.  PAI-1  and  the  metabolic  syndrome. 
+
+ Arterioscler Thromb Vasc Biol. 2006;26:2200–2207.
+
+ 12.  Juhan-Vague I, Morange PE, Frere C, et al. The plasminogen activa-
+tor inhibitor-1 -675 4G/5G genotype influences the risk of myocardial 
+infarction associated with elevated plasma proinsulin/insulin levels in 
+men from Europe: the HIFMECH study. J Thromb Haemost. 2003;1: 
+2322–2329.
+
+ 13.  Kryzhanovsky VA. Diagnosis and treatment of myocardial infarction. 
+
+K.: Phoenix; 2001. 
+
+ 14.  Katz A,  Nambi  SS,  Mather  K,  et  al.  Quantitative  insulin  sensitivity 
+check index: a simple, accurate method for assessing insulin sensitivity 
+in humans. J Clin Endocrinol Metab. 2000;85:2402–2410.
+
+ 15.  Leclercq IA, Da Silva Morais A, Schroyen B, Van Hul N, Geerts A. 
+Insulin resistance in hepatocytes and sinusoidal liver cells: mechanisms 
+and consequences. J Hepatol. 2007;47:142–156.
+
+ 16.  Cefalu WT. Insulin resistance: cellular and clinical concepts. Exp Biol 
+
+Med (Maywood). 2001;226:13–26.
+
+ 17.  Papanicolaou DA, Vgontzas AN. Interleukin-6: the endocrine cytokine. 
+
+J Clin Endocrinol Metab. 2000;85:1331–1333.
+
+ 18.  Nieto-Vazquez I, Fernández-Veledo S, de Alvaro C, Lorenzo M. Dual 
+role of interleukin-6 in regulating insulin sensitivity in murine skeletal 
+muscle. Diabetes. 2008;57:3211–3221.
+
+ 19.  Opie LH, Knuuti J. The adrenergic-fatty acid load in heat failure. J Am 
+
+Coll Cardiol. 2009;54:1637–1646.
+
+ 20.  Gwechenberger M, Mendoza LH, Youker KA, et al. Cardiac myocytes 
+produce interleukin-6 in culture and in viable border zone of reperfused 
+infarctions circulation. Circulation. 1999;99:546–551.
+
+ 21.  Pravenec M, Kajiya T, Zídek V, et al. Effects of human C-reactive protein 
+on pathogenesis of features of the metabolic syndrome.  Hypertension. 
+2011;57:731–737.
+
+ 22.  D’Alessandris C, Lauro R, Presta I, Sesti G. C-reactive protein induces 
+phosphorylation of insulin receptor substrate-1 on Ser307 and Ser612 in 
+L6  myocytes,  thereby  impairing  the  insulin  signalling  pathway  that 
+promotes glucose transport. Diabetologia. 2007;50:840–849.
+
+Journal of Inflammation Research
+
+Publish your work in this journal
+The Journal of Inflammation Research is an international, peer-reviewed 
+open-access journal that welcomes laboratory and clinical findings on the 
+molecular basis, cell biology and pharmacology of inflammation including 
+original research, reviews, symposium reports, hypothesis formation and 
+commentaries on: acute/chronic inflammation; mediators of inflamma-
+
+Dovepress
+
+tion; cellular processes; molecular mechanisms; pharmacology and novel 
+anti-inflammatory  drugs;  clinical  conditions  involving  inflammation. 
+The manuscript management system is completely online and includes a 
+very quick and fair peer-review system. Visit http://www.dovepress.com/ 
+testimonials.php to read real quotes from published authors.
+
+Submit your manuscript here: http://www.dovepress.com/journal-of-inflammation-research-journal
+
+90
+
+submit your manuscript | www.dovepress.com
+
+Dovepress 
+
+Journal of Inflammation Research 2013:6
+
+
