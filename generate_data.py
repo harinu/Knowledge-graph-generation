@@ -4,6 +4,7 @@ import pandas as pd
 from helper import Helper
 from model import GeneratorModel
 from docutils import Document
+from kgopenai import KGOpenai
 
 
 class GenerateData:
@@ -12,16 +13,13 @@ class GenerateData:
         helper.clear_log_file()
         self.log = helper.get_logger()
 
-        self.model = GeneratorModel()
+        # self.model = GeneratorModel()
+        self.model = KGOpenai()
         self.doc = Document()
     
 
-    def save_to_dataframe(self, data_list, existing_df=None):
+    def save_to_dataframe(self, data_list, df, base_name):
         try:
-            if existing_df is None:
-                df = pd.DataFrame(columns=['id', 'input', 'output'])
-            else:
-                df = existing_df
             n = len(df)
 
             rows = []
@@ -32,7 +30,7 @@ class GenerateData:
             new_rows = pd.DataFrame(rows)
             self.log.info(f"New Rows: {new_rows}")
             df = pd.concat([df, new_rows], ignore_index=True)
-            df.to_csv('data.csv', index=False)
+            df.to_csv(f'output_data/{base_name}.csv', index=False)
             self.log.info("Successfully saved to dataframe!")
             return True
         except Exception as e:
@@ -54,26 +52,24 @@ class GenerateData:
         return samples 
         
 
-    def generate_predictions(self, text, whatfor = 'process'):
+    def generate_predictions(self, text, base_name, whatfor = 'process'):
         try:
             if len(text.split()) > 4000:
                 chunks = self.doc.chunk_documents(text)
                 processed_output = []
+                n = len(chunks)
                 for i, chunk in enumerate(chunks):
-                    df = self.get_dataframe()
-                    n = len(chunks)
+                    df = self.get_dataframe(base_name)
                     self.log.info(f"Processing chunks {i+1}/{n}")
-                    chunk_claude = self.model.model_prediction(chunk.page_content, whatfor)
-                    self.log.info(f"Prediction: {chunk_claude}")
+                    chunk_claude = self.model.model_prediction(chunk, whatfor)
                     processed_output = self.post_process_data(chunk_claude)
-                    self.log.info(f"Processed Output: {processed_output}")
-                    self.save_to_dataframe(processed_output, df)
+                    self.save_to_dataframe(processed_output, df, base_name)
             else:
                 df = self.get_dataframe()
                 self.log.info(f"Processing text")
                 claude = self.model.model_prediction(text, whatfor)
                 processed_output = self.post_process_data(claude)
-                self.save_to_dataframe(processed_output, df)
+                self.save_to_dataframe(processed_output, df, base_name)
 
             return True
         
@@ -90,17 +86,21 @@ class GenerateData:
             data = f.read()
         return data
     
-    def get_dataframe(self):
-        return pd.read_csv('data.csv')
+    def get_dataframe(self, base_name):
+        if os.path.exists(f'output_data/{base_name}.csv'):
+            return pd.read_csv(f'output_data/{base_name}.csv')
+        else:
+            return pd.DataFrame(columns=['id', 'input', 'output'])
 
     def generate_training_data(self, directory):
         for i, file in enumerate(self.get_txt_files(directory)):
-            if file not in ['10.txt', '9.txt']:
+            base_name = file.split('.')[0]
+            print(base_name)
+            if base_name == '10':
                 continue
-            print(file)
             data = self.read_data(f"{directory}/{file}")
             self.log.info(f"Processing File: {i+1}")
-            was_success = self.generate_predictions(data, whatfor = 'process')
+            was_success = self.generate_predictions(data, base_name, whatfor = 'process')
             if was_success:
                 self.log.info(f"Successfully generated training data for file {i}!")
             else:
