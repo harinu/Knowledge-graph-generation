@@ -2,3 +2,8 @@ anthropic
 langchain
 pandas
 llama-index
+bitsandbytes
+transformers
+peft
+accelerate
+torch
